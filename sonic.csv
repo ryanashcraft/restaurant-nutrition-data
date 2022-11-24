@@ -1,0 +1,513 @@
+Name,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Sugars (g),Protein (g)
+Hatch Green Chile Cheeseburger,590,28,10,1,85,1070,53,3,11,30
+Jr. Burger,330,16,4.5,0.5,35,610,32,2,5,15
+Quarter Pound Double Cheeseburger,570,34,14,1,105,1370,34,2,6,31
+Sonic Bacon Cheeseburger With Mayo,770,46,14,1,105,1340,53,3,11,36
+Sonic Burger With Ketchup,540,22,7,1,65,910,57,3,14,27
+Sonic Burger With Mayo,620,34,9,1,70,850,53,3,11,27
+Sonic Burger With Mustard,520,23,7,1,65,860,53,3,11,27
+"Sonic Burger With Mustard, Ketchup & Mayo",640,34,9,1,70,1070,57,3,14,27
+Sonic Cheeseburger With Ketchup,600,28,10,1,85,1240,58,3,14,30
+Sonic Cheeseburger With Mayo,680,39,12,1,85,1180,54,3,11,30
+Sonic Cheeseburger With Mustard,590,28,10,1,85,1190,54,3,11,31
+"Sonic Cheeseburger With Mustard, Ketchup & Mayo",710,39,12,1,85,1400,58,3,15,31
+Supersonic Bacon Double Cheeseburger With Mayo,1030,65,23,2,190,1880,54,3,12,58
+Supersonic Double Cheeseburger With Ketchup,870,48,19,1.5,165,1780,59,3,15,52
+Supersonic Double Cheeseburger With Mayo,960,59,21,2,170,1720,55,3,12,52
+Supersonic Double Cheeseburger With Mustard,860,48,19,1.5,165,1730,55,3,12,52
+"Supersonic Double Cheeseburger With Mustard, Ketchup & Mayo",970,59,21,2,170,1940,59,3,15,52
+Supersonic Jalapeño Double Cheeseburger With Mustard,850,48,19,1.5,165,1740,54,2,12,52
+Veggie Burger With Ketchup,440,11,2.5,0,5,1800,73,7,14,14
+Veggie Burger With Mayo,530,22,4,0,10,1750,69,7,11,14
+Veggie Burger With Mustard,430,11,2.5,0,5,1760,69,7,10,14
+"Veggie Burger With Mustard, Ketchup & Mayo",550,23,4,0,10,1960,73,7,14,14
+American Cheese,70,6,3,0,20,330,1,0,0,4
+Avocado,35,3,0.5,0,0,20,2,1,0,0
+Crispy Bacon,80,7,2.5,0,20,290,1,0,0,6
+Grilled Onions,5,0,0,0,0,5,1,0,0,0
+Hatch Green Chiles,5,0,0,0,0,0,0,0,0,0
+Hickory BBQ Sauce,30,0,0,0,0,310,7,0,5,0
+Hot Chili,60,4,1.5,0,10,170,3,1,1,3
+Ranch Dressing,130,14,2.5,0,5,250,2,0,1,1
+Slaw,140,7,1.5,0,5,220,17,2,14,1
+Spicy Jalapeños,5,0,0,0,0,140,1,0,1,0
+Crispy Tenders (2 Pc.),170,8,0.5,0,40,490,11,1,0,14
+Corn Dog,230,13,4,0,15,480,23,1,5,6
+Fries (Small),250,12,2,0,0,260,33,3,0,3
+Jr. Burger,330,16,4.5,0.5,35,610,32,2,5,15
+1% Milk Jug,130,2.5,1.5,0,15,160,16,0,15,10
+Minute Maid 100% Apple Juice Box,80,0,0,0,0,15,21,0,19,0
+Tots (Small),250,13,2.5,0,0,620,30,3,0,2
+Tree Top Apple Sauce,45,0,0,0,0,0,13,2,11,0
+Bacon Cheeseburger Toaster Sandwich,760,38,13,1,100,1670,68,3,14,37
+Blt Toaster Sandwich,580,32,8,0,40,1080,53,2,8,19
+Chicken Club Toaster Sandwich,770,43,11,0,80,1590,63,3,8,32
+Country Fried Steak Toaster Sandwich,700,35,9,0,45,1390,80,3,7,15
+Chicken Wrap - Crispy,530,28,6,0,40,1280,48,2,2,21
+Chicken Wrap - Grilled,480,14,4,0,80,1720,39,2,3,31
+Asian Sweet Chili Boneless Wings (6 Pc.),470,24,9,0,80,1450,32,2,14,30
+Asian Sweet Chili Boneless Wings (12 Pc.),930,48,19,1,165,2910,65,4,28,60
+Asian Sweet Chili Boneless Wings (24 Pc.),1860,95,37,2,330,5820,129,9,56,119
+Honey BBQ Boneless Wings (6 Pc.),470,24,9,0,80,1380,33,2,16,29
+Honey BBQ Boneless Wings (12 Pc.),930,48,19,1,165,2760,67,4,32,58
+Honey BBQ Boneless Wings (24 Pc.),1860,95,37,2,330,5530,133,9,65,117
+Buffalo Boneless Wings (6 Pc.),440,28,10,0.5,85,1430,17,2,1,29
+Buffalo Boneless Wings (12 Pc.),880,57,20,1,175,2860,34,4,1,59
+Buffalo Boneless Wings (24 Pc.),1760,113,40,2,345,5720,68,9,2,117
+Classic Crispy Chicken Sandwich,550,30,6,0,45,870,48,4,10,21
+Classic Grilled Chicken Sandwich,470,22,4,0,75,1340,39,3,10,30
+Crispy Tender Sandwich,440,22,3,0,40,910,41,2,3,19
+Jumbo Popcorn Chicken (Small),330,19,3.5,0,40,1100,24,3,1,16
+Jumbo Popcorn Chicken (Medium),490,28,5,0,55,1640,36,4,1,23
+Jumbo Popcorn Chicken (Large),750,43,8,0.5,90,2520,55,6,2,36
+Sauced Jumbo Popcorn Chicken (Medium) - Buffalo,560,35,6,0.5,65,2500,37,5,2,24
+Sauced Jumbo Popcorn Chicken (Large) - Buffalo,920,60,11,1,105,4670,58,8,3,37
+Sauced Jumbo Popcorn Chicken (Medium) - Honey BBQ,570,28,5,0,55,2170,53,4,17,24
+Sauced Jumbo Popcorn Chicken (Large) - Honey BBQ,930,43,8,1,90,3830,98,7,42,36
+Crispy Tenders 3 Pc.,260,12,1,0,60,730,16,2,0,21
+Crispy Tenders 5 Pc.,430,20,2,0,95,1210,27,3,0,35
+Country Fried Steak Sandwich,700,35,9,0,45,1410,80,3,10,16
+Fish Sandwich,540,27,5,0,35,1240,57,4,10,18
+Grilled Cheese Sandwich,430,19,7,0,35,1090,51,2,7,14
+Philly Cheesesteak Sandwich,750,39,16,1.5,125,1710,53,1,5,46
+Pork Tenderloin Sandwich,710,35,4.5,0,45,1110,73,3,10,20
+Seafood & Crab Sandwich,510,21,3.5,0,35,1110,64,3,12,14
+"All-American Dog - 6""",410,21,8,1,35,1120,41,2,12,13
+"All Beef Regular Hot Dog - 6""",360,21,8,1,35,800,31,2,4,12
+"Cheesy Bacon Pretzel Dog - 6""",430,29,12,1.5,50,1130,27,2,4,15
+"Chicago Dog - 6""",400,20,7,1,35,2010,41,1,13,11
+"Chili Cheese Coney - 6""",470,29,12,1.5,55,1260,34,2,5,18
+Footlong Quarter Pound Coney,790,49,19,1,105,2300,55,3,9,31
+"New York Dog - 6""",400,23,8,1,35,1110,35,3,5,13
+"Original Pretzel Dog - 6""",320,20,8,1,35,760,23,1,2,11
+Bagel Breakfast Sandwich Bacon,660,29,10,0,330,1830,68,2,5,33
+Bagel Breakfast Sandwich Ham,590,21,7,0,330,2070,70,2,7,33
+Bagel Breakfast Sandwich Sausage,770,41,14,0,340,1750,68,2,5,33
+Biscuit Sandwich Bacon,570,30,15,0,330,1970,40,1,5,28
+Biscuit Sandwich Ham,510,21,12,0,330,2210,42,1,7,28
+Biscuit Sandwich Sausage,680,42,19,0,340,1890,40,1,5,28
+Breakfast Burrito Bacon,470,25,11,0,320,1540,35,1,1,25
+Breakfast Burrito Ham,440,20,9,0,330,1920,38,1,2,27
+Breakfast Burrito Sausage,500,30,13,0,325,1430,35,1,1,23
+Breakfast Burrito Steak & Egg,650,36,14,1.5,345,1960,48,2,2,33
+Breakfast Toaster Bacon,610,31,10,0,330,1610,52,2,7,29
+Breakfast Toaster Ham,540,22,7,0,330,1850,54,2,9,29
+Breakfast Toaster Sausage,720,43,14,0,340,1530,52,2,7,29
+Brioche Breakfast Sandwich Bacon,530,30,11,0,330,1520,38,2,10,27
+Brioche Breakfast Sandwich Ham,470,22,8,0,330,1750,40,2,11,27
+Brioche Breakfast Sandwich Sausage,640,43,15,0,340,1440,38,3,10,27
+Cinnasnacks Without Cream Cheese Frosting 3 Pc.,380,22,6,0,0,210,38,2,12,6
+Cinnasnacks Without Cream Cheese Frosting 5 Pc.,630,37,11,0,0,350,63,4,21,10
+Croissonic Breakfast Sandwich Bacon,560,37,14,0,330,1380,31,1,5,26
+Croissonic Breakfast Sandwich Ham,490,29,11,0,330,1620,33,1,7,26
+Croissonic Breakfast Sandwich Sausage,670,49,18,0,340,1300,31,1,5,26
+French Toast Sticks Without Syrup (4 Pc.),480,25,4.5,0,0,460,54,3,12,8
+Jr. Breakfast Burrito,290,17,7,0,145,820,22,1,0,12
+Supersonic Breakfast Burrito,610,35,14,0,325,1800,49,3,3,24
+Ultimate Meat & Cheese Breakfast Burrito,840,58,19,0.5,360,2220,47,2,1,30
+French Vanilla Cold Brew Iced Coffee (Small),210,9,6,0,30,110,29,0,17,4
+French Vanilla Cold Brew Iced Coffee (Medium),300,13,8,0,45,150,42,0,25,5
+French Vanilla Cold Brew Iced Coffee (Large),470,20,12,0.5,70,230,65,0,39,8
+French Vanilla Cold Brew Iced Coffee Rt 44,650,27,17,1,95,320,90,0,54,11
+Green Mountain Coffee Roasters Hot Coffee Reg. (16 Oz.),0,0,0,0,0,0,0,0,0,0
+Original Cold Brew Iced Coffee (Small),190,9,6,0,30,110,24,0,12,4
+Original Cold Brew Iced Coffee (Medium),260,13,8,0,45,150,32,0,17,5
+Original Cold Brew Iced Coffee (Large),410,20,12,0.5,70,230,50,0,26,8
+Original Cold Brew Iced Coffee Rt 44,570,27,17,1,95,320,70,0,37,11
+Ched 'R' Bites (Small),280,27,8,0.5,40,970,23,1,1,14
+Ched 'R' Bites (Medium),410,46,13,1,65,1570,35,2,2,21
+Ched 'R' Bites (Large),550,53,16,1,85,1940,46,2,2,27
+"Ched 'R' Peppers (4 Pc., Small)",330,28,8,1,35,1340,37,2,2,9
+"Ched 'R' Peppers (6 Pc., Medium)",490,48,12,1.5,55,2130,56,3,4,13
+"Ched 'R' Peppers (8 Pc., Large)",660,57,15,2,65,2690,74,4,5,17
+Chili Cheese Fries (Small),350,19,6,0,20,640,36,3,1,8
+Chili Cheese Fries (Medium),450,26,10,0.5,35,940,42,4,2,12
+Chili Cheese Fries (Large),710,40,14,1,50,1390,70,7,2,18
+Chili Cheese Tots (Small),350,21,7,0,20,1000,32,3,1,7
+Chili Cheese Tots (Medium),530,32,10,0.5,35,1540,47,5,2,12
+Chili Cheese Tots (Large),960,57,17,1,50,2690,92,9,3,19
+Corn Dog,230,13,4,0,15,480,23,1,5,6
+Fries (Small),250,12,2,0,0,260,33,3,0,3
+Fries (Medium),290,13,2.5,0,0,300,38,3,0,3
+Fries (Large),470,22,4,0,0,490,63,6,1,5
+Fries With Cheese (Small),310,17,5,0,20,590,34,3,1,6
+Fries With Cheese (Medium),380,22,7,0,25,790,39,3,1,9
+Fries With Cheese (Large),600,33,10,0,35,1150,64,6,2,12
+Fritos Chili Pie (Small),510,34,10,0.5,35,1030,35,3,1,14
+Fritos Chili Pie (Medium),750,50,15,1,50,1490,53,5,2,20
+Fritos Chili Pie (Large),990,66,20,1,70,1940,71,6,3,26
+Handmade Onion Rings (Small),440,21,3.5,0,0,430,55,3,14,6
+Handmade Onion Rings (Medium),580,29,5,0,0,570,74,4,19,8
+Handmade Onion Rings (Large),800,39,7,0.5,0,790,101,5,26,11
+Jumbo Popcorn Chicken (Small),330,19,3.5,0,40,1100,24,3,1,16
+Jumbo Popcorn Chicken (Medium),490,28,5,0,55,1640,36,4,1,23
+Jumbo Popcorn Chicken (Large),750,43,8,0.5,90,2520,55,6,2,36
+Mozzarella Sticks (4 Pc.) (Small),370,19,7,0,30,950,40,2,5,15
+Mozzarella Sticks (6 Pc.) (Medium),560,29,11,0.5,45,1490,61,3,8,23
+Mozzarella Sticks (8 Pc.) (Large),750,38,15,0.5,60,1890,79,4,9,31
+Pickle-O's (Small),190,21,3.5,0,10,850,23,1,2,3
+Pickle-O's (Medium),310,39,7,0.5,20,1490,39,2,4,5
+Pickle-O's (Large),500,49,8,0.5,20,2100,61,4,5,8
+Soft Pretzel Twist,250,7,1,0,0,440,39,2,6,7
+Tots (Small),250,13,2.5,0,0,620,30,3,0,2
+Tots (Medium),360,19,3.5,0,0,890,43,4,0,3
+Tots (Large),580,31,6,0,0,1450,69,6,1,5
+Tots With Cheese (Small),310,19,5,0,20,950,30,3,1,6
+Tots With Cheese (Medium),450,28,8,0,30,1390,43,4,1,8
+Tots With Cheese (Large),840,50,13,0,40,2450,86,8,2,13
+Sonic Blast With Butterfinger Pieces Mini,470,23,13,0.5,60,260,57,1,36,9
+Sonic Blast With Butterfinger Pieces (Small),740,37,21,1,95,420,90,2,57,14
+Sonic Blast With Butterfinger Pieces (Medium),980,48,28,1.5,125,550,118,2,75,18
+Sonic Blast With Butterfinger Pieces (Large),1440,72,43,2,200,820,172,3,110,26
+Sonic Blast With Chocolate Chip Cookie Dough Mini,450,22,12,0.5,65,220,59,0,37,6
+Sonic Blast With Chocolate Chip Cookie Dough (Small),690,34,19,1,100,340,89,1,55,10
+Sonic Blast With Chocolate Chip Cookie Dough (Medium),920,45,25,1.5,135,450,118,1,73,13
+Sonic Blast With Chocolate Chip Cookie Dough (Large),1370,68,39,2,210,690,172,1,108,20
+Sonic Blast With M&M's Minis Chocolate Candies Mini,530,27,17,0.5,65,210,65,1,51,7
+Sonic Blast With M&M's Minis Chocolate Candies (Small),800,41,25,1,100,330,97,2,75,11
+Sonic Blast With M&M's Minis Chocolate Candies (Medium),1060,54,34,1.5,135,430,127,2,98,15
+Sonic Blast With M&M's Minis Chocolate Candies (Large),1540,80,49,2,210,680,183,3,138,22
+Sonic Blast With Oreo Cookie Pieces Mini,440,22,12,0.5,55,340,54,1,34,6
+Sonic Blast With Oreo Cookie Pieces (Small),650,33,18,1,90,470,78,1,50,10
+Sonic Blast With Oreo Cookie Pieces (Medium),860,44,24,1.5,125,620,103,2,66,13
+Sonic Blast With Oreo Cookie Pieces (Large),1300,67,38,2,195,890,153,2,98,20
+Sonic Blast With Reese's Peanut Butter Cups Mini,490,27,14,0.5,60,310,55,1,42,9
+Sonic Blast With Reese's Peanut Butter Cups (Small),750,41,22,1,95,460,84,2,62,14
+Sonic Blast With Reese's Peanut Butter Cups (Medium),990,55,29,1.5,130,610,110,2,82,18
+Sonic Blast With Reese's Peanut Butter Cups (Large),1460,80,44,2,205,890,162,3,118,27
+Sonic Blast With Snickers Bars Mini,460,24,13,1,65,250,54,1,38,8
+Sonic Blast With Snickers Bars (Small),720,37,21,1,95,390,84,1,61,12
+Sonic Blast With Snickers Bars (Medium),890,46,26,1.5,130,490,103,1,73,15
+Sonic Blast With Snickers Bars (Large),1340,70,40,2.5,205,750,154,1,108,23
+Caramel Shake Mini,430,22,16,0.5,55,210,45,0,32,6
+Caramel Shake (Small),660,34,23,1,100,350,71,0,49,10
+Caramel Shake (Medium),830,41,28,1.5,125,520,97,0,67,12
+Caramel Shake (Large),1230,61,41,2,190,790,144,0,99,19
+Chocolate Shake Mini,420,23,16,0.5,55,250,48,1,35,6
+Chocolate Shake (Small),650,35,24,1,100,390,74,1,52,10
+Chocolate Shake (Medium),810,43,29,1.5,125,540,95,1,67,12
+Chocolate Shake (Large),1200,63,42,2,190,820,142,2,99,19
+Fresh Banana Shake Mini,430,22,15,0.5,55,180,54,2,37,6
+Fresh Banana Shake (Small),660,34,23,1,100,310,80,2,54,10
+Fresh Banana Shake (Medium),850,41,27,1.5,125,390,108,3,70,13
+Fresh Banana Shake (Large),1250,61,39,2,190,590,160,5,103,19
+Hot Fudge Shake Mini,450,24,17,0.5,55,210,51,1,37,6
+Hot Fudge Shake (Small),680,36,25,1,100,340,77,1,54,10
+Hot Fudge Shake (Medium),940,48,33,1.5,125,480,113,2,80,13
+Hot Fudge Shake (Large),1350,69,47,2,190,710,162,2,113,19
+Peanut Butter Shake Mini,480,30,17,0.5,55,220,45,1,32,8
+Peanut Butter Shake (Small),710,43,24,1,100,360,71,1,49,12
+Peanut Butter Shake (Medium),940,58,30,1.5,125,480,89,1,61,17
+Peanut Butter Shake (Large),1490,94,45,2,190,770,136,2,91,29
+Strawberry Shake Mini,400,21,15,0.5,55,180,47,0,35,5
+Strawberry Shake (Small),630,34,23,1,100,320,72,0,52,9
+Strawberry Shake (Medium),790,41,27,1.5,125,400,92,1,66,11
+Strawberry Shake (Large),1160,60,39,2,190,600,137,1,97,17
+Vanilla Shake Mini,420,23,16,0.5,65,200,45,0,32,6
+Vanilla Shake (Small),650,36,24,1,110,340,71,0,49,10
+Vanilla Shake (Medium),820,45,30,1.5,140,430,89,0,61,13
+Vanilla Shake (Large),1200,66,43,2,210,650,132,0,90,19
+Cheesecake Shake Mini,440,23,15,0.5,55,340,53,0,36,6
+Cheesecake Shake (Small),670,35,23,1,100,470,79,0,53,10
+Cheesecake Shake (Medium),840,43,28,1.5,125,680,101,1,68,12
+Cheesecake Shake (Large),1230,62,39,2,190,1010,148,1,99,19
+Oreo Cheesecake Shake Mini,550,27,17,0.5,55,460,69,1,45,6
+Oreo Cheesecake Shake (Small),820,41,25,1,100,650,102,1,66,10
+Oreo Cheesecake Shake (Medium),1030,51,30,1.5,125,900,131,2,84,13
+Oreo Cheesecake Shake (Large),1470,72,42,2,190,1280,184,2,119,19
+Oreo Chocolate Shake Mini,520,27,18,0.5,55,380,65,1,44,6
+Oreo Chocolate Shake (Small),750,40,25,1,100,510,90,1,61,10
+Oreo Chocolate Shake (Medium),1000,51,32,1.5,125,760,125,3,84,13
+Oreo Chocolate Shake (Large),1430,73,45,2,190,1090,178,4,119,19
+Oreo Peanut Butter Shake Mini,590,34,18,0.5,55,350,61,1,41,9
+Oreo Peanut Butter Shake (Small),820,47,26,1,100,480,87,1,58,13
+Oreo Peanut Butter Shake (Medium),1130,66,33,1.5,125,700,118,2,77,18
+Oreo Peanut Butter Shake (Large),1720,104,48,2,190,1040,172,4,111,30
+Strawberry Cheesecake Shake Mini,460,23,15,0.5,55,340,59,1,41,6
+Strawberry Cheesecake Shake (Small),700,35,23,1,100,480,84,1,58,10
+Strawberry Cheesecake Shake (Medium),890,43,28,1.5,125,680,112,2,78,12
+Strawberry Cheesecake Shake (Large),1300,62,39,2,190,1020,165,2,115,19
+Caramel Real Ice Cream Sundae,490,22,15,1,65,350,61,0,43,7
+Chocolate Real Ice Cream Sundae,430,22,15,0.5,65,280,51,1,36,7
+Hot Fudge Real Ice Cream Sundae,520,26,18,0.5,65,270,65,1,46,7
+Strawberry Real Ice Cream Sundae,440,21,14,0.5,65,220,55,1,40,7
+Peanuts Add-On,40,3.5,0.5,0,0,0,2,1,0,2
+Whipped Topping Add-On,70,5,5,0,0,0,5,0,5,0
+Vanilla Cone,250,12,8,0,45,140,30,0,17,4
+"Plain Slush Only (No Syrup, (Small)",180,0,0,0,0,30,48,0,48,0
+"Plain Slush Only (No Syrup, Medium)",240,0,0,0,0,40,66,0,66,0
+"Plain Slush Only (No Syrup, Large)",380,0,0,0,0,60,103,0,103,0
+Plain Slush Only (No Syrup) Rt 44,540,0,0,0,0,85,145,0,145,0
+All-Natural Lemonade Wacky Pack,100,0,0,0,0,0,27,0,25,0
+All-Natural Lemonade (Small),160,0,0,0,0,0,42,0,38,0
+All-Natural Lemonade (Medium),270,0,0,0,0,0,69,0,64,0
+All-Natural Lemonade (Large),400,0,0,0,0,10,105,0,97,0
+All-Natural Lemonade Rt 44,540,0,0,0,0,10,142,0,131,0
+Lemonade Slush Wacky Pack,140,0,0,0,0,20,37,0,36,0
+Lemonade Slush (Small),190,0,0,0,0,30,52,0,51,0
+Lemonade Slush (Medium),280,0,0,0,0,40,74,0,72,0
+Lemonade Slush (Large),430,0,0,0,0,65,116,0,112,0
+Lemonade Slush Rt 44,600,0,0,0,0,95,162,0,157,0
+Limeade Slush Wacky Pack,140,0,0,0,0,20,37,0,36,0
+Limeade Slush (Small),190,0,0,0,0,30,53,0,51,0
+Limeade Slush (Medium),280,0,0,0,0,40,74,0,72,0
+Limeade Slush (Large),430,0,0,0,0,65,116,0,112,0
+Limeade Slush Rt 44,600,0,0,0,0,95,163,0,157,0
+Barq'S Root Beer Wacky Pack,80,0,0,0,0,20,21,0,21,0
+Barq'S Root Beer (Small),120,0,0,0,0,30,32,0,32,0
+Barq'S Root Beer (Medium),200,0,0,0,0,50,53,0,53,0
+Barq'S Root Beer (Large),300,0,0,0,0,80,81,0,81,0
+Barq'S Root Beer Rt 44,400,0,0,0,0,105,109,0,109,0
+Big Red Wacky Pack,70,0,0,0,0,25,20,0,20,0
+Big Red (Small),110,0,0,0,0,45,31,0,41,0
+Big Red (Medium),170,0,0,0,0,65,45,0,45,0
+Big Red (Large),250,0,0,0,0,100,68,0,68,0
+Big Red Rt 44,340,0,0,0,0,135,92,0,92,0
+Canada Dry Ginger Ale Wacky Pack,70,0,0,0,0,25,16,0,16,0
+Canada Dry Ginger Ale (Small),100,0,0,0,0,45,26,0,26,0
+Canada Dry Ginger Ale (Medium),150,0,0,0,0,65,37,0,37,0
+Canada Dry Ginger Ale (Large),230,0,0,0,0,100,56,0,56,0
+Canada Dry Ginger Ale Rt 44,310,0,0,0,0,135,76,0,76,0
+Coca-Cola Wacky Pack,70,0,0,0,0,0,19,0,19,0
+Coca-Cola (Small),110,0,0,0,0,10,29,0,29,0
+Coca-Cola (Medium),180,0,0,0,0,15,48,0,48,0
+Coca-Cola (Large),270,0,0,0,0,20,72,0,72,0
+Coca-Cola Rt 44,360,0,0,0,0,30,98,0,98,0
+Coca-Cola Zero Sugar Wacky Pack,0,0,0,0,0,5,0,0,0,0
+Coca-Cola Zero Sugar (Small),0,0,0,0,0,10,0,0,0,0
+Coca-Cola Zero Sugar (Medium),0,0,0,0,0,10,0,0,0,0
+Coca-Cola Zero Sugar (Large),0,0,0,0,0,20,0,0,0,0
+Coca-Cola Zero Sugar Rt 44,0,0,0,0,0,35,0,0,0,0
+Diet Coke Wacky Pack,0,0,0,0,0,10,0,0,0,0
+Diet Coke (Small),0,0,0,0,0,15,0,0,0,0
+Diet Coke (Medium),0,0,0,0,0,25,0,0,0,0
+Diet Coke (Large),0,0,0,0,0,30,0,0,0,0
+Diet Coke Rt 44,0,0,0,0,0,50,0,0,0,0
+Dr Pepper Wacky Pack,60,0,0,0,0,25,18,0,18,0
+Dr Pepper (Small),100,0,0,0,0,35,28,0,28,0
+Dr Pepper (Medium),160,0,0,0,0,60,46,0,46,0
+Dr Pepper (Large),240,0,0,0,0,90,70,0,70,0
+Dr Pepper Rt 44,330,0,0,0,0,120,94,0,94,0
+Diet Dr Pepper Wacky Pack,0,0,0,0,0,35,0,0,0,0
+Diet Dr Pepper (Small),0,0,0,0,0,55,0,0,0,0
+Diet Dr Pepper (Medium),0,0,0,0,0,95,0,0,0,0
+Diet Dr Pepper (Large),0,0,0,0,0,140,0,0,0,0
+Diet Dr Pepper Rt 44,0,0,0,0,0,190,0,0,0,0
+Fanta Orange Wacky Pack,70,0,0,0,0,0,20,0,20,0
+Fanta Orange (Small),110,0,0,0,0,0,31,0,31,0
+Fanta Orange (Medium),190,0,0,0,0,0,51,0,51,0
+Fanta Orange (Large),280,0,0,0,0,10,78,0,78,0
+Fanta Orange Rt 44,380,0,0,0,0,10,105,0,105,0
+Hi-C Fruit Punch Wacky Pack,70,0,0,0,0,10,19,0,19,0
+Hi-C Fruit Punch (Small),110,0,0,0,0,15,30,0,30,0
+Hi-C Fruit Punch (Medium),180,0,0,0,0,20,50,0,50,0
+Hi-C Fruit Punch (Large),280,0,0,0,0,35,75,0,75,0
+Hi-C Fruit Punch Rt 44,380,0,0,0,0,40,102,0,102,0
+Mello Yello Wacky Pack,70,0,0,0,0,10,20,0,20,0
+Mello Yello (Small),110,0,0,0,0,15,31,0,31,0
+Mello Yello (Medium),190,0,0,0,0,20,51,0,51,0
+Mello Yello (Large),280,0,0,0,0,30,78,0,78,0
+Mello Yello Rt 44,380,0,0,0,0,40,105,0,105,0
+Powerade Mountain Blast Wacky Pack,45,0,0,0,0,40,12,0,12,0
+Powerade Mountain Blast (Small),70,0,0,0,0,60,18,0,18,0
+Powerade Mountain Blast (Medium),110,0,0,0,0,100,30,0,30,0
+Powerade Mountain Blast (Large),170,0,0,0,0,150,46,0,46,0
+Powerade Mountain Blast Rt 44,230,0,0,0,0,200,62,0,62,0
+Sprite Wacky Pack,70,0,0,0,0,15,18,0,18,0
+Sprite (Small),100,0,0,0,0,25,28,0,28,0
+Sprite (Medium),170,0,0,0,0,40,46,0,46,0
+Sprite (Large),260,0,0,0,0,70,70,0,70,0
+Sprite Rt 44,350,0,0,0,0,85,94,0,94,0
+Sprite Zero Wacky Pack,0,0,0,0,0,10,0,0,0,0
+Sprite Zero (Small),5,0,0,0,0,15,0,0,0,0
+Sprite Zero (Medium),5,0,0,0,0,20,0,0,0,0
+Sprite Zero (Large),5,0,0,0,0,30,0,0,0,0
+Sprite Zero Rt 44,10,0,0,0,0,40,0,0,0,0
+Sun Drop Wacky Pack,80,0,0,0,0,25,21,0,21,0
+Sun Drop (Small),130,0,0,0,0,45,33,0,33,0
+Sun Drop (Medium),190,0,0,0,0,65,48,0,48,0
+Sun Drop (Large),280,0,0,0,0,100,73,0,73,0
+Sun Drop Rt 44,380,0,0,0,0,135,99,0,99,0
+Sweet Iced Tea Wacky Pack,80,0,0,0,0,10,21,0,21,0
+Sweet Iced Tea (Small),140,0,0,0,0,10,37,0,37,0
+Sweet Iced Tea (Medium),170,0,0,0,0,15,45,0,45,0
+Sweet Iced Tea (Large),290,0,0,0,0,30,78,0,78,0
+Sweet Iced Tea Rt 44,360,0,0,0,0,35,96,0,96,0
+Unsweet Iced Tea Wacky Pack,0,0,0,0,0,10,0,0,0,0
+Unsweet Iced Tea (Small),0,0,0,0,0,10,0,0,0,0
+Unsweet Iced Tea (Medium),0,0,0,0,0,15,0,0,0,0
+Unsweet Iced Tea (Large),0,0,0,0,0,30,0,0,0,0
+Unsweet Iced Tea Rt 44,0,0,0,0,0,35,0,0,0,0
+Minute Maid 100% Apple Juice Box,80,0,0,0,0,15,21,0,19,0
+Minute Maid Orange Juice (Small),140,0,0,0,0,25,34,0,30,2
+Minute Maid Orange Juice (Medium),200,0,0,0,0,35,47,0,42,3
+Cherry Limeade Wacky Pack,110,0,0,0,0,20,29,0,28,0
+Cherry Limeade (Small),150,0,0,0,0,30,39,0,38,0
+Cherry Limeade (Medium),250,0,0,0,0,50,66,0,65,0
+Cherry Limeade (Large),370,0,0,0,0,70,99,0,97,0
+Cherry Limeade Rt 44,490,0,0,0,0,100,132,0,130,0
+Diet Cherry Limeade Wacky Pack,15,0,0,0,0,10,3,0,2,0
+Diet Cherry Limeade (Small),15,0,0,0,0,15,3,0,2,0
+Diet Cherry Limeade (Medium),20,0,0,0,0,20,3,0,2,0
+Diet Cherry Limeade (Large),25,0,0,0,0,35,4,0,2,0
+Diet Cherry Limeade Rt 44,30,0,0,0,0,45,4,0,2,0
+Diet Lime Limeade Wacky Pack,5,0,0,0,0,10,1,0,0,0
+Diet Lime Limeade (Small),5,0,0,0,0,10,1,0,0,0
+Diet Lime Limeade (Medium),10,0,0,0,0,15,1,0,0,0
+Diet Lime Limeade (Large),10,0,0,0,0,25,2,0,0,0
+Diet Lime Limeade Rt 44,15,0,0,0,0,35,2,0,0,0
+Limeade Wacky Pack,70,0,0,0,0,15,18,0,18,0
+Limeade (Small),100,0,0,0,0,25,28,0,28,0
+Limeade (Medium),180,0,0,0,0,40,47,0,46,0
+Limeade (Large),270,0,0,0,0,65,72,0,70,0
+Limeade Rt 44,360,0,0,0,0,85,97,0,95,0
+Minute Maid Cranberry Limeade Wacky Pack,100,0,0,0,0,20,27,0,26,0
+Minute Maid Cranberry Limeade (Small),140,0,0,0,0,20,37,0,36,0
+Minute Maid Cranberry Limeade (Medium),240,0,0,0,0,45,64,0,62,0
+Minute Maid Cranberry Limeade (Large),360,0,0,0,0,65,97,0,94,0
+Minute Maid Cranberry Limeade Rt 44,490,0,0,0,0,90,131,0,127,0
+Strawberry Limeade Wacky Pack,100,0,0,0,0,25,25,1,24,0
+Strawberry Limeade (Small),130,0,0,0,0,30,35,1,34,0
+Strawberry Limeade (Medium),220,0,0,0,0,50,59,1,57,0
+Strawberry Limeade (Large),340,0,0,0,0,80,90,2,87,0
+Strawberry Limeade Rt 44,450,0,0,0,0,105,120,2,117,0
+Ocean Water Wacky Pack,80,0,0,0,0,20,21,0,21,0
+Ocean Water (Small),120,0,0,0,0,30,31,0,31,0
+Ocean Water (Medium),200,0,0,0,0,45,52,0,52,0
+Ocean Water (Large),300,0,0,0,0,70,79,0,79,0
+Ocean Water Rt 44,400,0,0,0,0,95,107,0,106,0
+Blackberry Sugar-Free Add-In Wacky Pack,0,0,0,0,0,5,1,0,0,0
+Blackberry Sugar-Free Add-In (Small),0,0,0,0,0,5,1,0,0,0
+Blackberry Sugar-Free Add-In (Medium),5,0,0,0,0,15,1,0,0,0
+Blackberry Sugar-Free Add-In (Large),5,0,0,0,0,20,2,0,0,0
+Blackberry Sugar-Free Add-In Rt 44,10,0,0,0,0,30,2,0,0,0
+Blue Coconut Add-In Wacky Pack,15,0,0,0,0,0,3,0,3,0
+Blue Coconut Add-In (Small),15,0,0,0,0,0,3,0,3,0
+Blue Coconut Add-In (Medium),25,0,0,0,0,0,6,0,6,0
+Blue Coconut Add-In (Large),40,0,0,0,0,5,9,0,9,0
+Blue Coconut Add-In Rt 44,50,0,0,0,0,10,13,0,12,0
+Blue Raspberry Add-In Wacky Pack,10,0,0,0,0,0,3,0,3,0
+Blue Raspberry Add-In (Small),10,0,0,0,0,0,3,0,3,0
+Blue Raspberry Add-In (Medium),20,0,0,0,0,0,6,0,5,0
+Blue Raspberry Add-In (Large),35,0,0,0,0,5,8,0,8,0
+Blue Raspberry Add-In Rt 44,45,0,0,0,0,10,11,0,11,0
+Caramel Topping Wacky Pack,90,1,0.5,0,5,90,19,0,12,0
+Caramel Topping (Small),90,1,0.5,0,5,90,19,0,12,0
+Caramel Topping (Medium),180,2,1.5,0,5,180,37,0,24,0
+Caramel Topping (Large),270,3.5,2,0,10,270,56,0,36,0
+Caramel Topping Rt 44,360,4.5,3,0,15,360,75,0,48,0
+Cherry Add-In Wacky Pack,30,0,0,0,0,0,8,0,8,0
+Cherry Add-In (Small),30,0,0,0,0,0,8,0,8,0
+Cherry Add-In (Medium),60,0,0,0,0,5,17,0,17,0
+Cherry Add-In (Large),90,0,0,0,0,10,25,0,25,0
+Cherry Add-In Rt 44,120,0,0,0,0,10,34,0,34,0
+Cherry Garnish,10,0,0,0,0,0,2,0,2,0
+Chocolate Add-In Wacky Pack,80,0,0,0,0,30,19,0,15,0
+Chocolate Add-In (Small),80,0,0,0,0,30,19,0,15,0
+Chocolate Add-In (Medium),160,0,0,0,0,60,38,0,31,0
+Chocolate Add-In (Large),240,0,0,0,0,85,57,0,46,0
+Chocolate Add-In Rt 44,320,0,0,0,0,115,76,0,61,0
+Diet Cherry Sugar-Free Add-In Wacky Pack,15,0,0,0,0,10,3,0,2,0
+Diet Cherry Sugar-Free Add-In (Small),15,0,0,0,0,15,3,0,2,0
+Diet Cherry Sugar-Free Add-In (Medium),20,0,0,0,0,20,3,0,2,0
+Diet Cherry Sugar-Free Add-In (Large),25,0,0,0,0,35,4,0,2,0
+Diet Cherry Sugar-Free Add-In Rt 44,30,0,0,0,0,45,4,0,2,0
+Grape Add-In Wacky Pack,20,0,0,0,0,0,5,0,5,0
+Grape Add-In (Small),20,0,0,0,0,0,5,0,5,0
+Grape Add-In (Medium),45,0,0,0,0,5,11,0,10,0
+Grape Add-In (Large),70,0,0,0,0,10,16,0,16,0
+Grape Add-In Rt 44,90,0,0,0,0,10,22,0,21,0
+Hot Fudge Topping Wacky Pack,100,3.5,3,0,0,45,16,1,12,1
+Hot Fudge Topping (Small),100,3.5,3,0,0,45,16,1,12,1
+Hot Fudge Topping (Medium),200,7,6,0,0,90,32,2,25,2
+Hot Fudge Topping (Large),300,10,9,0,0,140,48,2,37,2
+Hot Fudge Topping Rt 44,400,14,12,0,0,180,64,3,49,3
+Lemon Add-In Wacky Pack,0,0,0,0,0,0,1,0,0,0
+Lemon Add-In (Small),0,0,0,0,0,0,1,0,0,0
+Lemon Add-In (Medium),5,0,0,0,0,0,1,0,1,0
+Lemon Add-In (Large),5,0,0,0,0,0,2,0,1,0
+Lemon Add-In Rt 44,10,0,0,0,0,0,3,0,1,0
+Lime Add-In Wacky Pack,0,0,0,0,0,0,1,0,0,0
+Lime Add-In (Small),0,0,0,0,0,0,1,0,0,0
+Lime Add-In (Medium),5,0,0,0,0,0,1,0,0,0
+Lime Add-In (Large),5,0,0,0,0,0,2,0,0,0
+Lime Add-In Rt 44,5,0,0,0,0,0,2,0,0,0
+Mango Sugar-Free Add-In Wacky Pack,0,0,0,0,0,5,1,0,0,0
+Mango Sugar-Free Add-In (Small),0,0,0,0,0,5,1,0,0,0
+Mango Sugar-Free Add-In (Medium),0,0,0,0,0,15,1,0,0,0
+Mango Sugar-Free Add-In (Large),5,0,0,0,0,20,2,0,0,0
+Mango Sugar-Free Add-In Rt 44,10,0,0,0,0,30,2,0,0,0
+Minute Maid Cranberry Add-In Wacky Pack,35,0,0,0,0,0,9,0,8,0
+Minute Maid Cranberry Add-In (Small),35,0,0,0,0,0,9,0,8,0
+Minute Maid Cranberry Add-In (Medium),70,0,0,0,0,0,17,0,16,0
+Minute Maid Cranberry Add-In (Large),100,0,0,0,0,0,26,0,24,0
+Minute Maid Cranberry Add-In Rt 44,130,0,0,0,0,0,34,0,32,0
+Nerds Candy Add-In Wacky Pack,110,0,0,0,0,0,26,26,0,0
+Nerds Candy Add-In (Small),160,0,0,0,0,5,39,39,0,0
+Nerds Candy Add-In (Medium),210,0,0,0,0,10,52,52,0,0
+Nerds Candy Add-In (Large),230,0,0,0,0,10,57,57,0,0
+Nerds Candy Add-In Rt 44,290,0,0,0,0,10,71,71,0,0
+Peach Sugar-Free Add-In Wacky Pack,0,0,0,0,0,5,0,0,0,0
+Peach Sugar-Free Add-In (Small),0,0,0,0,0,5,0,0,0,0
+Peach Sugar-Free Add-In (Medium),0,0,0,0,0,10,1,0,0,0
+Peach Sugar-Free Add-In (Large),5,0,0,0,0,20,1,0,0,0
+Peach Sugar-Free Add-In Rt 44,5,0,0,0,0,25,1,0,0,0
+Powerade Add-In Wacky Pack,25,0,0,0,0,20,6,0,6,0
+Powerade Add-In (Small),25,0,0,0,0,20,6,0,6,0
+Powerade Add-In (Medium),45,0,0,0,0,40,13,0,13,0
+Powerade Add-In (Large),70,0,0,0,0,60,20,0,20,0
+Powerade Add-In Rt 44,90,0,0,0,0,80,25,0,25,0
+Raspberry Sugar-Free Add-In Wacky Pack,0,0,0,0,0,5,0,0,0,0
+Raspberry Sugar-Free Add-In (Small),0,0,0,0,0,5,0,0,0,0
+Raspberry Sugar-Free Add-In (Medium),5,0,0,0,0,15,1,0,0,0
+Raspberry Sugar-Free Add-In (Large),5,0,0,0,0,20,1,0,0,0
+Raspberry Sugar-Free Add-In Rt 44,5,0,0,0,0,25,1,0,0,0
+Strawberry Add-In Wacky Pack,25,0,0,0,0,5,7,1,6,0
+Strawberry Add-In (Small),25,0,0,0,0,5,7,1,6,0
+Strawberry Add-In (Medium),50,0,0,0,0,10,12,1,11,0
+Strawberry Add-In (Large),70,0,0,0,0,15,18,1,17,0
+Strawberry Add-In Rt 44,90,0,0,0,0,20,24,2,22,0
+Vanilla Add-In Wacky Pack,20,0,0,0,0,0,6,0,6,0
+Vanilla Add-In (Small),20,0,0,0,0,0,6,0,6,0
+Vanilla Add-In (Medium),45,0,0,0,0,0,12,0,12,0
+Vanilla Add-In (Large),70,0,0,0,0,5,18,0,18,0
+Vanilla Add-In Rt 44,90,0,0,0,0,5,24,0,24,0
+BBQ Sauce,40,0,0,0,0,360,9,0,7,0
+Country Gravy,70,2,0.5,0.5,0,440,13,0,4,1
+Cream Cheese Frosting,160,10,6,0,5,140,17,0,19,0
+Honey Mustard,90,8,1.5,0,10,170,6,0,4,0
+Ketchup,10,0,0,0,0,85,3,0,2,0
+Marinara,15,0,0,0,0,140,4,0,2,0
+Light Mayo,40,3,0,0,5,105,3,2,0,0
+Mustard,5,0,0,0,0,85,0,0,0,0
+Ranch,110,11,2,0,10,230,1,0,1,0
+Salsa De Sonic,0,0,0,0,0,140,0,0,0,0
+Signature Cheese Sauce,110,9,2,0,5,580,5,0,2,2
+Signature Sauce,100,6,1,0,5,280,10,0,8,0
+Sweet Relish,10,0,0,0,0,55,3,0,2,0
+Syrup,90,0,0,0,0,0,22,0,15,0
+Red Bull Slush (Small),180,0,0,0,0,50,48,0,48,0
+Red Bull Slush (Medium),250,0,0,0,0,80,65,0,65,0
+Red Bull Slush (Large),390,0,0,0,0,125,103,0,102,1
+Red Bull Slush Rt 44,540,0,0,0,0,170,144,0,143,1
+Red Bull Can,120,0,0,0,0,110,30,0,29,1
+Summer Edition Watermelon Red Bull Slush (Small),180,0,0,0,0,45,48,0,48,0
+Summer Edition Watermelon Red Bull Slush (Medium),250,0,0,0,0,75,65,0,65,0
+Summer Edition Watermelon Red Bull Slush (Large),390,0,0,0,0,115,103,0,102,0
+Summer Edition Watermelon Red Bull Slush Rt 44,540,0,0,0,0,160,144,0,143,0
+Summer Edition Watermelon Red Bull Can,120,0,0,0,0,95,30,0,29,0
+Classic Chicken Slinger,350,16,3.5,0,35,680,35,3,6,15
+Spicy Chicken Slinger,330,15,3.5,0,35,740,36,3,6,15
+Yellow Cake Batter Shake Mini,540,31,18,0.5,55,200,57,0,40,6
+Yellow Cake Batter Shake (Small),770,44,26,1,100,330,83,0,57,10
+Yellow Cake Batter Shake (Medium),1050,61,33,1.5,125,420,113,0,77,13
+Yellow Cake Batter Shake (Large),1560,90,48,2,190,640,168,1,113,20
+Brownie Batter Shake Mini,530,31,18,0.5,55,320,59,1,40,7
+Brownie Batter Shake (Small),760,43,26,1,100,450,85,1,57,11
+Brownie Batter Shake (Medium),1040,59,32,1.5,125,670,117,2,78,14
+Brownie Batter Shake (Large),1540,88,47,2,190,1010,174,4,115,22
+Lemonberry Slush Float Mini,260,7,4,0,25,95,51,1,44,2
+Lemonberry Slush Float (Small),350,9,5,0,30,125,68,1,59,3
+Lemonberry Slush Float (Medium),430,11,7,0,40,150,83,1,73,3
+Lemonberry Slush Float (Large),650,15,10,0.5,55,220,128,1,114,5
+Bblt,610,39,10,0,55,1300,42,3,12,24

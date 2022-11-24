@@ -1,0 +1,186 @@
+Name,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Sugars (g),Protein (g)
+"Crispy Taco, Beef",150,10,3.5,0,25,270,11,2,1,9
+"Crispy Taco, Chicken",130,6,2,0,40,350,10,1,1,13
+"Crispy Taco, Steak",140,8,2.5,0,30,260,10,1,1,11
+"Fried Chicken Taco, Chipotle Lime",360,19,4.5,0,35,860,34,4,2,14
+"Fried Chicken Taco, Jalapeño Ranch",360,19,4.5,0,35,870,34,4,2,15
+"Quesadilla Taco, Beef",310,15,7,0,35,600,35,3,2,13
+"Quesadilla Taco, Chicken",370,20,7,0,45,710,33,3,3,16
+"Quesadilla Taco, Steak",370,21,7,0,40,650,33,3,3,15
+"Softshell Taco, Beef",230,11,4,0,25,490,21,2,1,12
+"Softshell Taco, Chicken",210,7,2.5,0,40,580,21,2,2,15
+"Softshell Taco, Steak",220,9,3,0,30,480,20,2,2,13
+"Street Taco, Chicken",170,7,2.5,0,30,400,17,1,2,10
+"Street Taco, Steak",180,9,3,0,20,330,17,1,2,9
+"Stuffed Grilled Taco, Beef",500,27,10,0.5,45,930,54,5,3,19
+"Stuffed Grilled Taco, Chicken",510,26,9,0,60,1040,54,4,4,23
+"Stuffed Grilled Taco, Steak",490,25,9,0,50,920,53,4,3,21
+"Taco Bravo, Beef",320,14,5,0,25,680,38,6,2,15
+"Taco Bravo, Chicken",330,14,4,0,40,790,38,6,3,19
+"Taco Bravo, Steak",310,12,4,0,30,670,37,6,2,17
+Bean Burrito,400,13,5,0,15,960,57,9,2,17
+Beef Burrito,460,22,8,0.5,50,980,44,4,2,23
+"Boss Burrito, Beef, Pico de Gallo",830,33,14,1,65,2230,108,13,7,34
+"Boss Burrito, Beef, Roasted Corn & Pepper Salsa",840,34,14,1,65,2210,109,13,8,34
+"Boss Burrito, Chicken, Pico de Gallo",800,27,12,0,85,2370,107,12,8,40
+"Boss Burrito, Chicken, Roasted Corn & Pepper Salsa",810,27,12,0,85,2360,108,13,8,40
+"Boss Burrito, Steak, Pico de Gallo",810,30,12,0,70,2220,106,12,7,37
+"Boss Burrito, Steak, Roasted Corn & Pepper Salsa",820,31,13,0,70,2200,107,13,8,37
+Combination Burrito,430,18,7,0,30,970,50,7,2,20
+"Grilled Burrito, Beef",850,53,20,1,95,1810,61,6,3,38
+"Grilled Burrito, Chicken",700,38,12,0,90,1770,59,5,3,34
+"Grilled Burrito, Fried Chicken",750,42,12,0,60,1780,71,7,3,27
+"Grilled Burrito, Steak",720,41,13,0,75,1620,59,5,3,31
+"Meat & Potato Burrito, Beef",530,27,8,0,35,1220,59,6,3,15
+"Meat & Potato Burrito, Chicken",510,23,7,0,45,1310,59,5,4,19
+"Meat & Potato Burrito, Fried Chicken",560,26,7,0,30,1370,68,7,3,16
+"Meat & Potato Burrito, Steak",550,26,8,0,45,1270,59,5,3,20
+"Super Burrito, Beef",470,20,8,0,40,980,52,7,4,21
+"Super Burrito, Chicken",440,17,7,0,55,1070,52,7,4,24
+"Super Burrito, Fried Chicken",530,22,8,0,45,1260,64,9,4,23
+"Super Burrito, Steak",480,20,8,0,55,1030,52,7,4,25
+Bean Burrito,400,13,5,0,15,960,57,9,2,17
+"Boss Bowl, Beef, Pico de Gallo",640,27,12,1,65,1970,79,12,6,25
+"Boss Bowl, Beef, Roasted Corn & Pepper Salsa",650,27,12,1,65,1960,81,12,7,26
+"Boss Bowl, Chicken, Pico de Gallo",610,20,9,0,85,2120,78,11,7,32
+"Boss Bowl, Chicken, Roasted Corn & Pepper Salsa",620,20,9,0,85,2100,79,12,7,32
+"Boss Bowl, Steak, Pico de Gallo",630,24,10,0,70,1960,77,12,6,29
+"Boss Bowl, Steak, Roasted Corn & Pepper Salsa",630,24,10,0,70,1950,79,12,7,29
+"Fried Chicken & Potato Olés® Snacker, Chipotle Lime",730,47,9,0,45,1970,61,7,3,17
+"Fried Chicken & Potato Olés® Snacker, Jalapeño Ranch",750,48,9,0,45,2080,62,8,2,18
+"Quesadilla, Cheese",500,29,14,0.5,60,970,41,3,2,26
+"Quesadilla, Beef",580,34,16,1,75,1160,43,3,2,32
+"Quesadilla, Chicken",560,30,14,0.5,90,1240,43,3,3,36
+"Quesadilla, Steak",590,34,15,0.5,90,1210,43,3,2,36
+"Super Nachos, Beef",810,43,14,0.5,65,1300,85,10,3,24
+"Super Nachos, Chicken",790,39,12,0,80,1380,84,9,4,28
+"Super Nachos, Steak",820,42,13,0,75,1350,84,9,3,29
+"Super Potato Olés®, Beef",1120,68,21,1,65,3050,104,14,4,26
+"Super Potato Olés®, Chicken",1100,64,19,0.5,80,3130,103,14,4,30
+"Super Potato Olés®, Steak",1130,68,20,0.5,75,3100,103,14,4,31
+"Taco Salad, Beef",560,31,13,0.5,60,870,50,3,6,26
+"Taco Salad, Chicken",530,25,11,0,80,980,50,2,7,31
+"Taco Salad, Fried Chicken",670,33,12,0,70,1300,68,5,6,31
+"Taco Salad, Steak",540,28,11,0,65,860,49,2,6,28
+Cheese Roll-Up,200,10,5,0,20,360,18,1,1,10
+Ranch Burrito,420,21,7,0,35,840,43,4,3,17
+Taco Burger,280,11,4,0,30,570,30,2,4,15
+Cheesy Quesadilla,220,13,6,0,30,410,19,1,1,12
+"Chicken Tenders, with Ranch Dressing",400,28,4.5,0,45,950,22,3,1,14
+"Crispy Taco, Beef",150,10,3.5,0,25,270,11,2,1,7
+"Softshell Taco, Beef",230,11,4,0,25,490,21,2,1,9
+Junior Potato Olés®,330,19,4,0,0,970,37,4,0,3
+Cheesy Bacon Ranch Loaded Potato Olés®,750,49,11,0,25,2180,67,7,1,10
+Cheesy Snack Quesadilla,220,13,6,0,30,410,19,1,1,12
+Chicken Bacon Guac Street Taco,210,10,3,0,35,530,19,2,2,12
+Chicken Snack Quesadilla,210,9,4,0,35,500,19,1,1,14
+Churro,230,11,1.5,0,0,330,31,2,10,3
+"Cold Brew, Mocha",80,1.5,1,0,5,60,14,0,13,3
+"Cold Brew, Vanilla",80,1.5,1,0,5,55,13,0,13,3
+Grande Beef Taco,470,25,10,0.5,50,1060,43,5,3,19
+Spicy Chicken & Potato Griller,360,16,4,0,35,1000,40,3,2,16
+Spicy Steak & Potato Griller,370,18,4.5,0,25,910,40,3,2,14
+5 Chicken Tenders w/ Jalapeño Ranch,570,35,6,0/0.5,65,1570,39,6,2,23
+10 Chicken Tenders w/ Jalapeño Ranch,1130,71,12,1,135,3140,77,11,4,47
+20 Chicken Tenders w/ Jalapeño Ranch,2270,141,23,2,270,6280,154,23,8,93
+5 Chicken Tenders w/ Chipotle Lime,580,37,6,0.5,65,1520,39,5,3,22
+10 Chicken Tenders w/ Chipotle Lime,1160,75,12,1,135,3040,78,11,6,45
+20 Chicken Tenders w/ Chipotle Lime,2330,149,24,2,265,6090,155,22,12,90
+Black Beans,210,1,0,0,0,910,38,14,0,14
+Chips,270,11,1.5,0,0,210,40,3,0,4
+Chips & Nacho Cheese,380,20,4.5,0,10,600,45,3,1,6
+Cilantro Lime Rice,280,9,1.5,0,0,680,43,2,2,5
+"Potato Olés®, Junior",330,19,4,0,0,970,37,4,0,3
+"Potato Olés®, Small",480,27,6,0,0,1380,52,6,1,5
+"Potato Olés®, Medium",670,38,8,0,0,1930,73,8,1,7
+"Potato Olés®, Large",860,49,11,0,0,2490,94,10,1,9
+Refried Beans,360,8,3.5,0,15,1180,52,17,1,22
+Rice & Beans,240,5,1,0,0,790,41,8,1,9
+Side Salad,40,2.5,1.5,0,5,55,3,1,2,1
+Churro,230,11,1.5,0,0,330,31,2,10,3
+Mexican Donut Bites,300,8,1.5,0,5,220,48,1,25,4
+"Chipotle Lime Sauce, 1 fl oz",140,14,2.5,0,10,250,3,0,2,0
+"Creamy Italian Dressing, 1.5 fl oz",130,14,2.5,0,0,320,2,0,2,0
+"Guacamole, 2.5 fl oz",150,11,2,0,0,220,12,3,0,1
+"House Dressing, 1.5 fl oz",70,7,1,0,0,260,2,1,2,0
+"House Salsa, 1 fl oz",5,0,1,0,0,160,6,0,1,0
+"Jalapeño Ranch Sauce, 1 fl oz",130,13,2,0,10,280,3,0,1,1
+"Nacho Cheese, 3 fl oz",110,9,3.5,0,10,390,5,0,0,3
+"Pico de Gallo, 1 fl oz",10,0,0,0,0,95,2,0,1,0
+"Ranch Dressing, 1.5 fl oz",210,23,3.5,0,15,310,1,0,1,0
+"Roasted Corn & Pepper Salsa, 1 fl oz",15,0,0,0,0,85,3,1,1,0
+"Sour Cream, 2.5 fl oz",140,13,8,0.5,50,50,4,0,3,2
+"Super Hot Sauce, 1 fl oz",5,0,0,0,0,40,1,1,1,0
+"Breakfast Griller, Bacon | at select locations",570,29,10,0,170,1510,58,5,3,22
+"Breakfast Griller, Sausage | at select locations",570,30,10,0,175,1430,59,5,3,21
+"Breakfast Griller, Steak | at select locations",540,26,9,0,170,1340,59,5,3,22
+"Breakfast Taco, Bacon | at select locations",350,19,6,0,125,880,31,3,1,13
+"Breakfast Taco, Sausage | at select locations",360,20,6,0,130,870,31,3,1,13
+"Breakfast Taco, Steak | at select locations",340,17,5,0,125,810,31,3,1,14
+"Jr. Breakfast Burrito, Bacon",270,12,4,0,175,640,28,2,2,12
+"Jr. Breakfast Burrito, Sausage",280,14,4.5,0,170,600,28,2,2,12
+"Jr. Breakfast Burrito, Steak",260,11,3.5,0,170,540,28,2,2,12
+"Meat & Potato Breakfast Burrito, Bacon",560,28,9,0,240,1430,57,5,3,20
+"Meat & Potato Breakfast Burrito, Sausage",630,35,11,0,240,1460,58,5,4,22
+"Meat & Potato Breakfast Burrito, Steak",570,27,7,0,235,1280,58,5,3,23
+"Potato Olés® Scrambler, Bacon",1030,64,18,0,265,3050,88,9,4,27
+"Potato Olés® Scrambler, Sausage",1100,71,21,0,265,3090,89,9,4,28
+"Potato Olés® Scrambler, Steak",1040,63,17,0,260,2910,89,9,4,30
+"Scrambler Breakfast Burrito, Bacon",570,28,9,0,240,1430,59,5,4,20
+"Scrambler Breakfast Burrito, Sausage",640,35,11,0,240,1460,60,5,5,22
+"Scrambler Breakfast Burrito, Steak",580,27,7,0,235,1290,60,5,4,23
+Spicy Chorizo Breakfast Burrito,500,27,10,0,240,1310,46,4,4,20
+"Cold Brew, Plain",45,1.5,1,0,5,50,4,0,4,3
+"Cold Brew, Mocha",80,1.5,1,0,5,60,14,0,13,3
+Extra Shot of Mocha Syrup,35,0,0,0,0,10,9,0,9,0
+"Cold Brew, Vanilla",80,1.5,1,0,5,55,13,0,13,3
+Extra Shot of Vanilla Syrup,35,0,0,0,0,0,9,0,9,0
+Tropicana® Orange Juice,170,0,0,0,0,20,39,0,34,3
+Chocolate Milk,140,2.5,1.5,0,10,160,23,1,23,7
+"Pepsi®, Kid’s Meal, 12 fl oz",150,0,0,0,0,35,41,0,41,0
+"Pepsi®, Small, 20 fl oz",250,0,0,0,0,55,69,0,69,0
+"Pepsi®, Medium, 30 fl oz",380,0,0,0,0,85,104,0,104,0
+"Pepsi®, Large, 40 fl oz",500,0,0,0,0,110,138,0,138,0
+"Diet Pepsi®, Kid’s Meal, 12 fl oz",0,0,0,0,0,35,0,0,0,0
+"Diet Pepsi®, Small, 20 fl oz",0,0,0,0,0,60,0,0,0,0
+"Diet Pepsi®, Medium, 30 fl oz",0,0,0,0,0,90,0,0,0,0
+"Diet Pepsi®, Large, 40 fl oz",0,0,0,0,0,120,0,0,0,0
+"Mist Twst®, Kid’s Meal, 12 fl oz",140,0,0,0,0,35,39,0,39,0
+"Mist Twst®, Small, 20 fl oz",240,0,0,0,0,55,65,0,65,0
+"Mist Twst®, Medium, 30 fl oz",360,0,0,0,0,85,98,0,98,0
+"Mist Twst®, Large, 40 fl oz",480,0,0,0,0,110,130,0,130,0
+"Mountain Dew®, Kid’s Meal, 12 fl oz",170,0,0,0,0,65,46,0,46,0
+"Mountain Dew®, Small, 20 fl oz",290,0,0,0,0,105,77,0,77,0
+"Mountain Dew®, Medium, 30 fl oz",440,0,0,0,0,160,116,0,116,0
+"Mountain Dew®, Large, 40 fl oz",580,0,0,0,0,210,154,0,154,0
+"Diet Mountain Dew®, Kid’s Meal, 12 fl oz",5,0,0,0,0,50,1,0,1,0
+"Diet Mountain Dew®, Small, 20 fl oz",10,0,0,0,0,85,1,0,1,0
+"Diet Mountain Dew®, Medium, 30 fl oz",15,0,0,0,0,130,2,0,2,0
+"Diet Mountain Dew®, Large, 40 fl oz",20,0,0,0,0,170,2,0,2,0
+"Tropicana® Lemonade, Kid’s Meal, 12 fl oz",150,0,0,0,0,150,40,0,40,0
+"Tropicana® Lemonade, Small 20 fl oz",250,0,0,0,0,260,67,0,66,0
+"Tropicana® Lemonade, Medium, 30 fl oz",380,0,0,0,0,390,100,0,99,0
+"Tropicana® Lemonade, Large, 40 fl oz",510,0,0,0,0,520,133,0,133,0
+"Dr Pepper®, Kid’s Meal, 12 fl oz",150,0,0,0,0,60,40,0,38,0
+"Dr Pepper®, Small, 20 fl oz",250,0,0,0,0,100,66,0,64,0
+"Dr Pepper®, Medium, 30 fl oz",380,0,0,0,0,150,99,0,96,0
+"Dr Pepper®, Large, 40 fl oz",500,0,0,0,0,200,132,0,128,0
+"Mug® Root Beer, Kid’s Meal, 12 fl oz",160,0,0,0,0,65,43,0,43,0
+"Mug® Root Beer, Medium, 30 fl oz",390,0,0,0,0,160,107,0,107,0
+"Mug® Root Beer, Large, 40 fl oz",520,0,0,0,0,210,142,0,142,0
+"Wild Cherry Pepsi®, Kid’s Meal, 12 fl oz",160,0,0,0,0,35,42,0,42,0
+"Wild Cherry Pepsi®, Small, 20 fl oz",260,0,0,0,0,55,70,0,70,0
+"Wild Cherry Pepsi®, Medium, 30 fl oz",390,0,0,0,0,85,105,0,105,0
+"Wild Cherry Pepsi®, Large, 40 fl oz",520,0,0,0,0,110,140,0,140,0
+"Lifewater® Yumberry Pomegranate, Kid’s Meal, 12 fl oz",0,0,0,0,0,45,0,0,0,0
+"Lifewater® Yumberry Pomegranate, Small, 20 fl oz",5,0,0,0,0,80,0,0,0,0
+"Lifewater® Yumberry Pomegranate, Medium, 30 fl oz",5,0,0,0,0,120,1,0,0,0
+"Lifewater® Yumberry Pomegranate, Large, 40 fl oz",5,0,0,0,0,160,1,0,0,0
+"Brisk® No Calorie Peach Iced Green Tea, Kid’s Meal, 12 fl oz",0,0,0,0,0,105,0,0,0,0
+"Brisk® No Calorie Peach Iced Green Tea, Small, 20 fl oz",0,0,0,0,0,180,0,0,0,0
+"Brisk® No Calorie Peach Iced Green Tea, Medium, 30 fl oz",0,0,0,0,0,260,0,0,0,0
+"Brisk® No Calorie Peach Iced Green Tea, Large, 40 fl oz",0,0,0,0,0,350,0,0,0,0
+"Brisk® Raspberry Iced Tea, Kid’s Meal, 12 fl oz",70,0,0,0,0,50,18,0,18,0
+"Brisk® Raspberry Iced Tea, Small, 20 fl oz",120,0,0,0,0,80,30,0,30,0
+"Brisk® Raspberry Iced Tea, Medium, 30 fl oz",170,0,0,0,0,120,45,0,45,0
+"Brisk® Raspberry Iced Tea, Large, 40 fl oz",230,0,0,0,0,160,60,0,60,0
