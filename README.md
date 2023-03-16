@@ -2,6 +2,8 @@
 
 Nutrition data from popular restaurants and fast food chains.
 
+This data is imported into the [FoodNoms](https://foodnoms.com) database.
+
 ## Contributions
 
 I welcome contributions in the form of pull requests.
