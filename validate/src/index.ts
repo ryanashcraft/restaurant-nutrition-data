@@ -20,6 +20,7 @@ const validateCsv = async (fileContent: string): Promise<string | null> => {
       parse(
         fileContent,
         {
+          bom: true,
           delimiter: ",",
         },
         (error, rows: string[][]) => {
