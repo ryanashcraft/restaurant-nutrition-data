@@ -1,61 +1,61 @@
-﻿Name,Serving Size (g),Serving Size (mL),Calories,Calories from Fat,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carb (g),Dietary Fiber (g),Total Sugar (g),Protein (g)
-Wing (Each),,,210,130,14,4,0,60,610,8,1,0,13
-Leg (Each),,,160,80,9,4,0,40,460,5,1,0,14
-Thigh (Each),,,280,190,21,8,0,50,640,7,1,0,14
-Breast (Each),,,380,180,20,8,1,125,1230,16,2,0,35
-Tenders - Classic Or Spicy (3 Pieces),,,450,180,21,9,1,100,1820,29,2,0,38
-Tenders - Classic Or Spicy (5 Pieces),,,740,300,34,14,2,170,3040,48,3,0,63
-Tenders - Blackened (3 Pieces),,,170,20,2,0,0,25,550,2,0,0,26
-"Tenders - Blackened, (5 Pieces)",,,280,30,3,0,0,40,920,3,0,0,43
-Nuggets (8 Pieces),,,380,220,24,11,1.5,80,880,19,1,0,22
-Nuggets (12 Pieces),,,570,320,36,16,2,120,1320,28,2,0.5,34
-Popcorn Shrimp,113.398,,390,220,25,8,1,80,1390,28,3,0,14
-Chicken Sandwich-Classic,,,700,380,42,14,2,90,1440,50,2,8,28
-Chicken Sandwich-Spicy,,,700,380,42,14,2,90,1470,50,2,8,28
-Biscuit,,,210,120,13,6,0,0,440,20,1,1,3
-"Cajun Fries, Regular ",,,270,130,14,5,1,5,590,33,3,0,4
-"Cajun Fries, Large",,,800,370,42,15,2,10,1760,97,9,1,10
-"Homestyle Mac & Cheese, Regular",,,280,180,21,21,0.5,60,510,16,0,3,11
-"Homestyle Mac & Cheese, Large",,,850,550,63,36,1.5,180,1540,48,1,9,33
-"Mashed Potatoes With Cajun Gravy, Regular",,,110,40,4,2,0,5,590,18,1,1,3
-"Mashed Potatoes With Cajun Gravy, Large",,,330,110,12,6,0,15,1770,54,3,3,9
-"Red Beans & Rice, Regular",,,250,140,16,5,0,15,610,22,6,0,8
-"Red Beans & Rice, Large",,,610,360,40,13,0,35,1490,51,15,0,19
-"Coleslaw, Regular",,,140,90,10,2,0,5,190,12,1,9,1
-"Coleslaw, Large",,,420,270,30,5,0,15,570,36,3,27,3
-Jalapeño,,,5,0,0,0,0,0,370,1,1,1,0
-Bayou Buffalo,28.3495,,60,50,6,1,0,0,450,2,0,0,0
-BoldBQ,38.27186,,70,0,0,0,0,0,440,16,0,13,0
-Blackened Ranch,28.3495,,120,110,12,2,0,10,250,2,0,1,<1
-Buttermilk Ranch,28.3495,,140,140,15,3,0,10,230,2,0,1,0
-Mardi Gras Mustard,28.3495,,100,80,8,1,0,10,240,5,1,4,1
-Sweet Heat®,38.27186,,70,0,0,0,0,0,290,19,0,16,0
-Tartar,28.3495,,140,140,15,3,0,15,230,1,0,1,0
-Creole Cocktail,38.27186,,40,0,0,0,0,0,400,9,0,7,0
-Chicken Biscuit,,,490,230,26,14,1,30,1280,47,1,2,17
-Sausage Biscuit,,,540,320,36,18,0,30,1100,41,1,2,13
-Egg Biscuit,,,510,260,29,15,0,130,1160,41,1,2,13
-Egg & Sausage Biscuit,,,690,410,45,22,0,160,1520,43,1,2,20
-Bacon Biscuit,,,400,230,25,12,0,5,780,37,3,2,8
-Sausage & Gravy Biscuit,,,510,300,33,14,1,15,1090,42,3,3,10
-Grits,,,370,50,5,1,0,0,30,80,7,0,5
-Hash Rounds,,,360,180,20,9,1,10,450,41,4,0,3
-Coffee,,,0,0,0,0,0,0,0,0,0,0,0
-Orange Juice,,,140,0,0,0,0,0,20,33,0,30,2
-Coke,,650.618,270,0,0,0,0,0,65,73,0,73,0
-Diet Coke,,650.618,0,0,0,0,0,0,90,<1,0,0,0
-Sprite,,650.618,260,0,0,0,0,0,125,71,0,70,0
-Fanta Strawberry,,650.618,300,0,0,0,0,0,95,82,0,81,0
-Fanta Orange,,650.618,290,0,0,0,0,0,75,80,0,79,0
-Hawaiian Punch,,650.618,310,0,0,0,0,0,100,83,0,82,0
-Mountain Dew,,650.618,290,0,0,0,0,0,120,77,0,77,0
-Pepsi,,650.618,280,0,0,0,0,0,50,70,0,70,0
-Diet Pepsi,,650.618,0,0,0,0,0,0,50,0,0,0,0
-Dr Pepper,,650.618,260,0,0,0,0,0,80,72,0,70,0
-Unsweetened Tea,,650.618,0,0,0,0,0,0,10,0,0,0,0
-Sweet Tea,,650.618,180,0,0,0,0,0,10,16,0,45,0
-Minute Maid Lemonade,,650.618,270,0,0,0,0,0,190,71,0,68,0
-Cinnamon Apple Pie,,,240,140,16,6,0,0,260,35,1,12,3
-Tender - Classic,,,150,60,7,3,0,35,610,12,1,0,13
-Leg - Classic,,,160,80,9,4,0,40,460,5,1,0,14
-Nuggets (4 Pieces),,,190,110,12,6,1,40,440,10,0,0,11
+﻿Name,Serving Size (g),Serving Size (mL),Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Sugars (g),Protein (g)
+Wing (Each),,,210,14,4,0,60,610,8,1,0,13
+Leg (Each),,,160,9,4,0,40,460,5,1,0,14
+Thigh (Each),,,280,21,8,0,50,640,7,1,0,14
+Breast (Each),,,380,20,8,1,125,1230,16,2,0,35
+Tenders - Classic Or Spicy (3 Pieces),,,450,21,9,1,100,1820,29,2,0,38
+Tenders - Classic Or Spicy (5 Pieces),,,740,34,14,2,170,3040,48,3,0,63
+Tenders - Blackened (3 Pieces),,,170,2,0,0,25,550,2,0,0,26
+"Tenders - Blackened, (5 Pieces)",,,280,3,0,0,40,920,3,0,0,43
+Nuggets (8 Pieces),,,380,24,11,1.5,80,880,19,1,0,22
+Nuggets (12 Pieces),,,570,36,16,2,120,1320,28,2,0.5,34
+Popcorn Shrimp,113.398,,390,25,8,1,80,1390,28,3,0,14
+Chicken Sandwich-Classic,,,700,42,14,2,90,1440,50,2,8,28
+Chicken Sandwich-Spicy,,,700,42,14,2,90,1470,50,2,8,28
+Biscuit,,,210,13,6,0,0,440,20,1,1,3
+"Cajun Fries, Regular ",,,270,14,5,1,5,590,33,3,0,4
+"Cajun Fries, Large",,,800,42,15,2,10,1760,97,9,1,10
+"Homestyle Mac & Cheese, Regular",,,280,21,21,0.5,60,510,16,0,3,11
+"Homestyle Mac & Cheese, Large",,,850,63,36,1.5,180,1540,48,1,9,33
+"Mashed Potatoes With Cajun Gravy, Regular",,,110,4,2,0,5,590,18,1,1,3
+"Mashed Potatoes With Cajun Gravy, Large",,,330,12,6,0,15,1770,54,3,3,9
+"Red Beans & Rice, Regular",,,250,16,5,0,15,610,22,6,0,8
+"Red Beans & Rice, Large",,,610,40,13,0,35,1490,51,15,0,19
+"Coleslaw, Regular",,,140,10,2,0,5,190,12,1,9,1
+"Coleslaw, Large",,,420,30,5,0,15,570,36,3,27,3
+Jalapeño,,,5,0,0,0,0,370,1,1,1,0
+Bayou Buffalo,28.3495,,60,6,1,0,0,450,2,0,0,0
+BoldBQ,38.27186,,70,0,0,0,0,440,16,0,13,0
+Blackened Ranch,28.3495,,120,12,2,0,10,250,2,0,1,<1
+Buttermilk Ranch,28.3495,,140,15,3,0,10,230,2,0,1,0
+Mardi Gras Mustard,28.3495,,100,8,1,0,10,240,5,1,4,1
+Sweet Heat,38.27186,,70,0,0,0,0,290,19,0,16,0
+Tartar,28.3495,,140,15,3,0,15,230,1,0,1,0
+Creole Cocktail,38.27186,,40,0,0,0,0,400,9,0,7,0
+Chicken Biscuit,,,490,26,14,1,30,1280,47,1,2,17
+Sausage Biscuit,,,540,36,18,0,30,1100,41,1,2,13
+Egg Biscuit,,,510,29,15,0,130,1160,41,1,2,13
+Egg & Sausage Biscuit,,,690,45,22,0,160,1520,43,1,2,20
+Bacon Biscuit,,,400,25,12,0,5,780,37,3,2,8
+Sausage & Gravy Biscuit,,,510,33,14,1,15,1090,42,3,3,10
+Grits,,,370,5,1,0,0,30,80,7,0,5
+Hash Rounds,,,360,20,9,1,10,450,41,4,0,3
+Coffee,,,0,0,0,0,0,0,0,0,0,0
+Orange Juice,,,140,0,0,0,0,20,33,0,30,2
+Coke,,650.618,270,0,0,0,0,65,73,0,73,0
+Diet Coke,,650.618,0,0,0,0,0,90,<1,0,0,0
+Sprite,,650.618,260,0,0,0,0,125,71,0,70,0
+Fanta Strawberry,,650.618,300,0,0,0,0,95,82,0,81,0
+Fanta Orange,,650.618,290,0,0,0,0,75,80,0,79,0
+Hawaiian Punch,,650.618,310,0,0,0,0,100,83,0,82,0
+Mountain Dew,,650.618,290,0,0,0,0,120,77,0,77,0
+Pepsi,,650.618,280,0,0,0,0,50,70,0,70,0
+Diet Pepsi,,650.618,0,0,0,0,0,50,0,0,0,0
+Dr Pepper,,650.618,260,0,0,0,0,80,72,0,70,0
+Unsweetened Tea,,650.618,0,0,0,0,0,10,0,0,0,0
+Sweet Tea,,650.618,180,0,0,0,0,10,16,0,45,0
+Minute Maid Lemonade,,650.618,270,0,0,0,0,190,71,0,68,0
+Cinnamon Apple Pie,,,240,16,6,0,0,260,35,1,12,3
+Tender - Classic,,,150,7,3,0,35,610,12,1,0,13
+Leg - Classic,,,160,9,4,0,40,460,5,1,0,14
+Nuggets (4 Pieces),,,190,12,6,1,40,440,10,0,0,11
