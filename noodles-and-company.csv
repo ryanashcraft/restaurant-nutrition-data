@@ -2,13 +2,13 @@ Name,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sod
 3-Cheese Tortelloni Pesto (Regular),770,40,18,0,140,1920,74,7,6,34
 3-Cheese Tortelloni Pesto (Small),390,20,9,0,70,960,37,3,3,17
 3-Cheese Tortelloni Rosa (Regular),730,33,18,0.5,140,1940,76,1,10,35
-3-Cheese Tortelloni Rosa (Small),360,17,9,0,70,970,38,< 1,5,17
+3-Cheese Tortelloni Rosa (Small),360,17,9,0,70,970,38,<1,5,17
 Alfredo MontAmore with Parmesan-Crusted Chicken (Regular),1630,104,53,3,310,2390,117,9,15,57
 Alfredo MontAmore with Parmesan-Crusted Chicken (Small),800,46,21,1.5,150,1550,59,4,7,37
 Buttered Noodles (Regular),760,35,15,1,220,600,98,4,6,22
 Buttered Noodles (Small),380,18,8,0,110,300,49,2,3,11
 Cheese Tortelloni in Roasted Garlic Cream Sauce (Regular),820,44,22,1,160,2510,72,2,8,33
-Roasted Garlic Cream Tortelloni (Small),410,22,11,0,80,1250,36,< 1,4,17
+Roasted Garlic Cream Tortelloni (Small),410,22,11,0,80,1250,36,<1,4,17
 Pasta Fresca (Regular),820,38,8,0,15,1540,99,6,9,21
 Pasta Fresca (Small),410,19,4,0,5,770,50,3,4,10
 Penne Rosa w/ Parm (Regular),730,25,11,0.5,45,980,104,5,12,23
@@ -22,15 +22,15 @@ BBQ Chicken Mac (Small),670,24,11,0.5,150,1430,65,4,9,48
 Buffalo Chicken Mac (Regular),1100,39,18,1,130,3180,128,6,12,59
 Buffalo Chicken Mac (Small),650,23,10,0.5,95,2050,68,3,6,41
 Gluten-Sensitive Pipette Mac (Regular),850,34,19,1,95,1550,105,2,5,33
-Gluten-Sensitive Pipette Mac (Small),420,17,9,0.5,50,770,52,< 1,2,16
+Gluten-Sensitive Pipette Mac (Small),420,17,9,0.5,50,770,52,<1,2,16
 Wisconsin Mac & Cheese (Regular),980,38,20,1,95,1560,119,5,11,42
 Wisconsin Mac & Cheese (Small),490,19,10,0.5,50,780,59,2,5,21
 3-Cheese Tortelloni Pesto (Regular),770,40,18,0,140,1920,74,7,6,34
 3-Cheese Tortelloni Pesto (Small),390,20,9,0,70,960,37,3,3,17
 3-Cheese Tortelloni Rosa (Regular),730,33,18,0.5,140,1940,76,1,10,35
-3-Cheese Tortelloni Rosa (Small),360,17,9,0,70,970,38,< 1,5,17
+3-Cheese Tortelloni Rosa (Small),360,17,9,0,70,970,38,<1,5,17
 Cheese Tortelloni in Roasted Garlic Cream Sauce (Regular),820,44,22,1,160,2510,72,2,8,33
-Roasted Garlic Cream Tortelloni (Small),410,22,11,0,80,1250,36,< 1,4,17
+Roasted Garlic Cream Tortelloni (Small),410,22,11,0,80,1250,36,<1,4,17
 Japanese Pan Noodles (Regular),640,12,4,0,0,2010,114,6,22,20
 Japanese Pan Noodles (Small),320,6,2,0,0,1000,57,3,11,10
 Pad Thai (Regular),1040,42,8,0,340,2020,143,4,44,20
@@ -56,12 +56,12 @@ Zucchini Pesto Cream with Grilled Chicken (Small),320,17,6,0,125,1470,11,3,5,32
 Japanese Pan Noodles with Tofu (Regular),870,26,6,0,0,2510,120,7,25,40
 Japanese Pan Noodles with Tofu (Small),550,20,4.5,0,0,1500,63,4,14,30
 Gluten-Sensitive Pipette Mac (Regular),850,34,19,1,95,1550,105,2,5,33
-Gluten-Sensitive Pipette Mac (Small),420,17,9,0.5,50,770,52,< 1,2,16
+Gluten-Sensitive Pipette Mac (Small),420,17,9,0.5,50,770,52,<1,2,16
 Pad Thai with Shrimp (Regular),1120,45,8,0,440,2480,144,4,44,34
 Pad Thai with Shrimp (Small),600,24,4.5,0,270,1470,73,2,22,24
 Kids Apples,30,0,0,0,0,0,8,1,6,0
 Kids Buttered Noodles,380,18,8,0,110,300,49,2,3,11
-Kids Grilled Chicken,170,5,1.5,0,105,640,3,< 1,2,27
+Kids Grilled Chicken,170,5,1.5,0,105,640,3,<1,2,27
 Kids Spaghetti & Meatballs,450,21,8,1.5,40,710,50,2,8,16
 Kids Wisconsin Mac,490,19,10,0.5,50,780,59,3,5,21
 Cheesy Garlic Bread,610,25,14,1,55,1610,78,3,10,21
