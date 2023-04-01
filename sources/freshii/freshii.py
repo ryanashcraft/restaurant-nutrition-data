@@ -20,16 +20,22 @@ HEADERS = [
 ]
 
 def main():
-    items = extract_items()
+    us_freshii = extract_items("./2023-03 freshii us.pdf")
+    canada_freshii = extract_items("./2023-03 freshii canada.pdf")
     with open('../../freshii.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(HEADERS)
-        for item in items:
+        for item in us_freshii:
             writer.writerow(item)
+        for item in canada_freshii:
+            if item in us_freshii:
+                continue
+            else:
+                writer.writerow([item[0] + " (Canada)", *item[1:]])
 
-def extract_items():
+def extract_items(path: str):
     items = []
-    with pdfplumber.open("./2023-03 freshii us.pdf") as pdf:
+    with pdfplumber.open(path) as pdf:
         for page in pdf.pages:
             for table in page.extract_tables():
                 table_header = ""
