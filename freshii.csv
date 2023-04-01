@@ -1,0 +1,86 @@
+Name,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Sugars (g),Protein (g)
+Bacon Ranch Salad,280,18,6,0.2,35,610,17,5,8,14
+Cobb Salad,450,31,10,0.3,250,740,22,8,6,27
+Fiesta Salad,480,36,6,0.2,20,540,33,9,6,23
+Market Salad,540,27,6,0.2,20,640,68,12,37,11
+Kale Caesar Salad,560,31,5,0.2,30,1010,51.5,11,7.5,22
+Sesame Crunch Salad,220,14,1.5,0,0,360,21,5,11,4
+Bacon Ranch Wrap,500,23,9,0.3,30,1020,58,9,7,20
+Cobb Wrap,710,38,13,0.3,250,1160,62,11,5,33
+Fiesta Wrap,690,38,9,0.2,20,930,74,13,7,19
+Market Wrap,740,35,8,0.2,20,830,94,12,26,17
+Kale Caesar Wrap,720,34,9,0.2,29,1230,76,15,4,27
+Sesame Crunch Wrap,490,23,4.5,0.1,0,860,64,9,12,11
+Chipotle Cheddar Bowl,790,27,6,0.2,20,820,122,13,11,22
+Pangoa Bowl,700,19,6,0.2,20,490,118,13,27,19
+Teriyaki Twist Bowl,470,9,1,0,0,810,90,8,12,14
+Oaxaca Bowl,580,16,2,0.1,0,440,100,13,23,15
+Tex Mex Bowl,640,23,6,0.2,25,470,90,12,6,19
+Buddha's Satay Bowl,480,16,7,0,0,970,83,7,18,11
+Bamboo Bowl,540,19,12,0,10,420,80,9,9,12
+Smokehouse Bowl,480,10,5,0,20,325,89,8,20,17
+Southwest BBQ Bowl,450,8,1.5,0,5,340,88,6,23,9
+Mediterranean Bowl,470,24,5,0.2,20,950,50,9,10,16
+Chipotle Cheddar Burrito,720,25,8,0.3,20,1120,107,16,10,24
+Pangoa Burrito,860,26,9,0,20,905,136,17,23,25
+Teriyaki Twist Burrito,650,17,4,0,0,940,108,12,9,20
+Oaxaca Burrito,730,24,5,0,0,880,130,17,20,21
+Tex Mex Burrito,710,28,8,0.2,25,920,99,15,6,23
+Buddha's Satay Burrito,720,23,8,0,0,1150,115,12,15,18
+Bamboo Burrito,650,21,11,0,5,720,100,12,7,16
+Smokehouse Burrito,650,18,7,0.2,20,780,107,12,17,22
+Mediterranean Burrito,620,29,8,0,20,1235,76,12,8,21
+Southwest BBQ Burrito,520,13,4,0.1,0,690,93,10,15,13
+Spicy Lemongrass Soup,240,3.5,0.4,0,0,1520,47,1,11,4
+Large Spicy Lemongrass Soup,370,6,1,0,0,2860,76,4,19,5
+Tortilla Soup,350,16,3.5,0,5,940,44,8,8,9
+Large Tortilla ,760,27,6,0,10,2380,113,22,21,26
+Chocolate Peanut Butter Smoothie (12oz),410,21,5,0.1,10,160,52,6,33,13
+Freshii Green Smoothie (12oz),200,6,1,0,0,55,38,7,20,3
+Tropical Mango Smoothie (12oz),250,12,11,0,0,15,36,3,26,2
+Strawberrii Banana Smoothie (12oz),220,3.5,2,0,10,150,45,3,33,5
+Mixed Berrii Smoothie (12oz),120,0,0,0,0,15,31,2,20,1
+Chocolate Peanut Butter Smoothie (24oz),770,38,9,0.1,20,290,95,11,62,25
+Freshii Green Smoothie (24oz),370,11,1.5,0,0,105,71,12,36,6
+Tropical Mango Smoothie (24oz),470,23,20,0,0,30,66,6,49,4
+Strawberrii Banana Smoothie (24oz),430,7,3.5,0.1,20,290,88,6,65,9
+Mixed Berrii Smoothie (24oz),200,0.5,0,0,0,20,50,3,33,2
+Whey Protein Powder Smoothie Add On,30,0,0,0,0,20,0,0,0,8
+Vegan Protein Powder Smoothie Add On,30,0.5,0.1,0,0,63,1.2,0.2,0.2,5
+Peanut Butter Energii Bites ,270,16,6,0,0,80,26,4,12,7
+Cocoa Energii Bites ,230,12,5,0,0,45,31,5,17,5
+"Kale, Mushroom & Cheese Pocket ",300,16,7,0.2,200,665,26,3,3,13
+"Bacon, Egg & Cheese Pocket ",410,25,10,0.2,230,970,27,3,3,22
+Ranchero Burrito ,700,37,11,0.2,370,1230,67,13,6,28
+"Steak, Egg & Cheese Burrito ",630,33,11,1,400,1530,49,5,4,36
+Huevos Bowl ,450,28,8,0.2,400,850,34,6,19,19
+Green Eggs & Kale Bowl ,280,20,7,0.2,400,770,11,1,6,15
+Cali Smoothie Bowl ,490,21,12,0,0,125,76,10,38,11
+Greek Yogurt Parfait ,420,11,4,0,20,85,75,11,40,13
+Hard Boiled Eggs (2) ,140,12,4,0,460,150,2,0,2,14
+Cheesy Chicken Pocket Kids,300,14,8,0.4,55,690,25,3,1,19
+Kids Ceasar Wrap Kids,600,27,9,0.3,55,1480,64,8,14,28
+Kids Power Bowl Kids,390,4.5,1,0,25,810,72,3,9,16
+Super Kids Salad Kids,180,10,4,0.2,45,440,9,2,4,14
+Chicken Protein,80,1,0,0,60,370,0,0,0,17
+Steak Protein,110,5,2,0,50,230,2,0,0,15
+Tofu Protein,80,4,1,0,0,90,3,0,2,7
+Falafel Protein,160,9,2,0,0,290,18,4,3,5
+Hard Boiled Eggs (2) Protein,140,12,4,0,460,150,2,0,2,14
+Balsamic Vinaigrette ,150,16,1.5,0,0,170,3,0,3,0
+Balsamic Vinegar ,30,0,0,0,0,10,5,0,5,0
+Cilantro Lime Vinaigrette ,120,13,1,0,0,150,2,0,1,1
+Greek Yogurt Caesar ,70,6,1,0,5,250,2,0,2,1
+Fiery Bbq ,80,0,0,0,0,220,20,0,18,1
+Greek Yogurt Caesar ,50,4,1,0,6,130,2,0,1,2
+Greek Yogurt Ranch ,40,3,0,0,5,90,2,0,1,2
+Green Curry ,40,3,2,0,0,90,2,0,1,1
+Lemon Juice ,10,0,0,0,0,0,2,0,1,0
+Olive Oil ,240,27,4,0,0,0,0,0,0,0
+Red Pepper ,40,3,0,0,0,190,2,0,2,0
+Salsa Fresca ,5,0,0,0,0,30,1,0,1,0
+Spicy Lemongrass ,50,2,0,0,0,380,6,0,5,4
+Spicy Peanut ,70,4,2,0,0,270,7,1,5,1
+Spicy Yogurt ,60,1,0,0,0,80,13,0,12,1
+Frank's Hot Sauce ,30,0,0,0,0,480,6,0,6,0
+Teriyaki ,20,0,0,0,0,350,5,0,4,0
