@@ -34,7 +34,7 @@ Southwest BBQ Burrito,520,13,4,0.1,0,690,93,10,15,13
 Spicy Lemongrass Soup,240,3.5,0.4,0,0,1520,47,1,11,4
 Large Spicy Lemongrass Soup,370,6,1,0,0,2860,76,4,19,5
 Tortilla Soup,350,16,3.5,0,5,940,44,8,8,9
-Large Tortilla ,760,27,6,0,10,2380,113,22,21,26
+Large Tortilla,760,27,6,0,10,2380,113,22,21,26
 Chocolate Peanut Butter Smoothie (12oz),410,21,5,0.1,10,160,52,6,33,13
 Freshii Green Smoothie (12oz),200,6,1,0,0,55,38,7,20,3
 Tropical Mango Smoothie (12oz),250,12,11,0,0,15,36,3,26,2
@@ -47,17 +47,17 @@ Strawberrii Banana Smoothie (24oz),430,7,3.5,0.1,20,290,88,6,65,9
 Mixed Berrii Smoothie (24oz),200,0.5,0,0,0,20,50,3,33,2
 Whey Protein Powder Smoothie Add On,30,0,0,0,0,20,0,0,0,8
 Vegan Protein Powder Smoothie Add On,30,0.5,0.1,0,0,63,1.2,0.2,0.2,5
-Peanut Butter Energii Bites ,270,16,6,0,0,80,26,4,12,7
-Cocoa Energii Bites ,230,12,5,0,0,45,31,5,17,5
-"Kale, Mushroom & Cheese Pocket ",300,16,7,0.2,200,665,26,3,3,13
-"Bacon, Egg & Cheese Pocket ",410,25,10,0.2,230,970,27,3,3,22
-Ranchero Burrito ,700,37,11,0.2,370,1230,67,13,6,28
-"Steak, Egg & Cheese Burrito ",630,33,11,1,400,1530,49,5,4,36
-Huevos Bowl ,450,28,8,0.2,400,850,34,6,19,19
-Green Eggs & Kale Bowl ,280,20,7,0.2,400,770,11,1,6,15
-Cali Smoothie Bowl ,490,21,12,0,0,125,76,10,38,11
-Greek Yogurt Parfait ,420,11,4,0,20,85,75,11,40,13
-Hard Boiled Eggs (2) ,140,12,4,0,460,150,2,0,2,14
+Peanut Butter Energii Bites,270,16,6,0,0,80,26,4,12,7
+Cocoa Energii Bites,230,12,5,0,0,45,31,5,17,5
+"Kale, Mushroom & Cheese Pocket",300,16,7,0.2,200,665,26,3,3,13
+"Bacon, Egg & Cheese Pocket",410,25,10,0.2,230,970,27,3,3,22
+Ranchero Burrito,700,37,11,0.2,370,1230,67,13,6,28
+"Steak, Egg & Cheese Burrito",630,33,11,1,400,1530,49,5,4,36
+Huevos Bowl,450,28,8,0.2,400,850,34,6,19,19
+Green Eggs & Kale Bowl,280,20,7,0.2,400,770,11,1,6,15
+Cali Smoothie Bowl,490,21,12,0,0,125,76,10,38,11
+Greek Yogurt Parfait,420,11,4,0,20,85,75,11,40,13
+Hard Boiled Eggs (2),140,12,4,0,460,150,2,0,2,14
 Cheesy Chicken Pocket Kids,300,14,8,0.4,55,690,25,3,1,19
 Kids Ceasar Wrap Kids,600,27,9,0.3,55,1480,64,8,14,28
 Kids Power Bowl Kids,390,4.5,1,0,25,810,72,3,9,16
@@ -67,20 +67,20 @@ Steak Protein,110,5,2,0,50,230,2,0,0,15
 Tofu Protein,80,4,1,0,0,90,3,0,2,7
 Falafel Protein,160,9,2,0,0,290,18,4,3,5
 Hard Boiled Eggs (2) Protein,140,12,4,0,460,150,2,0,2,14
-Balsamic Vinaigrette ,150,16,1.5,0,0,170,3,0,3,0
-Balsamic Vinegar ,30,0,0,0,0,10,5,0,5,0
-Cilantro Lime Vinaigrette ,120,13,1,0,0,150,2,0,1,1
-Greek Yogurt Caesar ,70,6,1,0,5,250,2,0,2,1
-Fiery Bbq ,80,0,0,0,0,220,20,0,18,1
-Greek Yogurt Caesar ,50,4,1,0,6,130,2,0,1,2
-Greek Yogurt Ranch ,40,3,0,0,5,90,2,0,1,2
-Green Curry ,40,3,2,0,0,90,2,0,1,1
-Lemon Juice ,10,0,0,0,0,0,2,0,1,0
-Olive Oil ,240,27,4,0,0,0,0,0,0,0
-Red Pepper ,40,3,0,0,0,190,2,0,2,0
-Salsa Fresca ,5,0,0,0,0,30,1,0,1,0
-Spicy Lemongrass ,50,2,0,0,0,380,6,0,5,4
-Spicy Peanut ,70,4,2,0,0,270,7,1,5,1
-Spicy Yogurt ,60,1,0,0,0,80,13,0,12,1
-Frank's Hot Sauce ,30,0,0,0,0,480,6,0,6,0
-Teriyaki ,20,0,0,0,0,350,5,0,4,0
+Balsamic Vinaigrette,150,16,1.5,0,0,170,3,0,3,0
+Balsamic Vinegar,30,0,0,0,0,10,5,0,5,0
+Cilantro Lime Vinaigrette,120,13,1,0,0,150,2,0,1,1
+Greek Yogurt Caesar,70,6,1,0,5,250,2,0,2,1
+Fiery Bbq,80,0,0,0,0,220,20,0,18,1
+Greek Yogurt Caesar,50,4,1,0,6,130,2,0,1,2
+Greek Yogurt Ranch,40,3,0,0,5,90,2,0,1,2
+Green Curry,40,3,2,0,0,90,2,0,1,1
+Lemon Juice,10,0,0,0,0,0,2,0,1,0
+Olive Oil,240,27,4,0,0,0,0,0,0,0
+Red Pepper,40,3,0,0,0,190,2,0,2,0
+Salsa Fresca,5,0,0,0,0,30,1,0,1,0
+Spicy Lemongrass,50,2,0,0,0,380,6,0,5,4
+Spicy Peanut,70,4,2,0,0,270,7,1,5,1
+Spicy Yogurt,60,1,0,0,0,80,13,0,12,1
+Frank's Hot Sauce,30,0,0,0,0,480,6,0,6,0
+Teriyaki,20,0,0,0,0,350,5,0,4,0
