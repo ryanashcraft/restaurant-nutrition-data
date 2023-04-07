@@ -53,7 +53,7 @@ def extract_items(path: str):
                     elif is_table_header(line):
                         table_header = format_table_header(line[0]) or table_header
                     else:
-                        name = f"{line[0]} {table_header}"
+                        name = f"{line[0]} {table_header}".strip()
                         items.append([format_item_name(name), *line[1:]])
     return items
 
