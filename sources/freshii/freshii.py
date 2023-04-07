@@ -21,17 +21,25 @@ HEADERS = [
 
 def main():
     us_freshii = extract_items("./2023-03 freshii us.pdf")
+    us_freshii_file = open('../../freshii.csv', 'w', newline='')
+    us_csv = csv.writer(us_freshii_file)
+    us_csv.writerow(HEADERS)
+    for item in us_freshii:
+        us_csv.writerow(item)
+
     canada_freshii = extract_items("./2023-03 freshii canada.pdf")
-    with open('../../freshii.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(HEADERS)
-        for item in us_freshii:
-            writer.writerow(item)
-        for item in canada_freshii:
-            if item in us_freshii:
-                continue
-            else:
-                writer.writerow([item[0] + " (Canada)", *item[1:]])
+    ca_freshii_file = open('../../freshii-canada.csv', 'w', newline='')
+    ca_csv = csv.writer(ca_freshii_file)
+    ca_csv.writerow(HEADERS)
+    for item in canada_freshii:
+        if item in us_freshii:
+            continue
+        else:
+            ca_csv.writerow(item)
+
+    us_freshii_file.close()
+    ca_freshii_file.close()
+
 
 def extract_items(path: str):
     items = []
