@@ -1,0 +1,781 @@
+Name,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Sugars (g),Protein (g)
+"#2 Jersey Shore's Favorite (Mini, White Bread)",460,23.78,6.62,0.39,35.35,1088.5,41.26,2.82,5.17,21.65
+"#2 Jersey Shore's Favorite (Mini, Rosemary Parmesan Bread)",480,25.2,7.5,0.39,39.53,1135.57,41.8,3.07,5.18,23.01
+"#2 Jersey Shore's Favorite (Mini, Wheat Bread)",470,24.06,6.37,0.39,35.35,1063.99,41.87,4.26,5.88,22.22
+"#2 Jersey Shore's Favorite (Mini, Seeded Italian Bread)",490,25.04,6.83,0.39,35.35,1107.75,46.98,4.47,6.41,21.81
+"#2 Jersey Shore's Favorite (Regular, White Bread)",800,44.08,11.49,0.66,65.68,1951.34,63.11,4.26,8.47,38.09
+"#2 Jersey Shore's Favorite (Regular, Rosemary Parmesan Bread)",830,46.24,12.82,0.66,72.01,2022.66,63.93,4.63,8.49,40.16
+"#2 Jersey Shore's Favorite (Regular, Wheat Bread)",810,44.5,11.1,0.66,65.68,1914.21,64.04,6.43,9.55,38.96
+"#2 Jersey Shore's Favorite (Regular, Seeded Italian Bread)",840,45.99,11.81,0.66,65.68,1980.5,71.78,6.75,10.35,38.34
+"#2 Jersey Shore's Favorite (Regular, Gluten Free Bread)",750,48.49,11.56,0.66,65.68,1760.5,49.78,4.25,10.35,33.84
+"#2 Jersey Shore's Favorite (Giant, White Bread)",1500,83.46,20.6,1.21,107.5,3432.17,122.74,7.8,14.55,66.05
+"#2 Jersey Shore's Favorite (Giant, Rosemary Parmesan Bread)",1560,87.78,23.26,1.21,120.16,3574.82,124.38,8.55,14.58,70.19
+"#2 Jersey Shore's Favorite (Giant, Wheat Bread)",1520,84.3,19.82,1.21,107.5,3357.92,124.59,12.15,16.7,67.79
+"#2 Jersey Shore's Favorite (Giant, Seeded Italian Bread)",1590,87.28,21.23,1.2,107.5,3490.5,140.07,12.79,18.31,66.55
+"#2 Jersey Shore's Favorite (Giant, Gluten Free Bread)",1410,92.28,20.73,1.2,107.5,3050.5,96.07,7.79,18.31,57.55
+"#2 Jersey Shore's Favorite (Wrap, White Wrap)",830,48.49,14.06,0.66,65.68,2055.5,62.28,4.25,6.85,35.84
+"#2 Jersey Shore's Favorite (Wrap, Tomato Basil Wrap)",830,48.49,14.06,0.66,65.68,2035.5,62.28,4.25,6.85,35.84
+"#2 Jersey Shore's Favorite (Wrap, Wheat Wrap)",810,48.49,14.06,0.66,65.68,2065.5,60.28,8.25,6.85,36.84
+"#2 Jersey Shore's Favorite (Wrap, Garlic Herb Wheat Wrap)",830,48.49,14.06,0.66,65.68,2265.5,62.28,4.25,6.85,35.84
+"#2 Jersey Shore's Favorite (Wrap, Spinach Herb Wrap)",830,48.49,14.06,0.66,65.68,2055.5,61.28,4.25,6.85,36.84
+#2 Jersey Shore's Favorite (Bowl),520,41.49,11.06,0.66,65.68,1315.5,10.28,2.25,6.85,27.84
+"#3 Ham and Provolone (Mini, White Bread)",460,24.04,6.76,0.39,36.19,1114.73,40.91,2.82,4.93,21.99
+"#3 Ham and Provolone (Mini, Rosemary Parmesan Bread)",490,25.46,7.64,0.39,40.37,1161.8,41.45,3.07,4.94,23.35
+"#3 Ham and Provolone (Mini, Wheat Bread)",470,24.31,6.51,0.39,36.19,1090.22,41.52,4.26,5.64,22.56
+"#3 Ham and Provolone (Mini, Seeded Italian Bread)",500,25.3,6.97,0.39,36.19,1133.98,46.63,4.47,6.17,22.15
+"#3 Ham and Provolone (Regular, White Bread)",790,44.09,11.56,0.66,63.44,1904.9,62.39,4.26,7.9,37.08
+"#3 Ham and Provolone (Regular, Rosemary Parmesan Bread)",820,46.25,12.89,0.66,69.77,1976.22,63.21,4.63,7.92,39.15
+"#3 Ham and Provolone (Regular, Wheat Bread)",800,44.51,11.17,0.66,63.44,1867.77,63.31,6.43,8.98,37.85
+"#3 Ham and Provolone (Regular, Seeded Italian Bread)",840,46,11.88,0.66,63.44,1934.06,71.05,6.75,9.78,37.33
+"#3 Ham and Provolone (Regular, Gluten Free Bread)",750,48.5,11.63,0.66,63.44,1714.06,49.05,4.25,9.78,32.83
+"#3 Ham and Provolone (Giant, White Bread)",1490,83.73,20.8,1.21,106.1,3411.96,121.68,7.8,13.73,65.38
+"#3 Ham and Provolone (Giant, Rosemary Parmesan Bread)",1560,88.05,23.46,1.21,118.76,3554.61,123.32,8.55,13.76,69.52
+"#3 Ham and Provolone (Giant, Wheat Bread)",1520,84.57,20.02,1.21,106.1,3337.71,123.53,12.15,15.88,67.12
+"#3 Ham and Provolone (Giant, Seeded Italian Bread)",1590,87.55,21.43,1.2,106.1,3470.29,139.01,12.79,17.49,65.88
+"#3 Ham and Provolone (Giant, Gluten Free Bread)",1410,92.55,20.93,1.2,106.1,3030.29,95.01,7.79,17.49,56.88
+"#3 Ham and Provolone (Wrap, White Wrap)",820,48.5,14.13,0.66,63.44,2009.06,61.55,4.25,6.28,34.83
+"#3 Ham and Provolone (Wrap, Tomato Basil Wrap)",820,48.5,14.13,0.66,64.44,1989.06,61.55,4.25,6.28,34.83
+"#3 Ham and Provolone (Wrap, Wheat Wrap)",800,48.5,14.13,0.66,63.44,2019.06,59.55,8.25,6.28,35.83
+"#3 Ham and Provolone (Wrap, Garlic Herb Wheat Wrap)",820,48.5,14.13,0.66,63.44,2219.06,61.55,4.25,6.28,34.83
+"#3 Ham and Provolone (Wrap, Spinach Herb Wrap)",820,48.5,14.13,0.66,63.44,2009.06,60.55,4.25,6.28,35.83
+#3 Ham and Provolone (Bowl),510,41.5,11.13,0.66,63.44,1269.06,9.55,2.25,6.28,26.83
+"#14 The Veggie (Mini, White Bread)",540,32.19,12.31,0.51,47.96,815.79,41.69,3.06,4.26,23.78
+"#14 The Veggie (Mini, Rosemary Parmesan Bread)",560,33.61,13.18,0.51,52.13,862.86,42.23,3.31,4.27,25.14
+"#14 The Veggie (Mini, Wheat Bread)",550,32.47,12.05,0.51,47.96,791.28,42.3,4.5,4.97,24.35
+"#14 The Veggie (Mini, Seeded Italian Bread)",570,33.45,12.51,0.5,47.96,835.04,47.41,4.71,5.5,23.94
+"#14 The Veggie (Regular, White Bread)",910,58.01,21.14,0.9,79.93,1289.72,63.33,4.62,6.42,38.4
+"#14 The Veggie (Regular, Rosemary Parmesan Bread)",940,60.17,22.47,0.9,86.26,1361.05,64.15,4.99,6.43,40.47
+"#14 The Veggie (Regular, Wheat Bread)",930,58.43,20.75,0.9,79.93,1252.6,64.25,6.79,7.49,39.27
+"#14 The Veggie (Regular, Seeded Italian Bread)",960,59.92,21.46,0.89,79.93,1318.89,71.99,7.11,8.3,38.65
+"#14 The Veggie (Regular, Gluten Free Bread)",870,62.42,21.21,0.89,79.93,1098.89,49.99,4.61,8.3,34.15
+"#14 The Veggie (Giant, White Bread)",1820,115.92,42.25,1.79,159.85,2574.91,124.15,8.4,11.29,76.22
+"#14 The Veggie (Giant, Rosemary Parmesan Bread)",1880,120.24,44.92,1.79,172.51,2717.56,125.79,9.15,11.32,80.36
+"#14 The Veggie (Giant, Wheat Bread)",1840,116.76,41.48,1.79,159.85,2500.66,126,12.75,13.44,77.96
+"#14 The Veggie (Giant, Seeded Italian Bread)",1910,119.74,42.89,1.78,159.85,2633.24,141.48,13.39,15.05,76.72
+"#14 The Veggie (Giant, Gluten Free Bread)",1730,124.74,42.39,1.78,159.85,2193.24,97.48,8.39,15.05,67.72
+"#14 The Veggie (Wrap, White Wrap)",950,62.42,23.71,0.89,79.93,1393.89,62.49,4.61,4.8,36.15
+"#14 The Veggie (Wrap, Tomato Basil Wrap)",950,62.42,23.71,0.89,79.93,1373.89,62.49,4.61,4.8,36.15
+"#14 The Veggie (Wrap, Wheat Wrap)",930,62.42,23.71,0.89,79.93,1403.89,60.49,8.61,4.8,37.15
+"#14 The Veggie (Wrap, Garlic Herb Wrap)",950,62.42,23.71,0.89,79.93,1603.89,62.49,4.61,4.8,36.15
+"#14 The Veggie (Wrap, Spinach Herb Wrap)",950,62.42,23.71,0.89,79.93,1393.89,61.49,4.61,4.8,37.15
+#14 The Veggie (Bowl),640,55.42,20.71,0.89,79.93,653.89,10.49,2.61,4.8,28.15
+"#5 The Super Sub (Mini, White Bread)",490,24.37,6.73,0.39,42.69,1297.26,42.31,2.82,6.06,25.58
+"#5 The Super Sub (Mini, Rosemary Parmesan Bread)",510,25.8,7.61,0.39,46.87,1344.33,42.85,3.07,6.07,26.95
+"#5 The Super Sub (Mini, Wheat Bread)",500,24.65,6.47,0.39,42.69,1272.75,42.92,4.26,6.77,26.16
+"#5 The Super Sub (Mini, Seeded Italian Bread)",520,25.63,6.94,0.39,42.69,1316.51,48.03,4.47,7.3,25.75
+"#5 The Super Sub (Regular, White Bread)",810,43.9,11.19,0.66,67.96,2063.23,64.54,4.26,9.58,40.56
+"#5 The Super Sub (Regular, Rosemary Parmesan Bread)",840,46.06,12.52,0.66,74.29,2134.56,65.36,4.63,9.59,42.63
+"#5 The Super Sub (Regular, Wheat Bread)",820,44.32,10.8,0.66,67.96,2026.11,65.46,6.43,10.65,41.43
+"#5 The Super Sub (Regular, Seeded Italian Bread)",860,45.81,11.5,0.66,67.96,2092.4,73.2,6.75,11.46,40.81
+"#5 The Super Sub (Regular, Gluten Free Bread)",770,48.31,11.25,0.66,67.96,1872.4,51.2,4.25,11.46,36.31
+"#5 The Super Sub (Giant, White Bread)",1530,83.39,20.15,1.21,113.77,3684.46,125.37,7.8,16.61,71.37
+"#5 The Super Sub (Giant, Rosemary Parmesan Bread)",1590,87.71,22.81,1.21,126.43,3827.11,127.01,8.55,16.64,75.51
+"#5 The Super Sub (Giant, Wheat Bread)",1550,84.23,19.37,1.21,113.77,3610.21,127.22,12.15,18.76,73.11
+"#5 The Super Sub (Giant, Seeded Italian Bread)",1620,87.21,20.78,1.2,113.77,3742.79,142.7,12.79,20.37,71.87
+"#5 The Super Sub (Giant, Gluten Free Bread)",1440,92.21,20.28,1.2,113.77,3302.79,98.7,7.79,20.37,62.87
+"#5 The Super Sub (Wrap, White Wrap)",840,48.31,13.75,0.66,67.96,2167.4,63.7,4.25,7.96,38.31
+"#5 The Super Sub (Wrap, Tomato Basil Wrap)",840,48.31,13.75,0.66,67.96,2147.4,63.7,4.25,7.96,38.31
+"#5 The Super Sub (Wrap, Wheat Wrap)",820,48.31,13.75,0.66,67.96,2177.4,61.7,8.25,7.96,39.31
+"#5 The Super Sub (Wrap, Garlic Herb Wrap)",840,48.31,13.75,0.66,67.96,2377.4,63.7,4.25,7.96,38.31
+"#5 The Super Sub (Wrap, Spinach Herb Wrap)",840,48.31,13.75,0.66,67.96,2167.4,62.7,4.25,7.96,39.31
+#5 The Super Sub (Bowl),530,41.31,10.75,0.66,67.96,1427.4,11.7,2.25,7.96,30.31
+"#7 Turkey and Provolone (Mini, White Bread)",460,22.52,6,0.39,40.95,1115.03,40.19,2.82,4.21,25.44
+"#7 Turkey and Provolone (Mini, Rosemary Parmesan Bread)",480,23.94,6.87,0.39,45.13,1162.11,40.73,3.07,4.22,26.81
+"#7 Turkey and Provolone (Mini, Wheat Bread)",470,22.79,5.74,0.39,40.95,1090.53,40.8,4.26,4.92,26.01
+"#7 Turkey and Provolone (Mini, Seeded Italian Bread)",500,23.78,6.2,0.39,40.95,1134.28,45.91,4.47,5.45,25.6
+"#7 Turkey and Provolone (Regular, White Bread)",790,41.11,10.05,0.66,73.51,1918.8,60.97,4.26,6.49,44.22
+"#7 Turkey and Provolone (Regular, Rosemary Parmesan Bread)",820,43.27,11.38,0.66,79.84,1990.13,61.79,4.63,6.5,46.29
+"#7 Turkey and Provolone (Regular, Wheat Bread)",800,41.53,9.66,0.66,73.51,1881.68,61.9,6.43,7.56,45.09
+"#7 Turkey and Provolone (Regular, Seeded Italian Bread)",840,43.02,10.36,0.66,73.51,1947.97,69.64,6.75,8.37,44.47
+"#7 Turkey and Provolone (Regular, Gluten Free Bread)",750,45.52,10.11,0.66,73.51,1727.97,47.64,4.25,8.37,39.97
+"#7 Turkey and Provolone (Giant, White Bread)",1490,78.73,18.27,1.21,122.89,3433.69,119.31,7.8,11.36,77.3
+"#7 Turkey and Provolone (Giant, Rosemary Parmesan Bread)",1560,83.05,20.93,1.21,135.55,3576.34,120.95,8.55,11.39,81.44
+"#7 Turkey and Provolone (Giant, Wheat Bread)",1520,79.57,17.49,1.21,122.89,3359.44,121.16,12.15,13.51,79.04
+"#7 Turkey and Provolone (Giant, Seeded Italian Bread)",1590,82.55,18.9,1.2,122.89,3492.02,136.64,12.79,15.12,77.8
+"#7 Turkey and Provolone (Giant, Gluten Free Bread)",1410,87.55,18.4,1.2,122.89,3052.02,92.63,7.79,15.12,68.8
+"#7 Turkey and Provolone (Wrap, White Wrap)",800,45.32,12.6,0.66,65.64,1867.12,60.03,4.25,4.76,38.09
+"#7 Turkey and Provolone (Wrap, Tomato Basil Wrap)",800,45.32,12.6,0.66,65.64,1847.12,60.03,4.25,4.76,38.09
+"#7 Turkey and Provolone (Wrap, Wheat Wrap)",780,45.32,12.6,0.66,65.64,1877.12,58.03,8.25,4.76,39.09
+"#7 Turkey and Provolone (Wrap, Garlic Herb Wrap)",800,45.32,12.6,0.66,65.64,2077.12,60.03,4.25,4.76,38.09
+"#7 Turkey and Provolone (Wrap, Spinach Herb Wrap)",800,45.32,12.6,0.66,65.64,1867.12,59.03,4.25,4.76,39.09
+#7 Turkey and Provolone (Bowl),490,38.32,9.6,0.66,65.64,1127.12,8.03,2.25,4.76,30.09
+"#10 Tuna Fish (Mini, White Bread)",610,41.6,6.16,0.48,29.97,802.56,40.51,3.05,4.57,19.68
+"#10 Tuna Fish (Mini, Rosemary Parmesan Bread)",630,43.03,7.04,0.48,34.14,849.63,41.05,3.3,4.58,21.04
+"#10 Tuna Fish (Mini, Wheat Bread)",620,41.88,5.91,0.48,29.97,778.05,41.12,4.49,5.28,20.25
+"#10 Tuna Fish (Mini, Seeded Italian Bread)",640,42.86,6.37,0.48,29.97,821.8,46.23,4.7,5.81,19.84
+"#10 Tuna Fish (Regular, White Bread)",1030,74.36,11,0.87,50.71,1276.51,61.51,4.64,7.01,31.89
+"#10 Tuna Fish (Regular, Rosemary Parmesan Bread)",1070,76.52,12.33,0.87,57.04,1347.83,62.33,5.02,7.03,33.96
+"#10 Tuna Fish (Regular, Wheat Bread)",1050,74.78,10.61,0.87,50.71,1239.38,62.43,6.81,8.09,32.76
+"#10 Tuna Fish (Regular, Seeded Italian Bread)",1080,76.27,11.32,0.86,50.71,1305.67,70.17,7.14,8.89,32.14
+"#10 Tuna Fish (Regular, Gluten Free Bread)",990,78.77,11.07,0.86,50.71,1085.67,48.17,4.64,8.89,27.64
+"#10 Tuna Fish (Giant, White Bread)",1970,140.73,20.83,1.63,92.2,2443.47,120.49,8.5,12.42,59.62
+"#10 Tuna Fish (Giant, Rosemary Parmesan Bread)",2030,145.05,23.49,1.63,104.86,2586.12,122.13,9.25,12.45,63.76
+"#10 Tuna Fish (Giant, Wheat Bread)",2000,141.57,20.05,1.63,92.2,2369.22,122.34,12.85,14.57,61.36
+"#10 Tuna Fish (Giant, Seeded Italian Bread)",2070,144.55,21.46,1.62,92.2,2501.8,137.82,13.49,16.18,60.12
+"#10 Tuna Fish (Giant, Gluten Free Bread)",1890,149.55,20.96,1.62,92.2,2061.8,93.82,8.49,16.18,51.12
+"#10 Tuna Fish (Wrap, White Wrap)",1070,78.77,13.57,0.86,50.71,1380.67,60.67,4.64,5.39,29.64
+"#10 Tuna Fish (Wrap, Tomato Basil Wrap)",1070,78.77,13.57,0.86,50.71,1360.67,60.67,4.64,5.39,29.64
+"#10 Tuna Fish (Wrap, Wheat Wrap)",1050,78.77,13.57,0.86,50.71,1390.67,58.67,8.64,5.39,30.64
+"#10 Tuna Fish (Wrap, Garlic Herb Wrap)",1070,78.77,13.57,0.86,50.71,1590.67,60.67,4.64,5.39,29.64
+"#10 Tuna Fish (Wrap, Spinach Herb Wrap)",1070,78.77,13.57,0.86,50.71,1380.67,59.67,4.64,5.39,30.64
+#10 Tuna Fish (Bowl),760,71.77,10.57,0.86,50.71,640.67,8.67,2.64,5.39,21.64
+"#6 Roast Beef and Provolone (Mini, White Bread)",550,25.92,7.36,0.42,77.1,837.1,39.87,2.82,3.88,36.83
+"#6 Roast Beef and Provolone (Mini, Rosemary Parmesan Bread)",570,27.34,8.23,0.42,81.28,884.18,40.41,3.07,3.89,38.2
+"#6 Roast Beef and Provolone (Mini, Wheat Bread)",550,26.19,7.1,0.42,77.1,812.6,40.48,4.26,4.59,37.4
+"#6 Roast Beef and Provolone (Mini, Seeded Italian Bread)",580,27.18,7.56,0.41,77.1,856.35,45.59,4.47,5.12,36.99
+"#6 Roast Beef and Provolone (Regular, White Bread)",890,45.98,12.1,0.7,116.77,1266.29,60.33,4.26,5.84,55.78
+"#6 Roast Beef and Provolone (Regular, Rosemary Parmesan Bread)",920,48.14,13.43,0.7,123.1,1337.61,61.15,4.63,5.86,57.85
+"#6 Roast Beef and Provolone (Regular, Wheat Bread)",900,46.4,11.71,0.7,116.77,1229.16,61.25,6.43,6.92,56.65
+"#6 Roast Beef and Provolone (Regular, Seeded Italian Bread)",930,47.89,12.41,0.7,116.77,1295.45,68.99,6.75,7.72,56.03
+"#6 Roast Beef and Provolone (Regular, Gluten Free Bread)",840,50.39,12.16,0.7,116.77,1075.45,46.99,4.25,7.72,51.53
+"#6 Roast Beef and Provolone (Giant, White Bread)",1720,88.79,22.36,1.29,224.03,2436.64,118.23,7.8,10.28,107.75
+"#6 Roast Beef and Provolone (Giant, Rosemary Parmesan Bread)",1780,93.11,25.02,1.29,236.69,2579.29,119.87,8.55,10.31,111.89
+"#6 Roast Beef and Provolone (Giant, Wheat Bread)",1750,89.63,21.58,1.29,224.03,2362.39,120.07,12.15,12.43,109.49
+"#6 Roast Beef and Provolone (Giant, Seeded Italian Bread)",1810,92.61,22.99,1.28,224.03,2494.97,135.56,12.79,14.04,108.25
+"#6 Roast Beef and Provolone (Giant, Gluten Free Bread)",1630,97.61,22.49,1.28,224.03,2054.97,91.55,7.79,14.04,99.25
+"#6 Roast Beef and Provolone (Wrap, White Wrap)",920,50.39,14.66,0.7,116.77,1370.45,59.49,4.25,4.22,53.53
+"#6 Roast Beef and Provolone (Wrap, Tomato Basil Wrap)",920,50.39,14.66,0.7,116.77,1350.45,59.49,4.25,4.22,53.53
+"#6 Roast Beef and Provolone (Wrap, Wheat Wrap)",900,50.39,14.66,0.7,116.77,1380.45,57.49,8.25,4.22,54.53
+"#6 Roast Beef and Provolone (Wrap, Garlic Herb Wrap)",920,50.39,14.66,0.7,116.77,1580.45,59.49,4.25,4.22,53.53
+"#6 Roast Beef and Provolone (Wrap, Spinach Herb Wrap)",920,50.39,14.66,0.7,116.77,1370.45,58.49,4.25,4.22,54.53
+#6 Roast Beef and Provolone (Bowl),610,43.39,11.66,0.7,116.77,630.45,7.49,2.25,4.22,45.53
+"#13 The Original Italian (Mini, White Bread)",560,30.31,8.98,0.39,56.79,1559.22,42.92,2.87,6.58,28.52
+"#13 The Original Italian (Mini, Rosemary Parmesan Bread)",580,31.74,9.86,0.39,60.96,1606.3,43.46,3.11,6.59,29.89
+"#13 The Original Italian (Mini, Wheat Bread)",560,30.59,8.72,0.39,56.79,1534.72,43.53,4.3,7.29,29.1
+"#13 The Original Italian (Mini, Seeded Italian Bread)",590,31.57,9.19,0.39,56.79,1578.47,48.63,4.51,7.82,28.69
+"#13 The Original Italian (Regular, White Bread)",930,54.25,15.07,0.66,92.38,2513.62,65.6,4.33,10.47,45.63
+"#13 The Original Italian (Regular, Rosemary Parmesan Bread)",960,56.41,16.4,0.66,98.71,2584.94,66.42,4.71,10.49,47.7
+"#13 The Original Italian (Regular, Wheat Bread)",940,54.67,14.68,0.66,92.38,2476.49,66.53,6.51,11.55,46.5
+"#13 The Original Italian (Regular, Seeded Italian Bread)",980,56.16,15.39,0.66,92.38,2542.78,74.27,6.83,12.35,45.88
+"#13 The Original Italian (Regular, Gluten Free Bread)",890,58.66,15.14,0.66,92.38,2322.78,52.27,4.33,12.35,41.38
+"#13 The Original Italian (Giant, White Bread)",1760,103.5,27.72,1.21,161.29,4562.64,127.43,7.95,18.35,81.25
+"#13 The Original Italian (Giant, Rosemary Parmesan Bread)",1820,107.82,30.38,1.21,173.95,4705.29,129.07,8.7,18.38,85.39
+"#13 The Original Italian (Giant, Wheat Bread)",1790,104.34,26.94,1.21,161.29,4488.39,129.28,12.3,20.5,82.99
+"#13 The Original Italian (Giant, Seeded Italian Bread)",1850,107.32,28.35,1.2,161.29,4620.97,144.76,12.94,22.11,81.75
+"#13 The Original Italian (Giant, Gluten Free Bread)",1670,112.32,27.85,1.2,161.29,4180.97,100.76,7.94,22.11,72.75
+"#13 The Original Italian (Wrap, White Wrap)",960,58.66,17.64,0.66,92.38,2617.78,64.77,4.33,8.85,43.38
+"#13 The Original Italian (Wrap, Tomato Basil Wrap)",960,58.66,17.64,0.66,92.38,2597.78,64.77,4.33,8.85,43.38
+"#13 The Original Italian (Wrap, Wheat Wrap)",940,58.66,17.64,0.66,92.38,2627.78,62.77,8.33,8.85,44.38
+"#13 The Original Italian (Wrap, Garlic Herb Wrap)",960,58.66,17.64,0.66,92.38,2827.78,64.77,4.33,8.85,43.38
+"#13 The Original Italian (Wrap, Spinach Herb Wrap)",960,58.66,17.64,0.66,92.38,2617.78,63.77,4.33,8.85,44.38
+#13 The Original Italian (Bowl),650,51.66,14.64,0.66,92.38,1877.78,12.77,2.33,8.85,35.38
+"#8 Club Sub (Mini, White Bread)",640,40.76,9.47,0.58,60.05,1496.27,41.18,2.82,5.18,29.64
+"#8 Club Sub (Mini, Rosemary Parmesan Bread)",660,42.19,10.35,0.58,64.22,1543.35,41.72,3.07,5.19,31
+"#8 Club Sub (Mini, Wheat Bread)",650,41.04,9.21,0.58,60.05,1471.77,41.79,4.26,5.89,30.21
+"#8 Club Sub (Mini, Seeded Italian Bread)",680,42.03,9.68,0.58,60.05,1515.52,46.9,4.47,6.42,29.8
+"#8 Club Sub (Regular, White Bread)",1130,77.39,16.98,1.05,103.27,2514.3,62.84,4.26,8.33,48.46
+"#8 Club Sub (Regular, Rosemary Parmesan Bread)",1160,79.55,18.31,1.05,109.6,2585.62,63.66,4.63,8.34,50.53
+"#8 Club Sub (Regular, Wheat Bread)",1140,77.81,16.59,1.05,103.27,2477.17,63.77,6.43,9.4,49.33
+"#8 Club Sub (Regular, Seeded Italian Bread)",1180,79.3,17.3,1.05,103.27,2543.46,71.51,6.75,10.21,48.71
+"#8 Club Sub (Regular, Gluten Free Bread)",1090,81.8,17.05,1.05,103.27,2323.46,49.51,4.25,10.21,44.21
+"#8 Club Sub (Giant, White Bread)",2160,150,31.58,1.98,176.8,4448.33,122.42,7.8,14.42,83.78
+"#8 Club Sub (Giant, Rosemary Parmesan Bread)",2220,154.32,34.24,1.98,189.46,4590.98,124.06,8.55,14.45,87.92
+"#8 Club Sub (Giant, Wheat Bread)",2180,150.84,30.8,1.98,176.8,4374.08,124.27,12.15,16.57,85.52
+"#8 Club Sub (Giant, Seeded Italian Bread)",2250,153.82,32.21,1.98,176.8,4506.66,139.75,12.79,18.18,84.28
+"#8 Club Sub (Giant, Gluten Free Bread)",2070,158.82,31.71,1.98,176.8,4066.66,95.75,7.79,18.18,75.28
+"#8 Club Sub (Wrap, White Wrap)",1140,81.09,19.28,1.05,96.8,2459,61.66,4.25,6.36,43.39
+"#8 Club Sub (Wrap, Tomato Basil Wrap)",1140,81.09,19.28,1.05,96.8,2439,61.66,4.25,6.36,43.39
+"#8 Club Sub (Wrap, Wheat Wrap)",1120,81.09,19.28,1.05,96.8,2469,59.66,8.25,6.36,44.39
+"#8 Club Sub (Wrap, Garlic Herb Wrap)",1140,81.09,19.28,1.05,96.8,2669,61.66,4.25,6.36,43.39
+"#8 Club Sub (Wrap, Spinach Herb Wrap)",1140,81.09,19.28,1.05,96.8,2459,60.66,4.25,6.36,44.39
+#8 Club Sub (Bowl),830,74.09,16.28,1.05,96.8,1719,9.66,2.25,6.36,35.39
+"#9 Club Supreme (Mini, White Bread)",660,40.36,9.16,0.37,76.78,1147.88,40.58,2.82,4.41,35.14
+"#9 Club Supreme (Mini, Rosemary Parmesan Bread)",680,41.79,10.03,0.37,80.96,1194.96,41.12,3.07,4.42,36.5
+"#9 Club Supreme (Mini, Wheat Bread)",670,40.64,8.9,0.37,76.78,1123.38,41.19,4.26,5.12,35.71
+"#9 Club Supreme (Mini, Seeded Italian Bread)",690,41.62,9.37,0.36,76.78,1167.13,46.3,4.47,5.65,35.3
+"#9 Club Supreme (Regular, White Bread)",1150,76.15,16.2,0.72,129.23,2023.34,61.73,4.26,6.95,57.79
+"#9 Club Supreme (Regular, Rosemary Parmesan Bread)",1180,78.31,17.53,0.72,135.56,2094.67,62.55,4.63,6.97,59.86
+"#9 Club Supreme (Regular, Wheat Bread)",1170,76.57,15.81,0.72,129.23,1986.22,62.65,6.43,8.03,58.66
+"#9 Club Supreme (Regular, Seeded Italian Bread)",1200,78.06,16.51,0.72,129.23,2052.51,70.39,6.75,8.83,58.04
+"#9 Club Supreme (Regular, Gluten Free Bread)",1110,80.56,16.26,0.72,129.23,1832.51,48.39,4.25,8.83,53.54
+"#9 Club Supreme (Giant, White Bread)",2190,148.28,30.46,1.44,218.36,3625.97,120.74,7.8,12.31,98.27
+"#9 Club Supreme (Giant, Rosemary Parmesan Bread)",2250,152.6,33.12,1.44,231.02,3768.62,122.38,8.55,12.34,102.41
+"#9 Club Supreme (Giant, Wheat Bread)",2220,149.12,29.68,1.44,218.36,3551.72,122.59,12.15,14.46,100.01
+"#9 Club Supreme (Giant, Seeded Italian Bread)",2290,152.1,31.09,1.43,218.36,3684.3,138.07,12.79,16.07,98.77
+"#9 Club Supreme (Giant, Gluten Free Bread)",2110,157.1,30.59,1.43,218.36,3244.3,94.07,7.79,16.07,89.77
+"#9 Club Supreme (Wrap, White Wrap)",1180,80.56,18.76,0.72,129.23,2127.51,60.89,4.25,5.33,55.54
+"#9 Club Supreme (Wrap, Tomato Basil Wrap)",1180,80.56,18.76,0.72,129.23,2107.51,60.89,4.25,5.33,55.54
+"#9 Club Supreme (Wrap, Wheat Wrap)",1160,80.56,18.76,0.72,129.23,2137.51,58.89,8.25,5.33,56.54
+"#9 Club Supreme (Wrap, Garlic Herb Wrap)",1180,80.56,18.76,0.72,129.23,2337.51,60.89,4.25,5.33,55.54
+"#9 Club Supreme (Wrap, Spinach Herb Wrap)",1180,80.56,18.76,0.72,129.23,2127.51,59.89,4.25,5.33,56.54
+#9 Club Supreme (Bowl),870,73.56,15.76,0.72,129.23,1387.51,8.89,2.25,5.33,47.54
+"#1 BLT (Mini, White Bread)",460,26.73,5.87,0.2,38.2,1047.3,39.16,2.62,4.05,17.13
+"#1 BLT (Mini, Rosemary Parmesan Bread)",480,28.15,6.75,0.2,42.37,1094.38,39.7,2.87,4.06,18.5
+"#1 BLT (Mini, Wheat Bread)",460,27,5.61,0.2,38.2,1022.8,39.77,4.06,4.76,17.71
+"#1 BLT (Mini, Seeded Italian Bread)",490,27.99,6.08,0.2,38.2,1066.55,44.88,4.27,5.29,17.3
+"#1 BLT (Regular, White Bread)",750,47.18,9.83,0.39,60.22,1618.65,59.45,3.96,6.26,25.86
+"#1 BLT (Regular, Rosemary Parmesan Bread)",780,49.34,11.16,0.39,66.55,1689.98,60.27,4.33,6.28,27.93
+"#1 BLT (Regular, Wheat Bread)",760,47.6,9.44,0.39,60.22,1581.52,60.38,6.13,7.34,26.73
+"#1 BLT (Regular, Seeded Italian Bread)",800,49.09,10.15,0.39,60.22,1647.81,68.12,6.45,8.14,26.11
+"#1 BLT (Regular, Gluten Free Bread)",710,51.59,9.9,0.39,60.22,1427.81,46.12,3.95,8.14,21.61
+"#1 BLT (Giant, White Bread)",1490,94.25,19.64,0.79,120.43,3233.09,117.01,7.26,11.28,51.22
+"#1 BLT (Giant, Rosemary Parmesan Bread)",1550,98.57,22.3,0.79,133.09,3375.74,118.65,8.01,11.31,55.36
+"#1 BLT (Giant, Wheat Bread)",1510,95.09,18.86,0.79,120.43,3158.84,118.85,11.61,13.42,52.96
+"#1 BLT (Giant, Seeded Italian Bread)",1580,98.07,20.27,0.78,120.43,3291.42,134.34,12.25,15.04,51.72
+"#1 BLT (Giant, Gluten Free Bread)",1400,103.07,19.77,0.78,120.43,2851.42,90.34,7.25,15.04,42.72
+"#1 BLT (Wrap, White Wrap)",790,51.71,12.42,0.39,60.22,1725.56,60.74,4.61,6.08,24.09
+"#1 BLT (Wrap, Tomato Basil Wrap)",790,51.71,12.42,0.39,60.22,1705.56,60.74,4.61,6.08,24.09
+"#1 BLT (Wrap, Wheat Wrap)",770,51.71,12.42,0.39,60.22,1735.56,58.74,8.61,6.08,25.09
+"#1 BLT (Wrap, Garlic Herb Wrap)",790,51.71,12.42,0.39,60.22,1935.56,60.74,4.61,6.08,24.09
+"#1 BLT (Wrap, Spinach Herb Wrap)",790,51.71,12.42,0.39,60.22,1725.56,59.74,4.61,6.08,25.09
+#1 BLT (Bowl),470,44.56,9.39,0.39,60.22,982.13,6.09,1.79,4.28,15.49
+"#4 The Number Four (Mini, White Bread)",460,23.24,6.24,0.39,33.42,1082.72,42.13,2.82,5.81,21.91
+"#4 The Number Four (Mini, Rosemary Parmesan Bread)",480,24.66,7.12,0.39,37.6,1129.8,42.68,3.07,5.82,23.28
+"#4 The Number Four (Mini, Wheat Bread)",470,23.52,5.98,0.39,33.42,1058.22,42.75,4.26,6.52,22.49
+"#4 The Number Four (Mini, Seeded Italian Bread)",490,24.5,6.45,0.39,33.42,1101.97,47.85,4.47,7.05,22.08
+"#4 The Number Four (Regular, White Bread)",780,42.35,10.48,0.66,55.89,1793.63,64.54,4.26,9.42,36.04
+"#4 The Number Four (Regular, Rosemary Parmesan Bread)",810,44.51,11.81,0.66,62.22,1864.95,65.36,4.63,9.44,38.11
+"#4 The Number Four (Regular, Wheat Bread)",790,42.77,10.09,0.66,55.89,1756.5,65.47,6.43,10.5,36.91
+"#4 The Number Four (Regular, Seeded Italian Bread)",830,44.26,10.79,0.66,55.89,1822.79,73.21,6.75,11.3,36.29
+"#4 The Number Four (Regular, Gluten Free Bread)",740,46.76,10.54,0.66,55.89,1602.79,51.21,4.25,11.3,31.79
+"#4 The Number Four (Giant, White Bread)",1470,80.77,18.98,1.21,92.98,3213.61,125.23,7.8,16.23,63.41
+"#4 The Number Four (Giant, Rosemary Parmesan Bread)",1540,85.09,21.64,1.21,105.64,3356.26,126.87,8.55,16.26,67.55
+"#4 The Number Four (Giant, Wheat Bread)",1500,81.61,18.2,1.21,92.98,3139.36,127.08,12.15,18.38,65.15
+"#4 The Number Four (Giant, Seeded Italian Bread)",1570,84.59,19.61,1.2,92.98,3271.94,142.56,12.79,19.99,63.91
+"#4 The Number Four (Giant, Gluten Free Bread)",1390,89.59,19.11,1.2,92.98,2831.94,98.56,7.79,19.99,54.91
+"#4 The Number Four (Wrap, White Wrap)",810,46.76,13.04,0.66,55.89,1897.79,63.71,4.25,7.8,33.79
+"#4 The Number Four (Wrap, Tomato Basil Wrap)",810,46.76,13.04,0.66,55.89,1877.79,63.71,4.25,7.8,33.79
+"#4 The Number Four (Wrap, Wheat Wrap)",790,46.76,13.04,0.66,55.89,1907.79,61.71,8.25,7.8,34.79
+"#4 The Number Four (Wrap, Garlic Herb Wrap)",810,46.76,13.04,0.66,55.89,2107.79,63.71,4.25,7.8,33.79
+"#4 The Number Four (Wrap, Spinach Herb Wrap)",810,46.76,13.04,0.66,55.89,1897.79,62.71,4.25,7.8,34.79
+#4 The Number Four (Bowl),500,39.76,10.04,0.66,55.89,1157.79,11.71,2.25,7.8,25.79
+"#11 Stickball Special (Mini, White Bread)",490,26.9,7.92,0.39,38.53,1126.9,40.93,2.84,4.91,21.04
+"#11 Stickball Special (Mini, Rosemary Parmesan Bread)",510,28.33,8.8,0.39,42.71,1173.97,41.47,3.08,4.92,22.41
+"#11 Stickball Special (Mini, Wheat Bread)",500,27.18,7.67,0.39,38.53,1102.39,41.54,4.27,5.62,21.62
+"#11 Stickball Special (Mini, Seeded Italian Bread)",520,28.16,8.13,0.39,38.53,1146.15,46.64,4.48,6.15,21.21
+"#11 Stickball Special (Regular, White Bread)",860,51.05,14.36,0.66,75.85,2113.21,62.81,4.28,8.27,38.28
+"#11 Stickball Special (Regular, Rosemary Parmesan Bread)",890,53.21,15.69,0.66,82.18,2184.54,63.63,4.65,8.28,40.35
+"#11 Stickball Special (Regular, Wheat Bread)",870,51.47,13.97,0.66,75.85,2076.09,63.74,6.45,9.34,39.15
+"#11 Stickball Special (Regular, Seeded Italian Bread)",910,52.96,14.67,0.66,75.85,2142.38,71.48,6.77,10.15,38.53
+"#11 Stickball Special (Regular, Gluten Free Bread)",820,55.46,14.42,0.66,75.85,1922.38,49.48,4.27,10.15,34.03
+"#11 Stickball Special (Giant, White Bread)",1610,95.6,25.58,1.21,125.89,3730.51,122.32,7.84,14.27,66.71
+"#11 Stickball Special (Giant, Rosemary Parmesan Bread)",1670,99.92,28.24,1.21,138.55,3873.16,123.96,8.59,14.3,70.85
+"#11 Stickball Special (Giant, Wheat Bread)",1640,96.44,24.8,1.21,125.89,3656.26,124.17,12.19,16.42,68.45
+"#11 Stickball Special (Giant, Seeded Italian Bread)",1710,99.42,26.21,1.2,125.89,3788.84,139.65,12.83,18.03,67.21
+"#11 Stickball Special (Giant, Gluten Free Bread)",1530,104.42,25.71,1.2,125.89,3348.84,95.65,7.83,18.03,58.21
+"#11 Stickball Special (Wrap, White Wrap)",890,55.46,16.92,0.66,75.85,2217.38,61.98,4.27,6.65,36.03
+"#11 Stickball Special (Wrap, Tomato Basil Wrap)",890,55.46,16.92,0.66,75.85,2197.38,61.98,4.27,6.65,36.03
+"#11 Stickball Special (Wrap, Wheat Wrap)",870,55.46,16.92,0.66,75.85,2227.38,59.98,8.27,6.65,37.03
+"#11 Stickball Special (Wrap, Garlic Herb Wrap)",890,55.46,16.92,0.66,75.85,2427.38,61.98,4.27,6.65,36.03
+"#11 Stickball Special (Wrap, Spinach Herb Wrap)",890,55.46,16.92,0.66,75.85,2217.38,60.98,4.27,6.65,37.03
+#11 Stickball Special (Bowl),580,48.46,13.92,0.66,75.85,1477.38,9.98,2.27,6.65,28.03
+"#12 Cancro Special (Mini, White Bread)",540,27.31,7.84,0.41,67.87,879.12,40.12,2.85,4.07,32.28
+"#12 Cancro Special (Mini, Rosemary Parmesan Bread)",560,28.74,8.71,0.41,72.05,926.19,40.66,3.1,4.08,33.65
+"#12 Cancro Special (Mini, Wheat Bread)",550,27.59,7.58,0.41,67.87,854.62,40.73,4.29,4.78,32.86
+"#12 Cancro Special (Mini, Seeded Italian Bread)",570,28.57,8.04,0.41,67.87,898.37,45.84,4.5,5.31,32.45
+"#12 Cancro Special (Regular, White Bread)",940,50.7,13.73,0.7,127.35,1446.97,60.82,4.31,6.21,57.9
+"#12 Cancro Special (Regular, Rosemary Parmesan Bread)",970,52.86,15.06,0.7,133.68,1518.29,61.64,4.69,6.23,59.97
+"#12 Cancro Special (Regular, Wheat Bread)",950,51.12,13.34,0.7,127.35,1409.84,61.75,6.49,7.29,58.77
+"#12 Cancro Special (Regular, Seeded Italian Bread)",990,52.61,14.05,0.7,127.35,1476.13,69.49,6.81,8.09,58.15
+"#12 Cancro Special (Regular, Gluten Free Bread)",900,55.11,13.8,0.7,127.35,1256.13,47.49,4.31,8.09,53.65
+"#12 Cancro Special (Giant, White Bread)",1750,95.63,24.73,1.28,213.7,2675.05,119.16,7.91,10.98,100.08
+"#12 Cancro Special (Giant, Rosemary Parmesan Bread)",1810,99.95,27.39,1.28,226.36,2817.7,120.8,8.66,11.01,104.22
+"#12 Cancro Special (Giant, Wheat Bread)",1780,96.47,23.95,1.28,213.7,2600.8,121.01,12.26,13.13,101.82
+"#12 Cancro Special (Giant, Seeded Italian Bread)",1850,99.45,25.36,1.27,213.7,2733.38,136.49,12.9,14.74,100.58
+"#12 Cancro Special (Giant, Gluten Free Bread)",1670,104.45,24.86,1.27,213.7,2293.38,92.49,7.9,14.74,91.58
+"#12 Cancro Special (Wrap, White Wrap)",970,55.11,16.3,0.7,127.35,1551.13,59.99,4.31,4.59,55.65
+"#12 Cancro Special (Wrap, Tomato Basil Wrap)",970,55.11,16.3,0.7,127.35,1531.13,59.99,4.31,4.59,55.65
+"#12 Cancro Special (Wrap, Wheat Wrap)",950,55.11,16.3,0.7,127.35,1561.13,57.99,8.31,4.59,56.65
+"#12 Cancro Special (Wrap, Garlic Herb Wrap)",970,55.11,16.3,0.7,127.35,1761.13,59.99,4.31,4.59,55.65
+"#12 Cancro Special (Wrap, Spinach Herb Wrap)",970,55.11,16.3,0.7,127.35,1551.13,58.99,4.31,4.59,56.65
+#12 Cancro Special (Bowl),660,48.11,13.3,0.7,127.35,811.13,7.99,2.31,4.59,47.65
+"Chicken Salad Sub (Mini, White Bread)",700,47.35,7.17,0.58,48.98,672.72,40.58,3.05,4.66,30.08
+"Chicken Salad Sub (Mini, Rosemary Parmesan Bread)",720,48.78,8.05,0.58,53.16,719.79,41.12,3.3,4.67,31.44
+"Chicken Salad Sub (Mini, Wheat Bread)",710,47.63,6.91,0.58,48.98,648.22,41.19,4.49,5.37,30.65
+"Chicken Salad Sub (Mini, Seeded Italian Bread)",730,48.61,7.38,0.58,48.98,691.97,46.29,4.7,5.91,30.24
+"Chicken Salad Sub (Regular, White Bread)",1190,84.1,12.71,1.03,82.89,1056.78,61.62,4.64,7.18,49.49
+"Chicken Salad Sub (Regular, Rosemary Parmesan Bread)",1220,86.26,14.04,1.03,89.22,1128.11,62.44,5.02,7.19,51.56
+"Chicken Salad Sub (Regular, Wheat Bread)",1200,84.52,12.32,1.03,82.89,1019.66,62.54,6.81,8.25,50.36
+"Chicken Salad Sub (Regular, Seeded Italian Bread)",1240,86.01,13.02,1.03,82.89,1085.95,70.28,7.14,9.06,49.74
+"Chicken Salad Sub (Regular, Gluten Free Bread)",1150,88.51,12.77,1.03,82.89,865.95,48.28,4.64,9.06,45.24
+"Chicken Salad Sub (Giant, White Bread)",2260,158.42,23.93,1.93,150.7,2043.97,120.69,8.5,12.72,91.62
+"Chicken Salad Sub (Giant, Rosemary Parmesan Bread)",2320,162.75,26.59,1.93,163.36,2186.62,122.33,9.25,12.75,95.76
+"Chicken Salad Sub (Giant, Wheat Bread)",2280,159.27,23.15,1.93,150.7,1969.72,122.54,12.85,14.87,93.36
+"Chicken Salad Sub (Giant, Seeded Italian Bread)",2350,162.25,24.56,1.92,150.7,2102.3,138.02,13.49,16.48,92.12
+"Chicken Salad Sub (Giant, Gluten Free Bread)",2170,167.25,24.06,1.92,150.7,1662.3,94.02,8.49,16.48,83.12
+"Chicken Salad Sub (Wrap, White Wrap)",1220,88.51,15.27,1.03,82.89,1160.95,60.78,4.64,5.56,47.24
+"Chicken Salad Sub (Wrap, Tomato Basil Wrap)",1220,88.51,15.27,1.03,82.89,1140.95,60.78,4.64,5.56,47.24
+"Chicken Salad Sub (Wrap, Wheat Wrap)",1200,88.51,15.27,1.03,82.89,1170.95,58.78,8.64,5.56,48.24
+"Chicken Salad Sub (Wrap, Garlic Herb Wrap)",1220,88.51,15.27,1.03,82.89,1370.95,60.78,4.64,5.56,47.24
+"Chicken Salad Sub (Wrap, Spinach Herb Wrap)",1220,88.51,15.27,1.03,82.89,1160.95,59.78,4.64,5.56,48.24
+Chicken Salad Sub (Bowl),910,81.51,12.27,1.03,82.89,420.95,8.78,2.64,5.56,39.24
+"Natural Turkey Sub (Mini, White Bread)",400,21.52,5.73,0.38,15.74,625.37,39.84,2.82,3.88,13.17
+"Natural Turkey Sub (Mini, Rosemary Parmesan Bread)",420,22.95,6.61,0.38,19.91,672.45,40.38,3.07,3.89,14.54
+"Natural Turkey Sub (Mini, Wheat Bread)",410,21.8,5.47,0.38,15.74,600.87,40.45,4.26,4.59,13.75
+"Natural Turkey Sub (Mini, Seeded Italian Bread)",430,22.78,5.94,0.37,15.74,644.62,45.56,4.47,5.12,13.34
+"Natural Turkey Sub (Regular, White Bread)",680,40.24,10.19,0.68,26.23,972.44,60.36,4.26,5.85,20.75
+"Natural Turkey Sub (Regular, Rosemary Parmesan Bread)",710,42.4,11.52,0.68,32.56,1043.76,61.18,4.63,5.86,22.82
+"Natural Turkey Sub (Regular, Wheat Bread)",700,40.66,9.8,0.68,26.23,935.31,61.28,6.43,6.92,21.62
+"Natural Turkey Sub (Regular, Seeded Italian Bread)",730,42.15,10.5,0.67,26.23,1001.6,69.02,6.75,7.73,21
+"Natural Turkey Sub (Regular, Gluten Free Bread)",640,44.65,10.25,0.67,26.23,781.6,47.02,4.25,7.73,16.5
+"Natural Turkey Sub (Giant, White Bread)",1310,76.65,18.13,1.21,41.96,1830.69,118.23,7.8,10.28,37.42
+"Natural Turkey Sub (Giant, Rosemary Parmesan Bread)",1370,80.97,20.79,1.21,54.62,1973.34,119.87,8.55,10.31,41.56
+"Natural Turkey Sub (Giant, Wheat Bread)",1330,77.49,17.35,1.21,41.96,1756.44,120.07,12.15,12.43,39.16
+"Natural Turkey Sub (Giant, Seeded Italian Bread)",1400,80.47,18.76,1.2,41.96,1889.02,135.56,12.79,14.04,37.92
+"Natural Turkey Sub (Giant, Gluten Free Bread)",1220,85.47,18.26,1.2,41.96,1449.02,91.55,7.79,14.04,28.92
+"Natural Turkey Sub (Wrap, White Wrap)",720,44.65,12.75,0.67,26.23,1076.6,59.52,4.25,4.23,18.5
+"Natural Turkey Sub (Wrap, Tomato Basil Wrap)",720,44.65,12.75,0.67,26.23,1056.6,59.52,4.25,4.23,18.5
+"Natural Turkey Sub (Wrap, Wheat Wrap)",700,44.65,12.75,0.67,26.23,1086.6,57.52,8.25,4.23,19.5
+"Natural Turkey Sub (Wrap, Garlic Herb Wrap)",720,44.65,12.75,0.67,26.23,1286.6,59.52,4.25,4.23,18.5
+"Natural Turkey Sub (Wrap, Spinach Herb Wrap)",720,44.65,12.75,0.67,26.23,1076.6,58.52,4.25,4.23,19.5
+Natural Turkey Sub (Bowl),410,37.65,9.75,0.67,26.23,336.6,7.52,2.25,4.23,10.5
+"Chipotle Turkey Sub (Mini, White Bread)",610,38.38,8.46,0.5,53,1294.74,41.03,2.87,4.83,25.67
+"Chipotle Turkey Sub (Mini, Rosemary Parmesan Bread)",630,39.81,9.34,0.5,57.17,1341.82,41.57,3.12,4.84,27.04
+"Chipotle Turkey Sub (Mini, Wheat Bread)",620,38.66,8.21,0.5,53,1270.24,41.64,4.31,5.54,26.25
+"Chipotle Turkey Sub (Mini, Seeded Italian Bread)",640,39.64,8.67,0.49,53,1313.99,46.75,4.52,6.07,25.84
+"Chipotle Turkey Sub (Regular, White Bread)",1060,72.64,14.97,0.87,89.73,2122.37,62.55,4.35,7.63,40.8
+"Chipotle Turkey Sub (Regular, Rosemary Parmesan Bread)",1090,74.8,16.3,0.87,96.06,2193.69,63.37,4.72,7.64,42.87
+"Chipotle Turkey Sub (Regular, Wheat Bread)",1070,73.06,14.58,0.87,89.73,2085.24,63.47,6.52,8.7,41.67
+"Chipotle Turkey Sub (Regular, Seeded Italian Bread)",1110,74.55,15.29,0.87,89.73,2151.53,71.21,6.84,9.51,41.05
+"Chipotle Turkey Sub (Regular, Gluten Free Bread)",1020,77.05,15.04,0.87,89.73,1931.53,49.21,4.34,9.51,36.55
+"Chipotle Turkey Sub (Giant, White Bread)",2070,142.18,28.14,1.63,171.07,4152.52,122.67,7.98,13.85,78.23
+"Chipotle Turkey Sub (Giant, Rosemary Parmesan Bread)",2130,146.5,30.8,1.63,183.73,4295.17,124.3,8.73,13.88,82.37
+"Chipotle Turkey Sub (Giant, Wheat Bread)",2100,143.02,27.36,1.63,171.07,4078.27,124.52,12.33,16,79.97
+"Chipotle Turkey Sub (Giant, Seeded Italian Bread)",2170,146,28.77,1.62,171.07,4210.85,140,12.97,17.61,78.73
+"Chipotle Turkey Sub (Giant, Gluten Free Bread)",1990,151,28.27,1.62,171.07,3770.85,95.99,7.97,17.61,69.73
+"Chipotle Turkey Sub (Wrap, White Wrap)",1100,77.39,17.76,0.88,89.66,2215.26,61.73,4.34,6,38.35
+"Chipotle Turkey Sub (Wrap, Tomato Basil Wrap)",1100,77.39,17.76,0.88,89.66,2195.26,61.73,4.34,6,38.35
+"Chipotle Turkey Sub (Wrap, Wheat Wrap)",1080,77.39,17.76,0.88,89.66,2225.26,59.73,8.34,6,39.35
+"Chipotle Turkey Sub (Wrap, Garlic Herb Wrap)",1100,77.39,17.76,0.88,89.66,2425.26,61.73,4.34,6,38.35
+"Chipotle Turkey Sub (Wrap, Spinach Herb Wrap)",1100,77.39,17.76,0.88,89.66,2215.26,60.73,4.34,6,39.35
+Chipotle Turkey Sub (Bowl),790,70.39,14.76,0.88,89.66,1475.26,9.73,2.34,6,30.35
+"Pepperoni & Cheese (Mini, White Bread)",590,38.12,11.48,0.38,52.9,1260.25,41.58,3.04,5.19,20.64
+"Pepperoni & Cheese (Mini, Rosemary Parmesan Bread)",610,39.55,12.36,0.38,57.07,1307.33,42.12,3.28,5.2,22
+"Pepperoni & Cheese (Mini, Wheat Bread)",600,38.4,11.22,0.38,52.9,1235.75,42.19,4.47,5.9,21.21
+"Pepperoni & Cheese (Mini, Seeded Italian Bread)",620,39.38,11.69,0.37,52.9,1279.5,47.3,4.68,6.43,20.8
+"Pepperoni & Cheese (Regular, White Bread)",980,66.42,19.16,0.66,84.63,1977.26,63.12,4.59,7.93,32.34
+"Pepperoni & Cheese (Regular, Rosemary Parmesan Bread)",1010,68.58,20.49,0.66,90.96,2048.58,63.94,4.97,7.95,34.41
+"Pepperoni & Cheese (Regular, Wheat Bread)",990,66.84,18.77,0.66,84.63,1940.13,64.04,6.77,9.01,33.21
+"Pepperoni & Cheese (Regular, Seeded Italian Bread)",1020,68.33,19.48,0.66,84.63,2006.42,71.78,7.09,9.81,32.59
+"Pepperoni & Cheese (Regular, Gluten Free Bread)",930,70.83,19.23,0.66,84.63,1786.42,49.78,4.59,9.81,28.09
+"Pepperoni & Cheese (Giant, White Bread)",1800,120.91,33.45,1.21,141.06,3523.7,122.87,8.36,13.77,57.32
+"Pepperoni & Cheese (Giant, Rosemary Parmesan Bread)",1870,125.23,36.11,1.21,153.72,3666.35,124.51,9.11,13.8,61.46
+"Pepperoni & Cheese (Giant, Wheat Bread)",1830,121.75,32.67,1.21,141.06,3449.45,124.72,12.71,15.92,59.06
+"Pepperoni & Cheese (Giant, Seeded Italian Bread)",1900,124.73,34.08,1.2,141.06,3582.03,140.2,13.35,17.53,57.82
+"Pepperoni & Cheese (Giant, Gluten Free Bread)",1720,129.73,33.58,1.2,141.06,3142.03,96.2,8.35,17.53,48.82
+"Pepperoni & Cheese (Wrap, White Wrap)",1010,71.21,21.95,0.67,85.68,2092.41,62.31,4.59,6.32,30.44
+"Pepperoni & Cheese (Wrap, Tomato Basil Wrap)",1010,71.21,21.95,0.67,85.68,2072.41,62.31,4.59,6.32,30.44
+"Pepperoni & Cheese (Wrap, Wheat Wrap)",990,71.21,21.95,0.67,85.68,2102.41,60.31,8.59,6.32,31.44
+"Pepperoni & Cheese (Wrap, Garlic Herb Wrap)",1010,71.21,21.95,0.67,85.68,2302.41,62.31,4.59,6.32,30.44
+"Pepperoni & Cheese (Wrap, Spinach Herb Wrap)",1010,71.21,21.95,0.67,85.68,2092.41,61.31,4.59,6.32,31.44
+Pepperoni & Cheese (Bowl),700,64.21,18.95,0.67,85.68,1352.41,10.31,2.59,6.32,22.44
+"Salami and Cheese (Mini, White Bread)",630,40.89,13.55,0.39,63.52,1546.96,41.78,2.88,5.65,23.48
+"Salami and Cheese (Mini, Rosemary Parmesan Bread)",650,42.32,14.43,0.39,67.7,1594.03,42.32,3.13,5.66,24.85
+"Salami and Cheese (Mini, Wheat Bread)",640,41.17,13.29,0.39,63.52,1522.45,42.39,4.32,6.36,24.06
+"Salami and Cheese (Mini, Seeded Italian Bread)",660,42.15,13.76,0.39,63.52,1566.21,47.5,4.53,6.89,23.65
+"Salami and Cheese (Regular, White Bread)",1010,68.36,21.36,0.66,95.29,2327.35,63.2,4.34,8.49,35.32
+"Salami and Cheese (Regular, Rosemary Parmesan Bread)",1040,70.52,22.69,0.66,101.62,2398.67,64.02,4.71,8.5,37.39
+"Salami and Cheese (Regular, Wheat Bread)",1020,68.78,20.97,0.66,95.29,2290.22,64.12,6.51,9.56,36.19
+"Salami and Cheese (Regular, Seeded Italian Bread)",1060,70.27,21.67,0.66,95.29,2356.51,71.86,6.83,10.37,35.57
+"Salami and Cheese (Regular, Gluten Free Bread)",970,72.77,21.42,0.66,95.29,2136.51,49.86,4.33,10.37,31.07
+"Salami and Cheese (Giant, White Bread)",1930,129.84,39.39,1.21,172.83,4380.36,123.58,7.96,15.22,65.28
+"Salami and Cheese (Giant, Rosemary Parmesan Bread)",1990,134.16,42.05,1.21,185.49,4523.01,125.22,8.71,15.25,69.42
+"Salami and Cheese (Giant, Wheat Bread)",1950,130.68,38.61,1.21,172.83,4306.11,125.43,12.31,17.37,67.02
+"Salami and Cheese (Giant, Seeded Italian Bread)",2020,133.66,40.02,1.2,172.83,4438.69,140.91,12.95,18.98,65.78
+"Salami and Cheese (Giant, Gluten Free Bread)",1840,138.66,39.52,1.2,172.83,3998.69,96.91,7.95,18.98,56.78
+"California Club Sub (Mini, White Bread)",540,28.85,7.23,0.38,47.94,1239.5,42.61,4.72,4.42,27.96
+"California Club Sub (Mini, Rosemary Parmesan Bread)",560,30.28,8.11,0.38,52.12,1286.57,43.15,4.97,4.43,29.33
+"California Club Sub (Mini, Wheat Bread)",540,29.13,6.98,0.38,47.94,1215,43.22,6.16,5.13,28.54
+"California Club Sub (Mini, Seeded Italian Bread)",570,30.12,7.44,0.37,47.94,1258.75,48.33,6.37,5.66,28.13
+"California Club Sub (Regular, White Bread)",950,54.91,13.19,0.68,90.64,2200.69,65.9,8.06,6.93,50.33
+"California Club Sub (Regular, Rosemary Parmesan Bread)",980,57.07,14.52,0.68,96.97,2272.01,66.72,8.43,6.95,52.4
+"California Club Sub (Regular, Wheat Bread)",960,55.33,12.8,0.68,90.64,2163.56,66.83,10.23,8.01,51.2
+"California Club Sub (Regular, Seeded Italian Bread)",990,56.82,13.51,0.67,90.64,2229.85,74.57,10.55,8.81,50.58
+"California Club Sub (Regular, Gluten Free Bread)",900,59.32,13.26,0.67,90.64,2009.85,52.57,8.05,8.81,46.08
+"California Club Sub (Giant, White Bread)",1800,105.57,24.11,1.21,155.05,3975.49,129.11,15.4,12.24,88.82
+"California Club Sub (Giant, Rosemary Parmesan Bread)",1860,109.89,26.77,1.21,167.71,4118.14,130.75,16.15,12.27,92.96
+"California Club Sub (Giant, Wheat Bread)",1820,106.41,23.33,1.21,155.05,3901.24,130.96,19.75,14.39,90.56
+"California Club Sub (Giant, Seeded Italian Bread)",1890,109.39,24.74,1.2,155.05,4033.82,146.44,20.39,16,89.32
+"California Club Sub (Giant, Gluten Free Bread)",1710,114.39,24.24,1.2,155.05,3593.82,102.44,15.39,16,80.32
+"California Club Sub (Wrap, White Wrap)",980,59.32,15.76,0.67,90.64,2304.85,65.07,8.05,5.31,48.08
+"California Club Sub (Wrap, Tomato Basil Wrap)",980,59.32,15.76,0.67,90.64,2284.85,65.07,8.05,5.31,48.08
+"California Club Sub (Wrap, Wheat Wrap)",960,59.32,15.76,0.67,90.64,2314.85,63.07,12.05,5.31,49.08
+"California Club Sub (Wrap, Garlic Herb Wrap)",980,59.32,15.76,0.67,90.64,2514.85,65.07,8.05,5.31,48.08
+"California Club Sub (Wrap, Spinach Herb Wrap)",980,59.32,15.76,0.67,90.64,2304.85,64.07,8.05,5.31,49.08
+California Club Sub (Bowl),670,52.32,12.76,0.67,90.64,1564.85,13.07,6.05,5.31,40.08
+"Turkey Club Sub (Mini, White Bread)",630,39.54,8.94,0.58,54.98,1333.21,40.59,2.82,4.59,27.87
+"Turkey Club Sub (Mini, Rosemary Parmesan Bread)",650,40.97,9.82,0.58,59.16,1380.28,41.13,3.07,4.6,29.24
+"Turkey Club Sub (Mini, Wheat Bread)",630,39.82,8.69,0.58,54.98,1308.7,41.2,4.26,5.3,28.45
+"Turkey Club Sub (Mini, Seeded Italian Bread)",660,40.8,9.15,0.58,54.98,1352.46,46.31,4.47,5.83,28.04
+"Turkey Club Sub (Regular, White Bread)",1100,75.3,16.15,1.07,93.62,2188.02,61.68,4.26,7.14,45.01
+"Turkey Club Sub (Regular, Rosemary Parmesan Bread)",1130,77.46,17.48,1.07,99.95,2259.35,62.5,4.63,7.16,47.08
+"Turkey Club Sub (Regular, Wheat Bread)",1110,75.72,15.76,1.07,93.62,2150.9,62.61,6.43,8.22,45.88
+"Turkey Club Sub (Regular, Seeded Italian Bread)",1140,77.21,16.47,1.06,93.62,2217.19,70.35,6.75,9.02,45.26
+"Turkey Club Sub (Regular, Gluten Free Bread)",1050,79.71,16.22,1.06,93.62,1997.19,48.35,4.25,9.02,40.76
+"Turkey Club Sub (Giant, White Bread)",2130,146.77,30.06,1.98,176.75,4261.86,120.87,7.8,12.87,85.94
+"Turkey Club Sub (Giant, Rosemary Parmesan Bread)",2190,151.09,32.72,1.98,189.41,4404.51,122.51,8.55,12.91,90.08
+"Turkey Club Sub (Giant, Wheat Bread)",2160,147.61,29.28,1.98,176.75,4187.61,122.72,12.15,15.02,87.68
+"Turkey Club Sub (Giant, Seeded Italian Bread)",2230,150.59,30.69,1.98,176.75,4320.19,138.2,12.79,16.63,86.44
+"Turkey Club Sub (Giant, Gluten Free Bread)",2050,155.59,30.19,1.98,176.75,3880.19,94.2,7.79,16.63,77.44
+"Turkey Club Sub (Wrap, White Wrap)",1130,79.71,18.72,1.06,93.62,2292.19,60.85,4.25,5.52,42.76
+"Turkey Club Sub (Wrap, Tomato Basil Wrap)",1130,79.71,18.72,1.06,93.62,2272.19,60.85,4.25,5.52,42.76
+"Turkey Club Sub (Wrap, Wheat Wrap)",1110,79.71,18.72,1.06,93.62,2302.19,58.85,8.25,5.52,43.76
+"Turkey Club Sub (Wrap, Garlic Herb Wrap)",1130,79.71,18.72,1.06,93.62,2502.19,60.85,4.25,5.52,42.76
+"Turkey Club Sub (Wrap, Spinach Herb Wrap)",1130,79.71,18.72,1.06,93.62,2292.19,59.85,4.25,5.52,43.76
+Turkey Club Sub (Bowl),820,72.71,15.72,1.06,93.62,1552.19,8.85,2.25,5.52,34.76
+"#13 The Italian (Hawaii Only) (Mini, White Bread)",500,26.25,6.92,0.3,47.26,1434.39,42.02,2.87,6,26.03
+"#13 The Italian (Hawaii Only) (Mini, Rosemary Parmesan Bread)",530,27.67,7.8,0.3,51.44,1481.47,42.56,3.12,6.01,27.39
+"#13 The Italian (Hawaii Only) (Mini, Wheat Bread)",510,26.52,6.66,0.3,47.26,1409.89,42.63,4.31,6.71,26.6
+"#13 The Italian (Hawaii Only) (Mini, Seeded Italian Bread)",540,27.51,7.13,0.3,47.26,1453.64,47.73,4.52,7.24,26.19
+"#13 The Italian (Hawaii Only) (Mini, Gluten Free Bread)",480,29.16,6.97,0.3,47.26,1308.44,33.21,2.87,7.24,23.22
+"#13 The Italian (Hawaii Only) (Regular, White Bread)",880,52.91,14.76,0.66,75.88,2085.91,63.42,4.33,8.61,37.62
+"#13 The Italian (Hawaii Only) (Regular, Rosemary Parmesan Bread)",910,55.07,16.09,0.66,82.21,2157.24,64.24,4.71,8.63,39.69
+"#13 The Italian (Hawaii Only) (Regular, Wheat Bread)",890,53.33,14.37,0.66,75.88,2048.79,64.34,6.51,9.69,38.49
+"#13 The Italian (Hawaii Only) (Regular, Seeded Italian Bread)",920,54.82,15.07,0.66,75.88,2115.08,72.08,6.83,10.49,37.87
+"#13 The Italian (Hawaii Only) (Regular, Gluten Free Bread)",830,57.32,14.82,0.66,75.88,1895.08,50.08,4.33,10.49,33.37
+"#13 The Italian (Hawaii Only) (Giant, White Bread)",1670,101.19,27.18,1.21,132.74,3819.04,123.64,7.95,15.12,67.31
+"#13 The Italian (Hawaii Only) (Giant, Rosemary Parmesan Bread)",1730,105.51,29.84,1.21,145.4,3961.69,125.28,8.7,15.15,71.45
+"#13 The Italian (Hawaii Only) (Giant, Wheat Bread)",1690,102.03,26.4,1.21,132.74,3744.79,125.49,12.3,17.27,69.05
+"#13 The Italian (Hawaii Only) (Giant, Seeded Italian Bread)",1760,105.01,27.81,1.2,132.74,3877.37,140.97,12.94,18.88,67.81
+"#13 The Italian (Hawaii Only) (Giant, Gluten Free Bread)",1580,110.01,27.31,1.2,132.74,3437.37,96.97,7.94,18.88,58.81
+#13 The Italian (Hawaii Only) (Bowl),600,50.32,14.32,0.66,75.88,1450.08,10.58,2.33,6.99,27.37
+"#16 Mike's Chicken Philly (Regular, White Bread)",650,21.95,9.46,0.01,132.84,2026.65,64.52,2.82,9.03,47.49
+"#16 Mike's Chicken Philly (Regular, Rosemary Parmesan Bread)",680,24.11,10.79,0.01,139.17,2097.97,65.34,3.19,9.05,49.56
+"#16 Mike's Chicken Philly (Regular, Wheat Bread)",660,22.37,9.07,0.01,132.84,1989.52,65.44,4.99,10.11,48.36
+"#16 Mike's Chicken Philly (Regular, Seeded Italian Bread)",700,23.86,9.77,0,132.84,2055.81,73.18,5.31,10.91,47.74
+"#16 Mike's Chicken Philly (Regular, Gluten Free Bread)",610,26.36,9.52,0,132.84,1835.81,51.18,2.81,10.91,43.24
+"#16 Mike's Chicken Philly (Giant, White Bread)",1300,43.91,18.92,0.01,265.67,4053.29,129.03,5.63,18.06,94.98
+"#16 Mike's Chicken Philly (Giant, Rosemary Parmesan Bread)",1360,48.23,21.58,0.01,278.33,4195.94,130.67,6.38,18.1,99.12
+"#16 Mike's Chicken Philly (Giant, Wheat Bread)",1320,44.75,18.13,0.01,265.67,3979.04,130.88,9.98,20.22,96.72
+"#16 Mike's Chicken Philly (Giant, Seeded Italian Bread)",1390,47.73,19.54,0,265.67,4111.62,146.36,10.62,21.83,95.48
+"#16 Mike's Chicken Philly (Giant, Gluten Free Bread)",1210,52.73,19.04,0,265.67,3671.62,102.36,5.62,21.83,86.48
+"#16 Mike's Chicken Philly (Wrap, White Wrap)",680,26.36,12.02,0,132.84,2130.81,63.68,2.81,7.41,45.24
+"#16 Mike's Chicken Philly (Wrap, Tomato Basil Wrap)",680,26.36,12.02,0,132.84,2110.81,63.68,2.81,7.41,45.24
+"#16 Mike's Chicken Philly (Wrap, Wheat Wrap)",660,26.36,12.02,0,132.84,2140.81,61.68,6.81,7.41,46.24
+"#16 Mike's Chicken Philly (Wrap, Garlic Herb Wrap)",680,26.36,12.02,0,132.84,2340.81,63.68,2.81,7.41,45.24
+"#16 Mike's Chicken Philly (Wrap, Spinach Herb Wrap)",680,26.36,12.02,0,132.84,2130.81,62.68,2.81,7.41,46.24
+#16 Mike's Chicken Philly (Bowl),370,19.36,9.02,0,132.84,1390.81,11.68,0.81,7.41,37.24
+"#42 Chipotle Chicken Cheese Steak (Regular, White Bread)",940,53.68,14.39,0.22,156.93,2386.06,66.2,2.91,10.28,47.95
+"#42 Chipotle Chicken Cheese Steak (Regular, Rosemary Parmesan Bread)",970,55.84,15.72,0.22,163.26,2457.38,67.02,3.28,10.29,50.02
+"#42 Chipotle Chicken Cheese Steak (Regular, Wheat Bread)",950,54.1,14,0.22,156.93,2348.94,67.12,5.08,11.35,48.82
+"#42 Chipotle Chicken Cheese Steak (Regular, Seeded Italian Bread)",980,55.59,14.71,0.21,156.93,2415.23,74.86,5.4,12.16,48.2
+"#42 Chipotle Chicken Cheese Steak (Regular, Gluten Free Bread)",890,58.09,14.46,0.21,156.93,2195.23,52.86,2.9,12.16,43.7
+"#42 Chipotle Chicken Cheese Steak (Giant, White Bread)",1880,107.36,28.78,0.43,313.85,4772.12,132.39,5.81,20.56,95.91
+"#42 Chipotle Chicken Cheese Steak (Giant, Rosemary Parmesan Bread)",1940,111.68,31.45,0.43,326.51,4914.77,134.03,6.56,20.59,100.05
+"#42 Chipotle Chicken Cheese Steak (Giant, Wheat Bread)",1900,108.2,28,0.43,313.85,4697.87,134.24,10.16,22.71,97.65
+"#42 Chipotle Chicken Cheese Steak (Giant, Seeded Italian Bread)",1970,111.18,29.42,0.42,313.85,4830.45,149.72,10.8,24.31,96.41
+"#42 Chipotle Chicken Cheese Steak (Giant, Gluten Free Bread)",1790,116.18,28.92,0.42,313.85,4390.45,105.72,5.8,24.31,87.41
+"#42 Chipotle Chicken Cheese Steak (Wrap, White Wrap)",970,58.09,16.96,0.21,156.93,2490.23,65.36,2.9,8.66,45.7
+"#42 Chipotle Chicken Cheese Steak (Wrap, Tomato Basil Wrap)",970,58.09,16.96,0.21,156.93,2470.23,65.36,2.9,8.66,45.7
+"#42 Chipotle Chicken Cheese Steak (Wrap, Wheat Wrap)",950,58.09,16.96,0.21,156.93,2500.23,63.36,6.9,8.66,46.7
+"#42 Chipotle Chicken Cheese Steak (Wrap, Garlic Herb Wrap)",970,58.09,16.96,0.21,156.93,2700.23,65.36,2.9,8.66,45.7
+"#42 Chipotle Chicken Cheese Steak (Wrap, Spinach Herb Wrap)",970,58.09,16.96,0.21,156.93,2490.23,64.36,2.9,8.66,46.7
+#42 Chipotle Chicken Cheese Steak (Bowl),660,51.09,13.96,0.21,156.93,1750.23,13.36,0.9,8.66,37.7
+"#55 Big Kahuna Chicken Cheese Steak (Regular, White Bread)",700,26.51,11.99,0.01,145.49,2423.09,66.58,3.5,9.64,50.35
+"#55 Big Kahuna Chicken Cheese Steak (Regular, Rosemary Parmesan Bread)",740,28.67,13.32,0.01,151.82,2494.42,67.4,3.88,9.65,52.42
+"#55 Big Kahuna Chicken Cheese Steak (Regular, Wheat Bread)",720,26.93,11.6,0.01,145.49,2385.97,67.51,5.68,10.71,51.22
+"#55 Big Kahuna Chicken Cheese Steak (Regular, Seeded Italian Bread)",750,28.42,12.3,0,145.49,2452.26,75.25,6,11.52,50.6
+"#55 Big Kahuna Chicken Cheese Steak (Regular, Gluten Free Bread)",660,30.92,12.05,0,145.49,2232.26,53.25,3.5,11.52,46.1
+"#55 Big Kahuna Chicken Cheese Steak (Giant, White Bread)",1410,53.02,23.97,0.01,290.98,4846.18,133.17,7.01,19.28,100.7
+"#55 Big Kahuna Chicken Cheese Steak (Giant, Rosemary Parmesan Bread)",1470,57.34,26.63,0.01,303.64,4988.83,134.81,7.76,19.31,104.84
+"#55 Big Kahuna Chicken Cheese Steak (Giant, Wheat Bread)",1430,53.86,23.19,0.01,290.98,4771.93,135.02,11.35,21.42,102.44
+"#55 Big Kahuna Chicken Cheese Steak (Giant, Seeded Italian Bread)",1500,56.84,24.6,0,290.98,4904.51,150.5,12,23.04,101.2
+"#55 Big Kahuna Chicken Cheese Steak (Giant, Gluten Free Bread)",1320,61.84,24.1,0,290.98,4464.51,106.5,7,23.04,92.2
+"#55 Big Kahuna Chicken Cheese Steak (Wrap, White Wrap)",730,30.91,14.55,0,145.49,2526.97,65.09,3.38,7.72,48.02
+"#55 Big Kahuna Chicken Cheese Steak (Wrap, Tomato Basil Wrap)",730,30.91,14.55,0,145.49,2506.97,65.09,3.38,7.72,48.02
+"#55 Big Kahuna Chicken Cheese Steak (Wrap, Wheat Wrap)",710,30.91,14.55,0,145.49,2536.97,63.09,7.38,7.72,49.02
+"#55 Big Kahuna Chicken Cheese Steak (Wrap, Garlic Herb Wrap)",730,30.91,14.55,0,145.49,2736.97,65.09,3.38,7.72,48.02
+"#55 Big Kahuna Chicken Cheese Steak (Wrap, Spinach Herb Wrap)",730,30.91,14.55,0,145.49,2526.97,64.09,3.38,7.72,49.02
+#55 Big Kahuna Chicken Cheese Steak (Bowl),420,23.91,11.55,0,145.49,1786.97,13.09,1.38,7.72,40.02
+"#26 Bacon Ranch Chicken Cheese Steak (Regular, White Bread)",860,43.45,13.77,0.11,164.08,2493.91,65.64,3.68,8.84,53.67
+"#26 Bacon Ranch Chicken Cheese Steak (Regular, Rosemary Parmesan Bread)",890,45.61,15.09,0.11,170.41,2565.23,66.46,4.06,8.86,55.74
+"#26 Bacon Ranch Chicken Cheese Steak (Regular, Wheat Bread)",870,43.87,13.38,0.11,164.08,2456.78,66.56,5.85,9.92,54.54
+"#26 Bacon Ranch Chicken Cheese Steak (Regular, Seeded Italian Bread)",900,45.36,14.08,0.11,164.08,2523.07,74.3,6.18,10.72,53.92
+"#26 Bacon Ranch Chicken Cheese Steak (Regular, Gluten Free Bread)",810,47.86,13.83,0.11,164.08,2303.07,52.3,3.68,10.72,49.42
+"#26 Bacon Ranch Chicken Cheese Steak (Giant, White Bread)",1710,86.84,27.52,0.22,328.16,4986.44,130.21,7.03,16.96,107.09
+"#26 Bacon Ranch Chicken Cheese Steak (Giant, Rosemary Parmesan Bread)",1770,91.16,30.18,0.22,340.82,5129.09,131.85,7.78,16.99,111.23
+"#26 Bacon Ranch Chicken Cheese Steak (Giant, Wheat Bread)",1730,87.68,26.74,0.22,328.16,4912.19,132.06,11.38,19.11,108.83
+"#26 Bacon Ranch Chicken Cheese Steak (Giant, Seeded Italian Bread)",1800,90.66,28.15,0.21,328.16,5044.77,147.54,12.02,20.72,107.59
+"#26 Bacon Ranch Chicken Cheese Steak (Giant, Gluten Free Bread)",1620,95.66,27.65,0.21,328.16,4604.77,103.54,7.02,20.72,98.59
+"#26 Bacon Ranch Chicken Cheese Steak (Wrap, White Wrap)",890,47.86,16.33,0.11,164.08,2598.07,64.8,3.68,7.22,51.42
+"#26 Bacon Ranch Chicken Cheese Steak (Wrap, Tomato Basil Wrap)",890,47.86,16.33,0.11,164.08,2578.07,64.8,3.68,7.22,51.42
+"#26 Bacon Ranch Chicken Cheese Steak (Wrap, Wheat Wrap)",870,47.86,16.33,0.11,164.08,2608.07,62.8,7.68,7.22,52.42
+"#26 Bacon Ranch Chicken Cheese Steak (Wrap, Garlic Herb Wrap)",890,47.86,16.33,0.11,164.08,2808.07,64.8,3.68,7.22,51.42
+"#26 Bacon Ranch Chicken Cheese Steak (Wrap, Spinach Herb Wrap)",890,47.86,16.33,0.11,164.08,2598.07,63.8,3.68,7.22,52.42
+#26 Bacon Ranch Chicken Cheese Steak (Bowl),580,40.86,13.33,0.11,164.08,1858.07,12.8,1.67,7.22,43.42
+"#31 California Chicken Cheese Steak (Regular, White Bread)",900,51.1,13.67,0.39,144.81,2028.82,65.1,3.64,8.7,48.59
+"#31 California Chicken Cheese Steak (Regular, Rosemary Parmesan Bread)",930,53.26,15,0.39,151.14,2100.15,65.92,4.01,8.71,50.66
+"#31 California Chicken Cheese Steak (Regular, Wheat Bread)",920,51.52,13.28,0.39,144.81,1991.7,66.02,5.81,9.77,49.46
+"#31 California Chicken Cheese Steak (Regular, Seeded Italian Bread)",950,53.01,13.99,0.39,144.81,2057.99,73.76,6.13,10.58,48.84
+"#31 California Chicken Cheese Steak (Regular, Gluten Free Bread)",860,55.51,13.74,0.39,144.81,1837.99,51.76,3.63,10.58,44.34
+"#31 California Chicken Cheese Steak (Giant, White Bread)",1800,102.14,27.33,0.79,289.62,4056.27,129.14,6.94,16.67,96.94
+"#31 California Chicken Cheese Steak (Giant, Rosemary Parmesan Bread)",1870,106.46,29.99,0.79,302.28,4198.92,130.78,7.69,16.71,101.08
+"#31 California Chicken Cheese Steak (Giant, Wheat Bread)",1830,102.98,26.55,0.79,289.62,3982.02,130.98,11.29,18.83,98.68
+"#31 California Chicken Cheese Steak (Giant, Seeded Italian Bread)",1900,105.96,27.96,0.78,289.62,4114.6,146.47,11.93,20.44,97.44
+"#31 California Chicken Cheese Steak (Giant, Gluten Free Bread)",1720,110.96,27.46,0.78,289.62,3674.6,102.46,6.93,20.44,88.44
+"#31 California Chicken Cheese Steak (Wrap, White Wrap)",940,55.51,16.24,0.39,144.81,2132.99,64.26,3.63,7.08,46.34
+"#31 California Chicken Cheese Steak (Wrap, Tomato Basil Wrap)",940,55.51,16.24,0.39,144.81,2112.99,64.26,3.63,7.08,46.34
+"#31 California Chicken Cheese Steak (Wrap, Wheat Wrap)",920,55.51,16.24,0.39,144.81,2142.99,62.26,7.63,7.08,47.34
+"#31 California Chicken Cheese Steak (Wrap, Garlic Herb Wrap)",940,55.51,16.24,0.39,144.81,2342.99,64.26,3.63,7.08,46.34
+"#31 California Chicken Cheese Steak (Wrap, Spinach Herb Wrap)",940,55.51,16.24,0.39,144.81,2132.99,63.26,3.63,7.08,47.34
+#31 California Chicken Cheese Steak (Bowl),630,48.51,13.24,0.39,144.81,1392.99,12.26,1.63,7.08,38.34
+"#44 Buffalo Chicken Cheese Steak (Regular, White Bread)",890,47.19,14.06,0.25,155.1,3390.11,68.3,4.04,10.15,49.97
+"#44 Buffalo Chicken Cheese Steak (Regular, Rosemary Parmesan Bread)",920,49.35,15.39,0.25,161.43,3461.44,69.12,4.41,10.16,52.04
+"#44 Buffalo Chicken Cheese Steak (Regular, Wheat Bread)",900,47.61,13.67,0.25,155.1,3352.99,69.22,6.21,11.22,50.84
+"#44 Buffalo Chicken Cheese Steak (Regular, Seeded Italian Bread)",930,49.1,14.37,0.24,155.1,3419.28,76.96,6.53,12.03,50.22
+"#44 Buffalo Chicken Cheese Steak (Regular, Gluten Free Bread)",840,51.6,14.12,0.24,155.1,3199.27,54.96,4.03,12.03,45.72
+"#44 Buffalo Chicken Cheese Steak (Giant, White Bread)",1770,94.32,28.11,0.49,310.2,6778.85,135.53,7.74,19.57,99.7
+"#44 Buffalo Chicken Cheese Steak (Giant, Rosemary Parmesan Bread)",1830,98.64,30.77,0.49,322.86,6921.5,137.17,8.49,19.6,103.84
+"#44 Buffalo Chicken Cheese Steak (Giant, Wheat Bread)",1800,95.16,27.33,0.49,310.2,6704.6,137.38,12.09,21.72,101.44
+"#44 Buffalo Chicken Cheese Steak (Giant, Seeded Italian Bread)",1870,98.14,28.74,0.48,310.2,6837.18,152.86,12.73,23.33,100.2
+"#44 Buffalo Chicken Cheese Steak (Giant, Gluten Free Bread)",1690,103.14,28.24,0.48,310.2,6397.18,108.86,7.73,23.33,91.2
+"#44 Buffalo Chicken Cheese Steak (Wrap, White Wrap)",920,51.6,16.62,0.24,155.1,3494.28,67.46,4.03,8.53,47.72
+"#44 Buffalo Chicken Cheese Steak (Wrap, Tomato Basil Wrap)",920,51.6,16.62,0.24,155.1,3474.28,67.46,4.03,8.53,47.72
+"#44 Buffalo Chicken Cheese Steak (Wrap, Wheat Wrap)",900,51.6,16.62,0.24,155.1,3504.28,65.46,8.03,8.53,48.72
+"#44 Buffalo Chicken Cheese Steak (Wrap, Garlic Herb Wrap)",920,51.6,16.62,0.24,155.1,3704.28,67.46,4.03,8.53,47.72
+"#44 Buffalo Chicken Cheese Steak (Wrap, Spinach Herb Wrap)",920,51.6,16.62,0.24,155.1,3494.28,66.46,4.03,8.53,48.72
+#44 Buffalo Chicken Cheese Steak (Bowl),610,44.6,13.62,0.24,155.1,2754.27,15.46,2.03,8.53,39.72
+"#17 Mike's Famous Philly (Regular, White Bread)",710,30.6,13.92,0.53,118.37,2003.51,65.55,2.82,8.06,45.1
+"#17 Mike's Famous Philly (Regular, Rosemary Parmesan Bread)",740,32.76,15.25,0.53,124.7,2074.83,66.37,3.19,8.08,47.17
+"#17 Mike's Famous Philly (Regular, Wheat Bread)",730,31.02,13.53,0.53,118.37,1966.38,66.47,4.99,9.14,45.97
+"#17 Mike's Famous Philly (Regular, Seeded Italian Bread)",760,32.51,14.23,0.52,118.37,2032.67,74.21,5.31,9.94,45.35
+"#17 Mike's Famous Philly (Regular, Gluten Free Bread)",670,35.01,13.98,0.52,118.37,1812.67,52.21,2.81,9.94,40.85
+"#17 Mike's Famous Philly (Giant, White Bread)",1430,61.21,27.83,1.05,236.73,4007.01,131.09,5.63,16.13,90.2
+"#17 Mike's Famous Philly (Giant, Rosemary Parmesan Bread)",1490,65.53,30.49,1.05,249.39,4149.66,132.73,6.38,16.16,94.34
+"#17 Mike's Famous Philly (Giant, Wheat Bread)",1450,62.05,27.05,1.05,236.73,3932.76,132.94,9.98,18.28,91.94
+"#17 Mike's Famous Philly (Giant, Seeded Italian Bread)",1520,65.03,28.46,1.04,236.73,4065.34,148.42,10.62,19.88,90.7
+"#17 Mike's Famous Philly (Giant, Gluten Free Bread)",1340,70.03,27.96,1.04,236.73,3625.34,104.42,5.62,19.88,81.7
+"#17 Mike's Famous Philly (Wrap, White Wrap)",740,35.01,16.48,0.52,118.37,2107.67,64.71,2.81,6.44,42.85
+"#17 Mike's Famous Philly (Wrap, Tomato Basil Wrap)",740,35.01,16.48,0.52,118.37,2087.67,64.71,2.81,6.44,42.85
+"#17 Mike's Famous Philly (Wrap, Wheat Wrap)",720,35.01,16.48,0.52,118.37,2117.67,62.71,6.81,6.44,43.85
+"#17 Mike's Famous Philly (Wrap, Garlic Herb Wrap)",740,35.01,16.48,0.52,118.37,2317.67,64.71,2.81,6.44,42.85
+"#17 Mike's Famous Philly (Wrap, Spinach Herb Wrap)",740,35.01,16.48,0.52,118.37,2107.67,63.71,2.81,6.44,43.85
+#17 Mike's Famous Philly (Bowl),430,28.01,13.48,0.52,118.37,1367.67,12.71,0.81,6.44,34.85
+"#43 Chipotle Cheese Steak (Regular, White Bread)",1000,62.33,18.85,0.74,142.46,2362.92,67.23,2.91,9.31,45.56
+"#43 Chipotle Cheese Steak (Regular, Rosemary Parmesan Bread)",1030,64.49,20.18,0.74,148.79,2434.25,68.05,3.28,9.32,47.63
+"#43 Chipotle Cheese Steak (Regular, Wheat Bread)",1020,62.75,18.46,0.74,142.46,2325.8,68.15,5.08,10.38,46.43
+"#43 Chipotle Cheese Steak (Regular, Seeded Italian Bread)",1050,64.24,19.17,0.73,142.46,2392.09,75.89,5.4,11.19,45.81
+"#43 Chipotle Cheese Steak (Regular, Gluten Free Bread)",960,66.74,18.92,0.73,142.46,2172.09,53.89,2.9,11.19,41.31
+"#43 Chipotle Cheese Steak (Giant, White Bread)",2000,124.66,37.71,1.47,284.91,4725.84,134.45,5.81,18.62,91.13
+"#43 Chipotle Cheese Steak (Giant, Rosemary Parmesan Bread)",2070,128.98,40.36,1.47,297.57,4868.49,136.09,6.56,18.65,95.27
+"#43 Chipotle Cheese Steak (Giant, Wheat Bread)",2030,125.5,36.93,1.47,284.91,4651.59,136.3,10.16,20.77,92.87
+"#43 Chipotle Cheese Steak (Giant, Seeded Italian Bread)",2100,128.48,38.33,1.46,284.91,4784.17,151.78,10.8,22.38,91.63
+"#43 Chipotle Cheese Steak (Giant, Gluten Free Bread)",1920,133.48,37.83,1.46,284.91,4344.17,107.78,5.8,22.38,82.63
+"#43 Chipotle Cheese Steak (Wrap, White Wrap)",1030,66.74,21.42,0.73,142.46,2467.09,66.39,2.9,7.69,43.31
+"#43 Chipotle Cheese Steak (Wrap, Tomato Basil Wrap)",1030,66.74,21.42,0.73,142.46,2447.09,66.39,2.9,7.69,43.31
+"#43 Chipotle Cheese Steak (Wrap, Wheat Wrap)",1010,66.74,21.42,0.73,142.46,2477.09,64.39,6.9,7.69,44.31
+"#43 Chipotle Cheese Steak (Wrap, Garlic Herb Wrap)",1030,66.74,21.42,0.73,142.46,2677.09,66.39,2.9,7.69,43.31
+"#43 Chipotle Cheese Steak (Wrap, Spinach Herb Wrap)",1030,66.74,21.42,0.73,142.46,2467.09,65.39,2.9,7.69,44.31
+#43 Chipotle Cheese Steak (Bowl),720,59.74,18.42,0.73,142.46,1727.09,14.39,0.9,7.69,35.31
+"#56 Big Kahuna Cheese Steak (Regular, White Bread)",770,35.15,16.45,0.53,131.02,2399.67,66.95,3.38,8.37,47.88
+"#56 Big Kahuna Cheese Steak (Regular, Rosemary Parmesan Bread)",800,37.31,17.78,0.53,137.35,2470.99,67.77,3.76,8.38,49.95
+"#56 Big Kahuna Cheese Steak (Regular, Wheat Bread)",780,35.57,16.06,0.53,131.02,2362.54,67.88,5.56,9.44,48.75
+"#56 Big Kahuna Cheese Steak (Regular, Seeded Italian Bread)",810,37.06,16.76,0.52,131.02,2428.83,75.62,5.88,10.25,48.13
+"#56 Big Kahuna Cheese Steak (Regular, Gluten Free Bread)",720,39.56,16.51,0.52,131.02,2208.83,53.62,3.38,10.25,43.63
+"#56 Big Kahuna Cheese Steak (Giant, White Bread)",1530,70.31,32.89,1.05,262.04,4799.62,134.56,6.89,17.04,95.84
+"#56 Big Kahuna Cheese Steak (Giant, Rosemary Parmesan Bread)",1600,74.63,35.55,1.05,274.7,4942.27,136.2,7.64,17.07,99.98
+"#56 Big Kahuna Cheese Steak (Giant, Wheat Bread)",1560,71.15,32.11,1.05,262.04,4725.37,136.41,11.24,19.19,97.58
+"#56 Big Kahuna Cheese Steak (Giant, Seeded Italian Bread)",1630,74.13,33.52,1.04,262.04,4857.95,151.89,11.88,20.79,96.34
+"#56 Big Kahuna Cheese Steak (Giant, Gluten Free Bread)",1450,79.13,33.02,1.04,262.04,4417.95,107.89,6.88,20.79,87.34
+"#56 Big Kahuna Cheese Steak (Wrap, White Wrap)",800,39.56,19.01,0.52,131.02,2503.83,66.12,3.38,6.75,45.63
+"#56 Big Kahuna Cheese Steak (Wrap, Tomato Basil Wrap)",800,39.56,19.01,0.52,131.02,2483.83,66.12,3.38,6.75,45.63
+"#56 Big Kahuna Cheese Steak (Wrap, Wheat Wrap)",780,39.56,19.01,0.52,131.02,2513.83,64.12,7.38,6.75,46.63
+"#56 Big Kahuna Cheese Steak (Wrap, Garlic Herb Wrap)",800,39.56,19.01,0.52,131.02,2713.83,66.12,3.38,6.75,45.63
+"#56 Big Kahuna Cheese Steak (Wrap, Spinach Herb Wrap)",800,39.56,19.01,0.52,131.02,2503.83,65.12,3.38,6.75,46.63
+#56 Big Kahuna Cheese Steak (Bowl),490,32.56,16.01,0.52,131.02,1763.83,14.12,1.38,6.75,37.63
+"#64 Grilled Portabella Mushroom & Swiss (Regular, White Bread)",610,29.28,10.23,0.16,37.97,802.08,65.59,4.99,7.73,25.9
+"#64 Grilled Portabella Mushroom & Swiss (Regular, Rosemary Parmesan Bread)",640,31.44,11.56,0.16,44.3,873.4,66.41,5.37,7.74,27.97
+"#64 Grilled Portabella Mushroom & Swiss (Regular, Wheat Bread)",620,29.7,9.83,0.16,37.97,764.95,66.52,7.17,8.8,26.77
+"#64 Grilled Portabella Mushroom & Swiss (Regular, Seeded Italian Bread)",660,31.19,10.54,0.16,37.97,831.24,74.26,7.49,9.61,26.15
+"#64 Grilled Portabella Mushroom & Swiss (Regular, Gluten Free Bread)",570,33.69,10.29,0.16,37.97,611.24,52.26,4.99,9.61,21.65
+"#64 Grilled Portabella Mushroom & Swiss (Giant, White Bread)",1220,58.56,20.45,0.32,75.93,1604.15,131.18,9.98,15.45,51.8
+"#64 Grilled Portabella Mushroom & Swiss (Giant, Rosemary Parmesan Bread)",1280,62.88,23.11,0.32,88.59,1746.8,132.82,10.73,15.48,55.94
+"#64 Grilled Portabella Mushroom & Swiss (Giant, Wheat Bread)",1250,59.4,19.67,0.32,75.93,1529.9,133.03,14.33,17.6,53.54
+"#64 Grilled Portabella Mushroom & Swiss (Giant, Seeded Italian Bread)",1320,62.38,21.08,0.31,75.93,1662.48,148.51,14.97,19.21,52.3
+"#64 Grilled Portabella Mushroom & Swiss (Giant, Gluten Free Bread)",1140,67.38,20.58,0.31,75.93,1222.48,104.51,9.97,19.21,43.3
+"#64 Grilled Portabella Mushroom & Swiss (Wrap, White Wrap)",640,33.69,12.79,0.16,37.97,906.24,64.76,4.99,6.11,23.65
+"#64 Grilled Portabella Mushroom & Swiss (Wrap, Tomato Basil Wrap)",640,33.69,12.79,0.16,37.97,886.24,64.76,4.99,6.11,23.65
+"#64 Grilled Portabella Mushroom & Swiss (Wrap, Wheat Wrap)",620,33.69,12.79,0.16,37.97,916.24,62.76,8.99,6.11,24.65
+"#64 Grilled Portabella Mushroom & Swiss (Wrap, Garlic Herb Wrap)",640,33.69,12.79,0.16,37.97,1116.24,64.76,4.99,6.11,23.65
+"#64 Grilled Portabella Mushroom & Swiss (Wrap, Spinach Herb Wrap)",640,33.69,12.79,0.16,37.97,906.24,63.76,4.99,6.11,24.65
+#64 Grilled Portabella Mushroom & Swiss (Bowl),330,26.69,9.79,0.16,37.97,166.24,12.75,2.99,6.11,15.65
+"#66 Portabella Cheese Steak (Regular, White Bread)",750,34.34,14.47,0.57,118.37,2006.06,66.65,3.19,8.77,45.7
+"#66 Portabella Cheese Steak (Regular, Rosemary Parmesan Bread)",780,36.5,15.8,0.57,124.7,2077.38,67.47,3.56,8.79,47.77
+"#66 Portabella Cheese Steak (Regular, Wheat Bread)",760,34.76,14.08,0.57,118.37,1968.93,67.57,5.36,9.85,46.57
+"#66 Portabella Cheese Steak (Regular, Seeded Italian Bread)",800,36.25,14.79,0.56,118.37,2035.22,75.31,5.68,10.65,45.95
+"#66 Portabella Cheese Steak (Regular, Gluten Free Bread)",710,38.75,14.54,0.56,118.37,1815.22,53.31,3.18,10.65,41.45
+"#66 Portabella Cheese Steak (Giant, White Bread)",1500,68.41,28.9,1.13,236.73,4012.11,133.29,6.37,17.55,91.4
+"#66 Portabella Cheese Steak (Giant, Rosemary Parmesan Bread)",1560,72.73,31.56,1.13,249.39,4154.76,134.93,7.12,17.58,95.54
+"#66 Portabella Cheese Steak (Giant, Wheat Bread)",1530,69.25,28.12,1.13,236.73,3937.86,135.14,10.72,19.7,93.14
+"#66 Portabella Cheese Steak (Giant, Seeded Italian Bread)",1600,72.23,29.53,1.12,236.73,4070.44,150.62,11.36,21.31,91.9
+"#66 Portabella Cheese Steak (Giant, Gluten Free Bread)",1420,77.23,29.03,1.12,236.73,3630.44,106.62,6.36,21.31,82.9
+"#66 Portabella Cheese Steak (Wrap, White Wrap)",780,38.75,17.04,0.56,118.37,2110.22,65.81,3.18,7.15,43.45
+"#66 Portabella Cheese Steak (Wrap, Tomato Basil Wrap)",780,38.75,17.04,0.56,118.37,2090.22,65.81,3.18,7.15,43.45
+"#66 Portabella Cheese Steak (Wrap, Wheat Wrap)",760,38.75,17.04,0.56,118.37,2120.22,63.81,7.18,7.15,44.45
+"#66 Portabella Cheese Steak (Wrap, Garlic Herb Wrap)",780,38.75,17.04,0.56,118.37,2320.22,65.81,3.18,7.15,43.45
+"#66 Portabella Cheese Steak (Wrap, Spinach Herb Wrap)",780,38.75,17.04,0.56,118.37,2110.22,64.81,3.18,7.15,44.45
+#66 Portabella Cheese Steak (Bowl),470,31.75,14.04,0.56,118.37,1370.22,13.81,1.18,7.15,35.45
+"#65 Portabella Chicken Cheese Steak (Regular, White Bread)",690,25.69,10.01,0.05,132.84,2029.2,65.62,3.19,9.74,48.09
+"#65 Portabella Chicken Cheese Steak (Regular, Rosemary Parmesan Bread)",720,27.85,11.34,0.05,139.17,2100.52,66.44,3.56,9.76,50.16
+"#65 Portabella Chicken Cheese Steak (Regular, Wheat Bread)",700,26.11,9.62,0.05,132.84,1992.07,66.54,5.36,10.82,48.96
+"#65 Portabella Chicken Cheese Steak (Regular, Seeded Italian Bread)",730,27.6,10.33,0.04,132.84,2058.36,74.28,5.68,11.62,48.34
+"#65 Portabella Chicken Cheese Steak (Regular, Gluten Free Bread)",640,30.1,10.08,0.04,132.84,1838.36,52.28,3.18,11.62,43.84
+"#65 Portabella Chicken Cheese Steak (Giant, White Bread)",1370,51.11,19.99,0.09,265.67,4058.39,131.23,6.37,19.49,96.18
+"#65 Portabella Chicken Cheese Steak (Giant, Rosemary Parmesan Bread)",1430,55.43,22.65,0.09,278.33,4201.04,132.87,7.12,19.52,100.32
+"#65 Portabella Chicken Cheese Steak (Giant, Wheat Bread)",1400,51.95,19.21,0.09,265.67,3984.14,133.08,10.72,21.63,97.92
+"#65 Portabella Chicken Cheese Steak (Giant, Seeded Italian Bread)",1470,54.93,20.62,0.08,265.67,4116.72,148.56,11.36,23.24,96.68
+"#65 Portabella Chicken Cheese Steak (Giant, Gluten Free Bread)",1290,59.93,20.12,0.08,265.67,3676.72,104.56,6.36,23.24,87.68
+"#65 Portabella Chicken Cheese Steak (Wrap, White Wrap)",720,30.1,12.58,0.04,132.84,2133.36,64.78,3.18,8.12,45.84
+"#65 Portabella Chicken Cheese Steak (Wrap, Tomato Basil Wrap)",720,30.1,12.58,0.04,132.84,2113.36,64.78,3.18,8.12,45.84
+"#65 Portabella Chicken Cheese Steak (Wrap, Wheat Wrap)",700,30.1,12.58,0.04,132.84,2143.36,62.78,7.18,8.12,46.84
+"#65 Portabella Chicken Cheese Steak (Wrap, Garlic Herb Wrap)",720,30.1,12.58,0.04,132.84,2343.36,64.78,3.18,8.12,45.84
+"#65 Portabella Chicken Cheese Steak (Wrap, Spinach Herb Wrap)",720,30.1,12.58,0.04,132.84,2133.36,63.78,3.18,8.12,46.84
+#65 Portabella Chicken Cheese Steak (Bowl),410,23.1,9.58,0.04,132.84,1393.36,12.78,1.18,8.12,37.84
+"#20 Grilled Pastrami Reuben (Regular, White Bread)",700,30.32,9.39,0.01,98.9,2161.32,66.71,5.09,6.95,40.5
+"#20 Grilled Pastrami Reuben (Regular, Rosemary Parmesan Bread)",730,32.48,10.72,0.01,105.23,2232.64,67.53,5.46,6.96,42.57
+"#20 Grilled Pastrami Reuben (Regular, Wheat Bread)",720,30.74,9,0.01,98.9,2124.19,67.63,7.26,8.02,41.37
+"#20 Grilled Pastrami Reuben (Regular, Seeded Italian Bread)",750,32.23,9.71,0,98.9,2190.48,75.37,7.58,8.83,40.75
+"#20 Grilled Pastrami Reuben (Regular, Gluten Free Bread)",660,34.73,9.46,0,98.9,1970.48,53.37,5.08,8.83,36.25
+"#20 Grilled Pastrami Reuben (Giant, White Bread)",1350,54.5,17.84,0.01,191.66,4218.68,131.53,10.17,12,81
+"#20 Grilled Pastrami Reuben (Giant, Rosemary Parmesan Bread)",1410,58.82,20.5,0.01,204.32,4361.33,133.17,10.92,12.03,85.14
+"#20 Grilled Pastrami Reuben (Giant, Wheat Bread)",1370,55.34,17.06,0.01,191.66,4144.43,133.38,14.52,14.15,82.74
+"#20 Grilled Pastrami Reuben (Giant, Seeded Italian Bread)",1440,58.32,18.47,0,191.66,4277.01,148.86,15.16,15.76,81.5
+"#20 Grilled Pastrami Reuben (Giant, Gluten Free Bread)",1260,63.32,17.97,0,191.66,3837.01,104.86,10.16,15.76,72.5
+"#20 Grilled Pastrami Reuben (Wrap, White Wrap)",740,34.73,11.96,0,98.9,2265.48,65.87,5.08,5.32,38.25
+"#20 Grilled Pastrami Reuben (Wrap, Tomato Basil Wrap)",740,34.73,11.96,0,98.9,2245.48,65.87,5.08,5.32,38.25
+"#20 Grilled Pastrami Reuben (Wrap, Wheat Wrap)",720,34.73,11.96,0,98.9,2275.48,63.87,9.08,5.32,39.25
+"#20 Grilled Pastrami Reuben (Wrap, Garlic Herb Wrap)",740,34.73,11.96,0,98.9,2475.48,65.87,5.08,5.32,38.25
+"#20 Grilled Pastrami Reuben (Wrap, Spinach Herb Wrap)",740,34.73,11.96,0,98.9,2265.48,64.87,5.08,5.32,39.25
+#20 Grilled Pastrami Reuben (Bowl),430,27.73,8.96,0,98.9,1525.48,13.87,3.08,5.32,30.25
+"Teriyaki Chicken Sub (Regular, White Bread)",650,21.95,9.46,0.01,132.84,2026.65,64.52,2.82,9.03,47.49
+"Teriyaki Chicken Sub (Regular, Rosemary Parmesan Bread)",680,24.11,10.79,0.01,139.17,2097.97,65.34,3.19,9.05,49.56
+"Teriyaki Chicken Sub (Regular, Wheat Bread)",660,22.37,9.07,0.01,132.84,1989.52,65.44,4.99,10.11,48.36
+"Teriyaki Chicken Sub (Regular, Seeded Italian Bread)",700,23.86,9.77,0,132.84,2055.81,73.18,5.31,10.91,47.74
+"Teriyaki Chicken Sub (Regular, Gluten Free Bread)",610,26.36,9.52,0,132.84,1835.81,51.18,2.81,10.91,43.24
+"Teriyaki Chicken Sub (Giant, White Bread)",1300,43.91,18.92,0.01,265.67,4053.29,129.03,5.63,18.06,94.98
+"Teriyaki Chicken Sub (Giant, Rosemary Parmesan Bread)",1360,48.23,21.58,0.01,278.33,4195.94,130.67,6.38,18.1,99.12
+"Teriyaki Chicken Sub (Giant, Wheat Bread)",1320,44.75,18.13,0.01,265.67,3979.04,130.88,9.98,20.22,96.72
+"Teriyaki Chicken Sub (Giant, Seeded Italian Bread)",1390,47.73,19.54,0,265.67,4111.62,146.36,10.62,21.83,95.48
+"Teriyaki Chicken Sub (Giant, Gluten Free Bread)",1210,52.73,19.04,0,265.67,3671.62,102.36,5.62,21.83,86.48
+"Teriyaki Chicken Sub (Wrap, White Wrap)",680,26.36,12.02,0,132.84,2130.81,63.68,2.81,7.41,45.24
+"Teriyaki Chicken Sub (Wrap, Tomato Basil Wrap)",680,26.36,12.02,0,132.84,2110.81,63.68,2.81,7.41,45.24
+"Teriyaki Chicken Sub (Wrap, Wheat Wrap)",660,26.36,12.02,0,132.84,2140.81,61.68,6.81,7.41,46.24
+"Teriyaki Chicken Sub (Wrap, Garlic Herb Wrap)",680,26.36,12.02,0,132.84,2340.81,63.68,2.81,7.41,45.24
+"Teriyaki Chicken Sub (Wrap, Spinach Herb Wrap)",680,26.36,12.02,0,132.84,2130.81,62.68,2.81,7.41,46.24
+Teriyaki Chicken Sub (Bowl),370,19.36,9.02,0,132.84,1390.81,11.68,0.81,7.41,37.24
+"#19 BBQ Beef (Regular, White Bread)",680,11.29,3.3,0.06,122.87,1838.56,81.34,2.93,18.7,58.77
+"#19 BBQ Beef (Regular, Rosemary Parmesan Bread)",710,13.45,4.63,0.06,129.2,1909.89,82.16,3.3,18.71,60.84
+"#19 BBQ Beef (Regular, Wheat Bread)",690,11.71,2.91,0.06,122.87,1801.44,82.26,5.1,19.77,59.64
+"#19 BBQ Beef (Regular, Seeded Italian Bread)",730,13.2,3.61,0.06,122.87,1867.73,90,5.43,20.58,59.02
+"#19 BBQ Beef (Regular, Gluten Free Bread)",640,15.7,3.36,0.06,122.87,1647.73,68,2.93,20.58,54.52
+"#19 BBQ Beef (Giant, White Bread)",1240,20.14,5.81,0.11,212.23,3248.08,151.27,5.49,30.56,104.17
+"#19 BBQ Beef (Giant, Rosemary Parmesan Bread)",1300,24.46,8.47,0.11,224.89,3390.73,152.91,6.24,30.59,108.31
+"#19 BBQ Beef (Giant, Wheat Bread)",1260,20.97,5.03,0.11,212.23,3173.83,153.12,9.84,32.71,105.91
+"#19 BBQ Beef (Giant, Seeded Italian Bread)",1330,23.96,6.44,0.1,212.23,3306.4,168.6,10.48,34.32,104.67
+"#19 BBQ Beef (Giant, Gluten Free Bread)",1150,28.96,5.94,0.1,212.23,2866.4,124.6,5.48,34.32,95.67
+"#19 BBQ Beef (Wrap, White Wrap)",710,15.7,5.86,0.06,122.87,1942.73,80.5,2.93,17.08,56.52
+"#19 BBQ Beef (Wrap, Tomato Basil Wrap)",710,15.7,5.86,0.06,122.87,1922.73,80.5,2.93,17.08,56.52
+"#19 BBQ Beef (Wrap, Wheat Wrap)",690,15.7,5.86,0.06,122.87,1952.73,78.5,6.93,17.08,57.52
+"#19 BBQ Beef (Wrap, Garlic Herb Wrap)",710,15.7,5.86,0.06,122.87,2152.73,80.5,2.93,17.08,56.52
+"#19 BBQ Beef (Wrap, Spinach Herb Wrap)",710,15.7,5.86,0.06,122.87,1942.73,79.5,2.93,17.08,57.52
+#19 BBQ Beef (Bowl),400,8.7,2.86,0.06,122.87,1202.73,28.5,0.93,17.08,48.52
+"ChixRoni LTO (Regular, White Bread)",870,42.7,19.5,0.01,186.66,2790.29,66.6,2.7,8.34,58.26
+"ChixRoni LTO (Regular, Rosemary Parmesan Bread)",900,44.86,20.83,0.01,192.99,2861.62,67.42,3.07,8.35,60.33
+"ChixRoni LTO (Regular, Wheat Bread)",880,43.12,19.11,0.01,186.66,2753.17,67.53,4.87,9.41,59.13
+"ChixRoni LTO (Regular, Seeded Italian Bread)",910,44.61,19.82,0,186.66,2819.46,75.27,5.19,10.22,58.51
+"ChixRoni LTO (Regular, Gluten Free Bread)",820,47.11,19.57,0,186.66,2599.46,53.27,2.69,10.22,54.01
+"ChixRoni LTO (Giant, White Bread)",1740,86,39.21,0.01,374.65,5603.17,133.27,5.4,16.72,116.79
+"ChixRoni LTO (Giant, Rosemary Parmesan Bread)",1800,90.32,41.87,0.01,387.31,5745.82,134.91,6.15,16.75,120.93
+"ChixRoni LTO (Giant, Wheat Bread)",1760,86.84,38.43,0.01,374.65,5528.92,135.12,9.75,18.87,118.53
+"ChixRoni LTO (Giant, Seeded Italian Bread)",1830,89.82,39.84,0,374.65,5661.5,150.6,10.39,20.48,117.29
+"ChixRoni LTO (Giant, Gluten Free Bread)",1650,94.82,39.34,0,374.65,5221.5,106.6,5.39,20.48,108.29
+"ChixRoni LTO (Wrap, White Wrap)",900,47.11,22.07,0,186.66,2894.46,65.77,2.69,6.72,56.01
+"ChixRoni LTO (Wrap, Tomato Basil Wrap)",900,47.11,22.07,0,186.66,2874.46,65.77,2.69,6.72,56.01
+"ChixRoni LTO (Wrap, Wheat Wrap)",880,47.11,22.07,0,186.66,2904.46,63.77,6.69,6.72,57.01
+"ChixRoni LTO (Wrap, Garlic Herb Wrap)",900,47.11,22.07,0,186.66,3104.46,65.77,2.69,6.72,56.01
+"ChixRoni LTO (Wrap, Spinach Herb Wrap)",900,47.11,22.07,0,186.66,2894.46,64.77,2.69,6.72,57.01
+ChixRoni LTO (Bowl),590,40.11,19.07,0,186.66,2154.46,13.77,0.69,6.72,48.01
+"#79 Grilled Italian (Regular, White Bread)",1060,68.17,20.7,0.66,115.88,2842.35,64.58,4.42,9.72,46.55
+"#79 Grilled Italian (Regular, Rosemary Parmesan Bread)",1090,70.33,22.03,0.66,122.21,2913.68,65.4,4.8,9.74,48.62
+"#79 Grilled Italian (Regular, Wheat Bread)",1070,68.59,20.31,0.66,115.88,2805.23,65.5,6.6,10.8,47.42
+"#79 Grilled Italian (Regular, Seeded Italian Bread)",1100,70.08,21.01,0.66,115.88,2871.52,73.24,6.92,11.6,46.8
+"#79 Grilled Italian (Regular, Gluten Free Bread)",1010,72.58,20.76,0.66,115.88,2651.52,51.24,4.42,11.6,42.3
+"#79 Grilled Italian (Giant, White Bread)",1960,126.61,37.03,1.21,198.27,5045.55,125.52,8.1,16.9,81.64
+"#79 Grilled Italian (Giant, Rosemary Parmesan Bread)",2030,130.93,39.69,1.21,210.93,5188.2,127.16,8.85,16.93,85.78
+"#79 Grilled Italian (Giant, Wheat Bread)",1990,127.45,36.25,1.21,198.27,4971.3,127.37,12.45,19.05,83.38
+"#79 Grilled Italian (Giant, Seeded Italian Bread)",2060,130.43,37.66,1.2,198.27,5103.88,142.85,13.09,20.66,82.14
+"#79 Grilled Italian (Giant, Gluten Free Bread)",1880,135.43,37.16,1.2,198.27,4663.88,98.85,8.09,20.66,73.14
+"#79 Grilled Italian (Wrap, White Wrap)",1090,72.58,23.26,0.66,115.88,2946.52,63.74,4.42,8.1,44.3
+"#79 Grilled Italian (Wrap, Tomato Basil Wrap)",1090,72.58,23.26,0.66,115.88,2926.52,63.74,4.42,8.1,44.3
+"#79 Grilled Italian (Wrap, Wheat Wrap)",1070,72.58,23.26,0.66,115.88,2956.52,61.74,8.42,8.1,45.3
+"#79 Grilled Italian (Wrap, Garlic Herb Wrap)",1090,72.58,23.26,0.66,115.88,3156.52,63.74,4.42,8.1,44.3
+"#79 Grilled Italian (Wrap, Spinach Herb Wrap)",1090,72.58,23.26,0.66,115.88,2946.52,62.74,4.42,8.1,45.3
+#79 Grilled Italian (Bowl),780,65.58,20.26,0.66,115.88,2206.52,11.74,2.42,8.1,36.3
+The Wedge Chopped Salad,420,35.17,7.18,0.18,39.14,749.17,18.7,3.16,7.4,9.96
+Garden Caesar Chopped Salad,380,32.11,6.74,0,26.41,731.3,17.7,3.19,5.92,7.53
+Parmesan-Crusted Croutons,270,16.23,2.67,0,4.05,506.79,24.51,1.29,0.75,6
+Lays Classic,240,16,2,0,0,250,23,2,1,3
+Miss Vickie's Sea Salt & Vinegar,200,11,1.5,0,0,240,23,2,2,3
+Miss Vickie's BBQ,200,11,1.5,0,0,200,23,2,3,3
+Sun Chips Cheddar,210,9,1.5,0,0,320,27,4,3,4
+Doritos Cool Ranch,260,13,2,0,0,320,31,3,2,3
+Lays BBQ,230,14,2,0,0,230,24,2,3,3
+Lays Salt & Vinegar,230,15,2,0,0,340,23,2,1,2
+Baked Ruf Chedder & Sour Cream,140,3.5,0.5,0,0,280,24,2,3,2
+Fritos,320,20,3,0,0,320,32,3,1,3
+Baked Lays BBQ,140,3.5,0.5,0,0,220,24,2,4,2
+Funyuns,160,8,1,0,0,350,20,0,1,2
+Sun Chips Whole Grain French Onion,210,9,1,0,0,240,27,4,4,4
+Ruffles Original,240,15,2,0,0,230,23,2,1,3
+Doritos Sweet & Tangy BBQ,250,13,1.5,0,0,330,31,3,2,3
+Miss Vickie's Jalapeno,200,11,1.5,0,0,180,22,2,2,3
+Miss Vickie's Sea Salt,210,12,1.5,0,0,125,23,2,1,3
+Sun Chips Original,210,10,1,0,0,180,28,4,3,3
+Sun Chips Salsa,210,9,1.5,0,0,220,27,4,4,4
+Doritos Nacho,240,14,2,0,0,360,28,2,1,3
+Lays Sour Cream and Onion,240,15,2,0,0,240,23,2,1,3
+Ruffles Cheddar & Sour Cream,240,15,2.5,0,0,280,23,2,2,3
+Cheetos,310,21,3.5,0,0,500,26,1,2,3
+Baked Lays,140,4,0.5,0,0,180,24,2,3,2
+Baked Lays Sour Cream & Onion,140,3.5,0.5,0,0,190,24,2,3,2
+Fritos Chili Cheese,320,19,2.5,0,0,540,30,2,2,4
+Miss Vickie's Sour Cream & Herb,200,12,1.5,0,0,240,23,2,2,3
+Flamin Hot Cool Ranch Doritos,260,13,2,0,0,330,31,2,1,3
+Chocolate Chip Cookie,180,9,4.5,0,15,105,26,1,16,2
+Sugar Cookie,190,9.89,4.45,0,19.78,133.51,23.73,0,10.88,1.98
+Cookie/Macadamia Nut,200,10.88,4.94,0,14.83,93.95,23.73,0.99,13.85,1.98
+Oatmeal Raisin,170,6.92,2.97,0,14.83,98.89,25.71,0.99,13.85,1.98
+M&M Cookie,190,7.91,3.96,0,14.83,103.84,21.76,0.99,15.82,1.98
+Chocolate Chunk Cookie,190,9,4.5,0,15,105,26,1,15,2
+Giant Double Cookie,360,18,9,0,30,210,52,2,32,4
+Large Decadent Cookie,570,28,14,0,45,290,78,3,49,7
+Three Pack Chocolate Chip Cookie,540,27,13.5,0,45,315,78,3,48,6
+G3 Pack Double Cookie,1080,54,27,0,90,630,156,6,96,12
+GF SnickerDoodle,210,8,4.5,0,40,150,34,0,17,1
+Brownie,500,28,11,0,90,180,63,3,47,5
+Butterscotch Krimpet 2 Pack,220,7,2,0,50,150,39,0,26,2
+Chocolate Kandy Kake 2 Pack,190,10,5,0,10,85,20,1,14,3
+Cream Filled Buttercream Cupcakes 2 Pack,270,10,3,0,10,300,43,2,29,2
+Butterscotch Krimpet 3 Pack,320,9,3,0,55,210,58,0,37,3
+Chocolate Kandy Kake 3 Pack,280,16,8,0,15,125,31,2,21,5
+Cream Filled Buttercream Cupcakes 3 Pack,400,15,5,0,10,450,63,3,42,3
+French Fries 6 oz,370,22.8,3.66,0,0,625.92,40.5,1.86,0,3.66
+French Fries 5 oz,310,19,3.05,0,0,521.6,33.75,1.55,0,3.05
+"#1 Porkroll, Egg and Cheese (Mini)",620,39.91,15.73,0.76,401.22,1585.58,39.12,1.32,4.55,32.89
+"#1 Porkroll, Egg and Cheese (Regular)",710,40.8,15.88,0.77,401.22,1769.54,57.09,2.01,5.1,36.38
+"#2 Bacon, Egg and Cheese (Mini)",510,27.34,9.46,0.76,374.72,1251.91,37.94,1.32,3.36,28.42
+"#2 Bacon, Egg and Cheese (Regular)",600,28.23,9.61,0.77,374.72,1435.87,55.9,2.01,3.92,31.91
+"#3 Sausage, Egg and Cheese (Mini)",880,64.22,23.08,0.76,441.72,885.95,37.85,1.32,3.27,35.68
+"#3 Sausage, Egg and Cheese (Regular)",980,65.11,23.22,0.77,441.72,1069.91,55.81,2.01,3.83,39.16
+"#4 Ham, Egg and Cheese (Mini)",490,22.64,8,0.76,377.55,1515.93,39.3,1.32,4.72,33.25
+"#4 Ham, Egg and Cheese (Regular)",590,23.52,8.15,0.77,377.55,1699.89,57.26,2.01,5.28,36.73
+"#5 Steak, Egg and Cheese (Mini)",540,23.39,8.18,0.79,406.45,1037.41,37.85,1.32,3.27,43.07
+"#5 Steak, Egg and Cheese (Regular)",650,25.82,9.19,0.79,410.75,1297.1,56.16,2.01,4,47.42
+"#6 Cheese, Ham Peppers and Mushrooms",620,26.8,10.62,1.13,377.64,1434.88,56.58,2.19,4.18,37.32
+"#7 Bacon, Egg, Cheese, Peppers and Mushrooms",680,33,12.64,1.13,388.29,1503.07,55.96,2.2,3.55,38.38
+"#8 Cheese, Ham, Bacon, Peppers and Mushrooms",710,34.48,13.2,1.13,401.76,1835.26,56.67,2.19,4.27,44.25
+Egg and Cheese,420,19.66,6.88,0.76,350.59,851.53,37.85,1.32,3.27,21.49
+Tossed Salad,180,1.84,0.55,0,0,76.76,39,12.44,23.99,9.74
+Grilled Chicken Salad,800,25,7.19,0.04,308.32,1245.32,50.64,12.48,31.19,96.42
+Kid's Sub Ham (White Bread),220,5.62,2.48,0.12,19.17,678.95,30.25,2.06,3.38,13.49
+Kid's Sub Ham (Rosemary Parmesan Bread),240,6.7,3.15,0.12,22.34,714.62,30.66,2.24,3.39,14.52
+Kid's Sub Ham (Wheat Bread),230,5.83,2.29,0.12,19.17,660.39,30.71,3.14,3.92,13.92
+Kid's Sub Ham (Seeded Italian Bread),250,6.58,2.64,0.12,19.17,693.54,34.58,3.3,4.32,13.61
+Kid's Sub Turkey (White Bread),230,4.82,2.06,0.12,23.45,711.53,29.87,2.06,3,16.21
+Kid's Sub Turkey (Rosemary Parmesan Bread),240,5.9,2.72,0.12,26.62,747.19,30.28,2.24,3.01,17.24
+Kid's Sub Turkey (Wheat Bread),230,5.03,1.86,0.12,23.45,692.97,30.33,3.14,3.54,16.64
+Kid's Sub Turkey (Seeded Italian Bread),250,5.78,2.21,0.12,23.45,726.11,34.2,3.3,3.94,16.33
+Kid's Sub Salami (White Bread),250,9.55,4.08,0.12,20.98,658.37,30.19,2.07,3.28,11.47
+Kid's Sub Salami (Rosemary Parmesan Bread),270,10.63,4.74,0.12,24.14,694.04,30.6,2.26,3.28,12.5
+Kid's Sub Salami (Wheat Bread),260,9.76,3.88,0.12,20.98,639.81,30.65,3.16,3.81,11.9
+Kid's Sub Salami (Seeded Italian Bread),280,10.5,4.23,0.12,20.98,672.96,34.52,3.32,4.22,11.59
