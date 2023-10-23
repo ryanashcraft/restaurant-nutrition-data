@@ -1,4 +1,4 @@
-Name,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Sugars (g),Protein (g),Caffeine (mg),Calcium (mg),Iron (mg),Zinc (mg),Vitamin A (mcg),Vitamin E (mg),Vitamin D (mcg),Vitamin C (mg),Thiamin (mg),Riboflavin (mg)
+Name,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Sugars (g),Protein (g),Caffeine (mg),Calcium (mg),Iron (mg),Zinc (mg),Vitamin A (μg),Vitamin E (mg),Vitamin D (μg),Vitamin C (mg),Thiamin (mg),Riboflavin (mg)
 2% Milk (8 fl oz),120,5,3,0,20,115,12,,12,8,0,325,0,,,,,,,
 3G Energy + Green Caffeine Boost,5,0,0,,,0,3,2,0,0,119,,,,,,,,,
 88 Acres Chocolate Sea Salt,200,11,2.5,0,0,115,22,3,9,6,0,52,1.8,,,,0,,,
