@@ -19,8 +19,8 @@ Apple Cinnamon Pretzel,390,4.5,0,0,0,290,78,3,15,9,0,26,2.7,,,,,,,
 "Banana, Fresh (Topping)",60,0,0,0,0,0,15,2,8,1,0,0,0,0,0,0,0,9,0.024,0.026
 Blackberry Pear Juice Blend (8 fl oz),90,0,0,0,0,10,21,,20,1,0,26,0,0,,,,0,0,0
 Blue Spirulina Boost,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,,
-Blueberry Strawberry Blast-Off Smoothie - 10 Oz.,170,0,0,0,0,15,41,3,33,1,0,26,0.36,0.22,18,0.3,0,40.5,0.024,0.052
-Blueberry Strawberry Blast-Off Smoothie - 12 Oz.,180,0.5,0,0,0,15,44,4,34,1,0,26,0.72,0.22,18,0.3,0,72,0.048,0.052
+Blueberry Strawberry Blast-Off Smoothie (10 oz),170,0,0,0,0,15,41,3,33,1,0,26,0.36,0.22,18,0.3,0,40.5,0.024,0.052
+Blueberry Strawberry Blast-Off Smoothie (12 oz),180,0.5,0,0,0,15,44,4,34,1,0,26,0.72,0.22,18,0.3,0,72,0.048,0.052
 "Blueberry, Fresh (Topping)",10,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1.8,0,0
 Caribbean Passion Smoothie (Large),420,2,1,0,5,55,101,4,88,3,0,130,2.7,0.22,135,0.6,0,153,0.024,0.026
 Caribbean Passion Smoothie (Medium),330,2,1,0,5,45,80,3,70,2,0,104,1.8,0.22,90,0.6,0,117,0.024,0.026
@@ -41,9 +41,9 @@ Cold Brew Coffee (8 fl oz),15,0,0,0,0,0,3,,0,0,169,0,0,0,,,,0,0,0
 Cold Brew Over Ice + Agave (Large),50,0,0,0,0,15,11,0,5,0,381,26,0,0,0,0,0,0,0,0
 Cold Brew Over Ice + Agave (Medium),45,0,0,0,0,10,10,0,5,0,296,0,0,0,0,0,0,0,0,0
 Cold Brew Over Ice + Agave (Small),45,0,0,0,0,10,9,0,5,0,254,0,0,0,0,0,0,0,0,0
-Cold Brew Over Ice W/Sweet Cloud Whip Foam (Large),110,3.5,3,0,0,25,19,0,8,0,339,78,0,0,72,7.5,0.8,0,0,0.026
-Cold Brew Over Ice W/Sweet Cloud Whip Foam (Medium),100,3.5,3,0,0,20,17,0,8,0,254,78,0,0,72,7.5,0.8,0,0,0.026
-Cold Brew Over Ice W/Sweet Cloud Whip Foam (Small),100,3.5,3,0,0,20,16,0,8,0,212,78,0,0,72,7.5,0.8,0,0,0.026
+Cold Brew Over Ice with Sweet Cloud Whip Foam (Large),110,3.5,3,0,0,25,19,0,8,0,339,78,0,0,72,7.5,0.8,0,0,0.026
+Cold Brew Over Ice with Sweet Cloud Whip Foam (Medium),100,3.5,3,0,0,20,17,0,8,0,254,78,0,0,72,7.5,0.8,0,0,0.026
+Cold Brew Over Ice with Sweet Cloud Whip Foam (Small),100,3.5,3,0,0,20,16,0,8,0,212,78,0,0,72,7.5,0.8,0,0,0.026
 Cold Brew Over Ice (Large),25,0,0,0,0,15,5,0,0,0,338,26,0,0,0,0,0,0,0,0
 Cold Brew Over Ice (Medium),20,0,0,0,0,10,4,0,0,0,253,0,0,0,0,0,0,0,0,0
 Cold Brew Over Ice (Small),15,0,0,0,0,10,3,0,0,0,169,0,0,0,0,0,0,0,0,0
@@ -68,9 +68,9 @@ Ginger Puree Boost,30,0,0,0,0,5,6,1,1,1,0,0,0.36,,0,,0,3.6,,
 Ginger Shot (Rtd),25,0,0,0,0,0,6,0,3,0,0,0,0,0,0,0,,45,0,0
 Gingerbread Smoothie (Large),690,5,3,0,20,430,146,0,132,16,0,780,7.2,0,90,0,0,3.6,0,0
 Gingerbread Smoothie (Medium),510,4,2,0,15,320,107,0,97,12,0,585,5.4,0,72,0,0,3.6,0,0
-"Gingerbread Smoothie, Plant Based W/Syrup (Large)",840,30,23,0,0,300,140,5,100,6,0,585,8.1,0,630,0,7,3.6,0,0.455
-"Gingerbread Smoothie, Plant Based W/Syrup (Medium)",670,24,19,0,0,230,112,4,80,5,0,455,6.3,0,450,0,5,3.6,0,0.325
-"Gingerbread Smoothie, Plant Based W/Syrup (Small)",430,15,11,0,0,160,74,2,54,3,0,260,3.6,0,315,0,3,1.8,0,0.195
+"Gingerbread Smoothie, Plant Based with Syrup (Large)",840,30,23,0,0,300,140,5,100,6,0,585,8.1,0,630,0,7,3.6,0,0.455
+"Gingerbread Smoothie, Plant Based with Syrup (Medium)",670,24,19,0,0,230,112,4,80,5,0,455,6.3,0,450,0,5,3.6,0,0.325
+"Gingerbread Smoothie, Plant Based with Syrup (Small)",430,15,11,0,0,160,74,2,54,3,0,260,3.6,0,315,0,3,1.8,0,0.195
 "Gingerbread Smoothie, Plant Based (Large)",790,30,23,0,0,290,129,5,90,6,0,585,8.1,0,630,0,7,3.6,0,0.455
 "Gingerbread Smoothie, Plant Based (Medium)",630,24,19,0,0,220,101,4,70,5,0,390,6.3,0,450,0,5,3.6,0,0.325
 "Gingerbread Smoothie, Plant Based (Small)",390,15,11,0,0,140,63,2,43,3,0,260,3.6,0,315,0,3,1.8,0,0.195
@@ -82,8 +82,8 @@ Great Greens Juice (Small),140,1,0,0,0,70,33,3,22,4,0,195,2.7,0.66,1260,1.2,0,54
 Greens 'n Ginger Smoothie (Large),380,1.5,0,0,0,40,91,7,77,6,0,195,1.8,0.44,2070,2.25,0,216,0.12,0.13
 Greens 'n Ginger Smoothie (Medium),290,1,0,0,0,30,70,5,60,4,0,130,1.44,0.44,1440,1.5,0,153,0.096,0.104
 Greens 'n Ginger Smoothie (Small),230,1,0,0,0,25,56,4,48,4,0,130,1.08,0.44,1350,1.2,0,144,0.072,0.078
-Honest Tea - Black Tea,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,,,
-Honest Tea - Green Tea,35,0,0,0,0,0,9,0,9,0,0,0,0,,,,0,,,
+Honest Tea (Black Tea),0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,,,
+Honest Tea (Green Tea),35,0,0,0,0,0,9,0,9,0,0,0,0,,,,0,,,
 Honey (Topping),30,0,0,0,0,0,9,0,9,0,0,0,0,0,0,0,0,0,0,0
 Impossible Handwich,220,12,5,0,15,580,16,2,1,11,0,260,1.8,,18,,,1.8,,
 Individually Quick Frozen Bananas (Blue Scoop),45,0,0,0,0,0,11,1,6,1,0,0,0,0,0,0,0,7.2,0,0.026
@@ -128,9 +128,9 @@ Matcha Green Tea (8 fl oz),30,0,0,0,0,10,3,,0,3,276,26,1.8,0,,,,3.6,0,0
 Matcha Over Ice + Agave (Large),90,1,0,0,0,30,13,8,5,6,634,104,3.6,0,6210,0,0,9,0,0
 Matcha Over Ice + Agave (Medium),70,1,0,0,0,20,11,6,5,5,495,78,2.7,0,4860,0,0,7.2,0,0
 Matcha Over Ice + Agave (Small),70,0.5,0,0,0,20,11,5,5,4,420,78,2.7,0,4140,0,0,5.4,0,0
-Matcha Over Ice W/Sweet Cloud Whip Foam (Large),140,4.5,3,0,0,35,20,7,8,6,565,130,3.6,0,5580,7.5,0.8,7.2,0,0.052
-Matcha Over Ice W/Sweet Cloud Whip Foam (Medium),140,5,4,0,0,35,20,6,9,4,425,130,2.7,0,4230,10.5,0.8,5.4,0,0.052
-Matcha Over Ice W/Sweet Cloud Whip Foam (Small),130,5,4,0,0,30,19,5,9,4,350,130,1.8,0,3510,10.5,0.8,5.4,0,0.052
+Matcha Over Ice with Sweet Cloud Whip Foam (Large),140,4.5,3,0,0,35,20,7,8,6,565,130,3.6,0,5580,7.5,0.8,7.2,0,0.052
+Matcha Over Ice with Sweet Cloud Whip Foam (Medium),140,5,4,0,0,35,20,6,9,4,425,130,2.7,0,4230,10.5,0.8,5.4,0,0.052
+Matcha Over Ice with Sweet Cloud Whip Foam (Small),130,5,4,0,0,30,19,5,9,4,350,130,1.8,0,3510,10.5,0.8,5.4,0,0.052
 Matcha Over Ice (Large),60,1,0,0,0,30,7,7,0,5,562,104,3.6,0,5580,0,0,7.2,0,0
 Matcha Over Ice (Medium),45,0.5,0,0,0,20,5,5,0,4,421,78,2.7,0,4140,0,0,5.4,0,0
 Matcha Over Ice (Small),30,0,0,0,0,15,4,4,0,3,281,52,1.44,0,2790,0,0,3.6,0,0
@@ -224,12 +224,12 @@ Protein Berry Workout (Whey) Smoothie (Medium),390,1.5,0.5,0,35,140,71,4,55,22,0
 Protein Berry Workout (Whey) Smoothie (Small),300,1.5,0.5,0,35,110,51,3,40,20,0,130,1.8,0.22,18,0.3,0,63,0.024,0.052
 Pumpkin Bowl With Frozen Yogurt,710,13,5,0,0,190,143,8,95,11,0,195,2.7,0.88,1260,13.5,0,22.5,0.18,0.104
 Pumpkin Bowl With Oatmilk Frozen Dessert,770,22,13,0,0,150,141,9,87,9,0,104,2.7,0.88,1260,13.5,0,22.5,0.18,0.104
-Pumpkin Smash (Plant Based) Smoothie (Large - Original),760,30,23,0,0,250,121,5,84,6,0,585,1.8,0,1890,5.25,8,9,0,0.325
-Pumpkin Smash (Plant Based) Smoothie (Medium - Original),610,25,19,0,0,190,96,4,66,5,0,455,1.44,0,1440,3.75,6,7.2,0,0.26
-Pumpkin Smash (Plant Based) Smoothie (Small - Original),370,15,11,0,0,125,59,2,41,3,0,325,0.72,0,990,2.25,4,3.6,0,0.195
-Pumpkin Smash Classic Smoothie (Large - Original),570,5,3,0,20,360,115,1,106,17,0,780,0.36,0,1350,5.25,0,9,0,0
-Pumpkin Smash Classic Smoothie (Medium - Original),440,4,2.5,0,15,280,90,1,83,13,0,585,0.36,0,990,3.75,0,7.2,0,0
-Pumpkin Smash Classic Smoothie (Small - Original),290,2.5,1.5,0,10,180,59,1,54,8,0,390,0,0,630,2.25,0,3.6,0,0
+Pumpkin Smash (Plant Based) Smoothie (Large, Original),760,30,23,0,0,250,121,5,84,6,0,585,1.8,0,1890,5.25,8,9,0,0.325
+Pumpkin Smash (Plant Based) Smoothie (Medium, Original),610,25,19,0,0,190,96,4,66,5,0,455,1.44,0,1440,3.75,6,7.2,0,0.26
+Pumpkin Smash (Plant Based) Smoothie (Small, Original),370,15,11,0,0,125,59,2,41,3,0,325,0.72,0,990,2.25,4,3.6,0,0.195
+Pumpkin Smash Classic Smoothie (Large, Original),570,5,3,0,20,360,115,1,106,17,0,780,0.36,0,1350,5.25,0,9,0,0
+Pumpkin Smash Classic Smoothie (Medium, Original),440,4,2.5,0,15,280,90,1,83,13,0,585,0.36,0,990,3.75,0,7.2,0,0
+Pumpkin Smash Classic Smoothie (Small, Original),290,2.5,1.5,0,10,180,59,1,54,8,0,390,0,0,630,2.25,0,3.6,0,0
 Purely Carrot Juice (Large),310,2,0,0,0,530,73,21,36,7,0,325,2.7,1.1,22950,3.75,0,63,0.42,0.325
 Purely Carrot Juice (Medium),250,1.5,0,0,0,410,57,17,28,6,0,260,1.8,1.1,18000,3,0,54,0.36,0.26
 Purely Carrot Juice (Small),180,1,0,0,0,300,42,12,21,4,0,195,1.44,0.66,13050,2.25,0,40.5,0.24,0.195
@@ -262,8 +262,8 @@ Soymilk (8 fl oz),150,0,0,0,0,80,29,0,28,5,0,26,1.08,0,0,0,0,0,0,0
 Spinach Boost,5,0,0,0,0,20,1,1,0,1,0,26,0.72,0,405,0.3,0,9,0.024,0.026
 Spring Veggie Egg Bake,200,14,8,0,185,480,8,1,1,10,0,195,1.08,,,,,,,
 Strawberry Flavored Boba Boost,35,0,0,0,0,10,9,0,8,0,0,130,0,0,0,0,0,0,0,0
-Strawberries Gone Bananas Smoothie - 10 Oz.,140,0,0,0,0,10,35,3,26,1,0,26,0.36,0.22,0,0.3,0,81,0.024,0.026
-Strawberries Gone Bananas Smoothie - 12 Oz.,170,0,0,0,0,10,43,4,31,2,0,26,0.72,0.22,18,0.3,0,90,0.024,0.052
+Strawberries Gone Bananas Smoothie (10 oz),140,0,0,0,0,10,35,3,26,1,0,26,0.36,0.22,0,0.3,0,81,0.024,0.026
+Strawberries Gone Bananas Smoothie (12 oz),170,0,0,0,0,10,43,4,31,2,0,26,0.72,0.22,18,0.3,0,90,0.024,0.052
 Strawberries Wild Smoothie (Large),430,0.5,0,0,0,85,102,4,85,6,0,260,0.72,0.22,18,0.3,0,117,0.024,0.052
 Strawberries Wild Smoothie (Medium),320,0,0,0,0,65,77,3,64,5,0,195,0.72,0.22,0,0.3,0,81,0.024,0.052
 Strawberries Wild Smoothie (Small),230,0,0,0,0,45,56,2,47,3,0,130,0.36,0.22,0,0.3,0,54,0.024,0.026
