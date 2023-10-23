@@ -116,7 +116,7 @@ Lemonade (8 fl oz),120,0,0,0,0,0,29,,29,0,0,0,0,0,,,,7.2,0,0
 Lime Sherbet (Blue Scoop),60,0.5,0,0,0,10,12,0,11,0,0,26,0,,,,,,,
 Lime Sherbet (Green Scoop),70,1,0.5,0,5,10,16,0,14,0,0,26,0,,,,,,,
 Lime Sherbet (Red Scoop),35,0,0,0,0,5,8,0,7,0,0,26,0,,,,,,,
-Mango And Passionfruit Flavored Pear Juice Blend (8 fl oz),110,0,0,0,0,15,26,,24,1,0,26,1.08,0,,,,13.5,0,0
+Mango and Passionfruit Flavored Pear Juice Blend (8 fl oz),110,0,0,0,0,15,26,,24,1,0,26,1.08,0,,,,13.5,0,0
 Mango-A-Go-Go Smoothie (Large),510,2,1.5,0,5,60,123,4,110,2,0,130,1.8,0,1350,1.5,0,117,0.096,0.078
 Mango-A-Go-Go Smoothie (Medium),390,2,1,0,5,45,96,3,85,2,0,104,1.44,0,1170,1.2,0,90,0.072,0.078
 Mango-A-Go-Go Smoothie (Small),290,1,0.5,0,5,35,70,2,63,1,0,78,1.44,0,810,0.9,0,63,0.048,0.052
@@ -332,10 +332,10 @@ Vitacoco Original Coconut Water,45,0,0,0,0,35,11,0,10,0,,52,0,,,,,54,,
 Vitacoco Pressed Coconut Water,60,1.5,1,0,0,30,11,0,10,0,,52,0,,,,,99,,
 Chocolate Moo'd Powder (Soy Scoop),60,0,0,0,0,15,15,1,14,1,,26,0.36,,0,,0,,,
 Southwest Style Turkey Sausage Wrap,370,15,5,0,30,480,38,3,4,22,0,195,2.7,,,,,,,
-Ham (Egg And Swiss On Mini Sprouted Grain Bistro Bun Sandwich),200,9,3.5,0,100,580,14,1,2,13,0,195,1.08,,,,,,,
+Ham (Egg and Swiss on Mini Sprouted Grain Bistro Bun Sandwich),200,9,3.5,0,100,580,14,1,2,13,0,195,1.08,,,,,,,
 "Feta, Spinach, Tomto (Egg White Bake)",200,13,7,9,35,440,9,1,2,12,0,195,1.08,,,,,,,
-Classic Breakfast Sandwich On Multigrain Ciabatta Bun,410,25,9,0,115,660,30,3,1,15,--,195,1.8,,,,,,,
-Impossible Vegetarian Breakfast Sandwich On Multigrain Ciabatta Bun,330,15,6,0,15,720,33,4,0,15,--,260,2.7,,,,,,,
+Classic Breakfast Sandwich on Multigrain Ciabatta Bun,410,25,9,0,115,660,30,3,1,15,,195,1.8,,,,,,,
+Impossible Vegetarian Breakfast Sandwich on Multigrain Ciabatta Bun,330,15,6,0,15,720,33,4,0,15,,260,2.7,,,,,,,
 Tango Oasis Smoothie (Large),470,2,1,0,5,70,112,3,97,2,0,130,1.8,0.22,810,1.2,0,99,0.072,0.052
 Tango Oasis Smoothie (Medium),360,1.5,1,0,5,50,85,3,74,2,0,104,1.44,0,720,0.9,0,81,0.048,0.052
 Tango Oasis Breeze Smoothie (Small),250,1,0.5,0,5,40,61,2,53,1,0,78,1.08,0,450,0.6,0,54,0.024,0.026
