@@ -1,0 +1,62 @@
+Name,Serving Size (g),Serving Size (mL),Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Sugars (g),Protein (g)
+Hamburger,208,,360,16,4.5,0,35,660,37,2,8,16
+Hamburger (Mustard & Ketchup),201,,300,9,3.5,0,35,610,37,2,8,16
+Hamburger (Protein Style),181,,200,14,4.5,0,35,390,8,2,5,12
+Cheeseburger,229,,430,21,8,0,55,1070,39,2,8,20
+Cheeseburger (Mustard & Ketchup),222,,370,15,7,0,55,1020,39,2,9,19
+Cheeseburger (Protein Style),202,,270,19,8,0,55,800,10,2,6,16
+Double-Double,286,,610,34,15,0,110,1660,41,2,8,34
+Double-Double (Mustard & Ketchup),279,,550,27,14,0,105,1600,41,2,9,34
+Double-Double (Protein Style),259,,450,32,15,0,110,1380,12,2,6,30
+French Fries,125,,360,15,1.5,0,0,150,49,6,0,6
+Chocolate Shake,,444,610,30,19,1,110,370,74,0,61,16
+Vanilla Shake,,444,590,31,20,1,115,360,66,0,55,16
+Strawberry Shake,,444,610,30,19,1,110,350,74,0,63,15
+Coca-Cola,,325,130,0,0,0,0,35,37,0,37,0
+Coca-Cola,,444,190,0,0,0,0,50,50,0,50,0
+Coca-Cola,,651,270,0,0,0,0,75,74,0,74,0
+Coca-Cola,,858,350,0,0,0,0,95,97,0,97,0
+Diet Coke,,325,0,0,0,0,0,45,0,0,0,0
+Diet Coke,,444,0,0,0,0,0,60,0,0,0,0
+Diet Coke,,651,0,0,0,0,0,90,1,0,0,0
+Diet Coke,,858,0,0,0,0,0,115,1,0,0,0
+Cherry Coke,,325,140,0,0,0,0,40,38,0,38,0
+Cherry Coke,,444,190,0,0,0,0,50,52,0,52,0
+Cherry Coke,,651,280,0,0,0,0,75,77,0,77,0
+Cherry Coke,,858,360,0,0,0,0,100,101,0,101,0
+7-Up,,325,130,0,0,0,0,45,35,0,35,0
+7-Up,,444,180,0,0,0,0,65,48,0,48,0
+7-Up,,651,260,0,0,0,0,95,71,0,70,0
+7-Up,,858,340,0,0,0,0,120,93,0,92,0
+Dr Pepper,,325,130,0,0,0,0,40,36,0,35,0
+Dr Pepper,,444,180,0,0,0,0,55,49,0,48,0
+Dr Pepper,,651,260,0,0,0,0,80,72,0,70,0
+Dr Pepper,,858,350,0,0,0,0,105,94,0,93,0
+Barq's Root Beer,,325,150,0,0,0,0,65,37,0,37,0
+Barq's Root Beer,,444,210,0,0,0,0,85,50,0,50,0
+Barq's Root Beer,,651,300,0,0,0,0,125,74,0,74,0
+Barq's Root Beer,,858,400,0,0,0,0,170,97,0,97,0
+Barq's Caffeine Free Root Beer,,325,150,0,0,0,0,65,40,0,40,0
+Barq's Caffeine Free Root Beer,,444,210,0,0,0,0,85,54,0,54,0
+Barq's Caffeine Free Root Beer,,651,300,0,0,0,0,125,80,0,80,0
+Barq's Caffeine Free Root Beer,,858,400,0,0,0,0,160,105,0,105,0
+Signature Pink Lemonade,,325,150,0,0,0,0,20,37,0,35,0
+Signature Pink Lemonade,,444,210,0,0,0,0,30,51,0,47,0
+Signature Pink Lemonade,,651,300,0,0,0,0,40,75,0,69,0
+Signature Pink Lemonade,,858,400,0,0,0,0,55,99,0,91,0
+Lite Pink Lemonade,,325,5,0,0,0,0,25,3,0,0,0
+Lite Pink Lemonade,,444,10,0,0,0,0,35,4,0,0,0
+Lite Pink Lemonade,,651,15,0,0,0,0,50,5,0,0,0
+Lite Pink Lemonade,,858,15,0,0,0,0,65,7,0,0,0
+Unsweetened Iced Tea,,177,0,0,0,0,0,0,0,0,0,0
+Unsweetened Iced Tea,,266,0,0,0,0,0,0,0,0,0,0
+Unsweetened Iced Tea,,414,0,0,0,0,0,0,0,0,0,0
+Unsweetened Iced Tea,,562,0,0,0,0,0,0,0,0,0,0
+Sweet Iced Tea,,177,90,0,0,0,0,0,21,0,21,0
+Sweet Iced Tea,,266,120,0,0,0,0,0,32,0,32,0
+Sweet Iced Tea,,414,180,0,0,0,0,0,50,0,50,0
+Sweet Iced Tea,,562,260,0,0,0,0,0,67,0,67,0
+Coffee,,444,0,0,0,0,0,10,0,0,0,0
+Hot Cocoa,,237,30,3,2.5,0,0,240,33,2,29,2
+Hot Cocoa (with Marshmallows),,237,180,3,2.5,0,0,240,33,2,34,2
+Milk,,296,150,6,3.5,0,25,160,15,0,15,10
