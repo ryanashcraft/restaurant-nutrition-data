@@ -1,0 +1,143 @@
+Name,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Carbohydrates (g),Fiber (g),Sugars (g),Protein (g)
+Calamari,670,42,3.5,0,300,1600,48,2,3,24
+Calamari with Marinara,705,44,3.5,0,300,1920,52,3,5,25
+Calamari with Spicy Ranch,910,68,8,0,315,2340,50,2,4,25
+Shrimp Fritto Misto,1280,79,5,0,240,5010,101,9,9,41
+Shrimp Fritto Misto with Marinara,1315,81,5,0,240,5330,105,10,11,42
+Shrimp Fritto Misto with Spicy Ranch,1520,105,9.5,0,255,5750,103,9,10,42
+Fried Mozzarella,800,49,17,0,65,1990,57,4,3,33
+Fried Mozzarella with Marinara,835,51,17,0,65,2310,61,5,5,34
+Lasagna Fritta,1130,76,31,1.5,185,1800,75,5,6,39
+Meatballs Parmigiana,1040,83,40,3.5,145,2800,27,6,5,51
+Spinach-Artichoke Dip with flatbread crisps,1160,81,21,1,70,2440,75,7,8,33
+Stuffed Ziti Fritta,500,26,11,0,60,1040,40,3,1,27
+Stuffed Ziti Fritta with Alfredo,720,48,25,0.5,130,1340,43,3,2,31
+Stuffed Ziti Fritta with Marinara,535,28,11,0,60,1360,44,4,3,28
+Toasted Ravioli,650,31,10,0,45,1330,69,4,5,25
+Toasted Ravioli with Marinara,685,33,10,0,45,1650,73,5,7,26
+Alfredo Dipping Sauce for Breadsticks,440,43,27,1,140,600,5,0,1,8
+Alfredo Dipping Sauce for Breadsticks (Large),870,87,54,2,285,1200,11,0,2,15
+Five Cheese Marinara Dipping Sauce for Breadsticks,200,17,9,0.5,40,650,9,1,5,5
+Five Cheese Marinara Dipping Sauce for Breadsticks (Large),400,33,17,1,80,1300,17,3,10,11
+Marinara Dipping Sauce for Breadsticks,70,4.5,0,0,0,640,8,2,5,2
+Marinara Dipping Sauce for Breadsticks (Large),150,9,0.5,0,0,1280,17,4,10,4
+Breadstick with Garlic Topping (1 Each),140,2.5,0.5,0,0,460,25,1,1,4
+"Breadstick, Plain (1 Each)",130,1,0,0,0,280,25,1,2,4
+Chicken & Gnocchi Soup,230,12,4.5,0,55,1290,22,1,4,11
+Minestrone Soup,110,1,0,0,0,810,17,4,4,5
+Pasta Fagioli Soup,150,5,2,0,15,710,16,3,4,8
+Zuppa Toscana Soup,220,15,7,0,40,790,15,2,2,7
+Stellini Soup (Regional),200,7,2.5,0,20,1240,22,1,2,9
+Salad with Signature Italian Dressing,150,10,1.5,0,5,770,13,2,4,3
+Salad without Dressing,70,2,0,0,0,250,11,2,2,2
+Italian Dressing (1 fl oz),80,8,1.5,0,5,520,2,0,2,0
+Low-Fat Italian Dressing (1 fl oz),30,2,0,0,5,410,2,0,2,0
+Angel Hair (Create Your Own Pasta),350,2.5,0,0,0,10,67,3,2,12
+Gluten-Free Rotini (Create Your Own Pasta),380,3.5,0,0,100,260,77,5,0,9
+Rigatoni (Create Your Own Pasta),440,6,0.5,0,0,10,83,3,5,14
+Spaghetti (Create Your Own Pasta),340,3.5,0,0,0,10,67,3,4,12
+Creamy Mushroom Sauce (Create Your Own Pasta),860,87,54,2,250,1090,13,0,7,10
+Five Cheese Marinara (Create Your Own Pasta),400,33,17,1,80,1300,17,3,10,11
+Marinara (Create Your Own Pasta),150,9,0.5,0,0,1280,17,4,10,4
+Meat Sauce (Create Your Own Pasta),300,19,7,0,60,1040,19,2,13,14
+Crispy Chicken Fritta (Create Your Own Pasta),240,12,1.5,0,50,730,14,1,1,20
+Grilled Chicken (Create Your Own Pasta),130,2.5,0.5,0,75,540,1,0,0,26
+Italian Sausage (2 Links) (Create Your Own Pasta),470,39,14,0,115,1140,2,1,2,27
+Meatballs (3) (Create Your Own Pasta),480,40,19,2,65,1060,7,3,0,23
+Sauteed Shrimp (Create Your Own Pasta),170,3.5,0,0,245,410,1,1,0,33
+Broccoli (Create Your Own Pasta),150,13,1,0,0,220,8,3,2,4
+Cheese Ravioli with Marinara Sauce (Lunch-Sized),440,22,11,0,75,1330,38,3,4,25
+Cheese Ravioli with Meat Sauce (Lunch-Sized),500,26,14,0,100,1240,39,2,6,29
+Chicken Parmigiana (Lunch-Sized),630,29,7,0,75,1970,61,5,10,36
+Eggplant Parmigiana (Lunch-Sized),660,32,7,0,30,1540,75,7,13,21
+Fettuccine Alfredo (Lunch-Sized),650,45,27,1,140,610,47,2,3,15
+Fettuccine Alfredo with Broccoli (Lunch-Sized),780,57,28,1,140,810,51,4,4,17
+Five Cheese Ziti al Forno (Lunch-Sized),630,35,18,0.5,85,1220,57,4,9,24
+Lasagna Classico (Lunch-Sized),500,30,16,0.5,105,1290,33,3,7,29
+Shrimp Scampi (Lunch-Sized),460,18,7,0,100,1020,52,4,5,20
+Spaghetti with Marinara Sauce (Lunch-Sized),290,6,0,0,0,650,50,4,7,9
+Spaghetti with Meat Sauce (Lunch-Sized),360,12,3.5,0,30,530,51,3,9,14
+Spaghetti with Meat Sauce & Meatballs (Lunch-Sized),680,38,17,1.5,75,1230,56,4,9,30
+Cheese Ravioli with Marinara Sauce,750,38,19,0,125,2370,63,5,8,41
+Cheese Ravioli with Meat Sauce,860,46,24,0,170,2190,65,4,11,50
+Chicken & Shrimp Carbonara,1370,91,47,2.5,390,2050,75,3,10,64
+Chicken Alfredo with Crispy Chicken Fritta,1790,114,57,2,385,2670,123,6,7,70
+Chicken Alfredo with Broccoli and Crispy Chicken Fritta,1940,127,58,2,385,2890,131,9,9,74
+Chicken Alfredo with Grilled Chicken,1570,95,56,2,430,2290,96,5,6,81
+Chicken Alfredo with Broccoli and Grilled Chicken,1720,108,57,2,430,2510,104,8,8,85
+Chicken Marsala Fettuccine,1400,77,36,2,225,2580,112,4,12,55
+Chicken Parmigiana,1020,51,14,0,155,3300,80,7,13,64
+Chicken Scampi,1050,45,16,1,130,2470,106,5,8,49
+Chicken Tortelloni Alfredo,1980,131,76,2.5,650,3720,95,5,9,112
+Eggplant Parmigiana,1070,58,14,0,60,2440,108,11,20,35
+Fettuccine Alfredo,1310,90,55,2,285,1210,95,4,5,30
+Fettuccine Alfredo with Broccoli,1460,103,56,2,285,1430,103,7,7,34
+Five Cheese Ziti al Forno,1170,69,36,1.5,170,2440,98,6,16,46
+Grilled Chicken Margherita,650,39,11,0,185,2120,15,5,5,65
+Herb-Grilled Salmon,610,45,11,0,130,1360,9,4,3,45
+Herb-Grilled Salmon Coho (Regional),510,31,9,0,130,1020,9,4,2,50
+Lasagna Classico,940,55,30,1,200,2260,61,6,11,54
+Ravioli Carbonara,1390,104,63,2.5,325,2660,63,3,6,53
+Seafood Alfredo,1450,93,55,2,435,1690,97,4,5,56
+Shrimp Alfredo,1470,93,55,2,525,1620,96,4,6,63
+Shrimp Scampi,490,18,7,0.5,165,1120,52,4,5,29
+Spaghetti with Marinara,490,12,1,0,0,1290,83,6,13,15
+Spaghetti with Meat Sauce,640,22,7,0,60,1050,85,4,17,26
+Spaghetti with Meat Sauce & Meatballs (3),1120,62,27,2.5,130,2110,92,7,17,49
+Spaghetti with Meat Sauce & Sausage (2),1110,62,21,0,180,2190,87,5,19,52
+Tour of Italy,1550,97,50,1.5,325,3220,99,7,12,72
+6 oz. Sirloin,980,62,36,2,275,1840,49,2,3,57
+Meatballs (3),480,40,19,2,65,1060,7,3,0,23
+Grilled Chicken,130,2.5,0.5,0,75,540,1,0,0,26
+Parmesan Garlic Broccoli,150,13,1,0,0,450,8,3,2,5
+Black Tie Mousse Cake,750,50,30,1,155,290,76,4,59,9
+New Chocolate Lasagna,980,58,27,0,140,630,116,6,86,13
+Sicilian Cheesecake with Strawberry Topping,730,42,26,1.5,155,450,78,2,63,12
+Strawberry Cream Cake,540,26,17,0.5,170,370,69,2,47,9
+Tiramisu,470,27,17,0,215,125,54,0,35,6
+Warm Italian Doughnuts,810,28,3.5,0,0,510,119,6,25,20
+Warm Italian Doughnuts with Chocolate Sauce,1030,31,5.5,0,10,620,167,7,67,22
+Warm Italian Doughnuts with Raspberry Sauce,1020,28,3.5,0,0,520,170,6,60,20
+Mint candy (1 Each),25,1.5,1.5,0,0,0,3,0,2,0
+"Fettuccine (Kid's Menu, Create Your Own Pasta)",220,1.5,0,0,0,5,42,2,2,7
+"Small Shells (Kid's Menu, Create Your Own Pasta)",210,2,0,0,0,5,42,2,2,7
+"Spaghetti (Kid's Menu, Create Your Own Pasta)",170,1.5,0,0,0,5,33,1,2,6
+"Alfredo Sauce (Kid's Menu, Create Your Own Pasta)",440,43,27,1,140,600,5,0,1,8
+"Meat Sauce (Kid's Menu, Create Your Own Pasta)",110,7,2.5,0,25,390,7,1,5,5
+"Tomato Sauce (Kid's Menu, Create Your Own Pasta)",80,5,0.5,0,0,420,8,1,5,1
+"Grilled Chicken (Kid's Menu, Create Your Own Pasta)",130,2.5,0.5,0,75,540,1,0,0,26
+"Crispy Chicken Fritta (Kid's Menu, Create Your Own Pasta)",240,12,1.5,0,50,730,14,1,1,20
+"Meatball (Kid's Menu, Create Your Own Pasta)",160,13,6,0.5,20,350,2,1,0,8
+"Shrimp (Kid's Menu, Create Your Own Pasta)",45,0,0,0,75,130,0,0,0,10
+Cheese Ravioli (Kid's Menu),340,16,8,0,50,980,33,3,6,17
+Cheese Pizza (Kid's Menu),400,13,7,0,25,720,54,3,4,17
+Cheese Pizza with Pepperoni (Kid's Menu),460,18,9,0,40,930,54,3,4,19
+Chicken Fingers (Kid's Menu),300,15,1.5,0,65,580,15,0,0,25
+Macaroni & Cheese (Kid's Menu),360,14,8,0,40,870,45,2,6,16
+Grapes (Kid's Menu),40,0,0,0,0,0,11,1,9,0
+Parmesan Garlic Broccoli (Kid's Menu),150,13,1,0,0,450,8,3,2,5
+French Fries (Kid's Menu),290,14,1,0,0,310,37,5,0,5
+French Fries with Ketchup (Kid's Menu),370,14,1,0,0,950,57,6,16,6
+Spaghetti with Tomato Sauce (Kid's Menu),180,4.5,0.5,0,0,290,30,2,5,5
+"Smoothie, Strawberry (Kid's Menu)",220,0,0,0,0,0,60,0,55,0
+"Smoothie, Peach (Kid's Menu)",190,0,0,0,0,10,49,0,47,0
+Zuppa Toscana Soup (Gluten Sensitive),220,15,7,0,40,790,15,2,2,7
+Salad without Croutons (Gluten Sensitive),110,8,1.5,0,5,670,7,2,3,2
+6 oz. Tuscan Sirloin (Gluten Sensitive),480,30,10,1,135,1680,9,4,2,46
+Grilled Chicken Parmigiana with Rotini  (Gluten Sensitive)& Marinara,810,33,13,0,250,3040,59,7,10,75
+Herb-Grilled Salmon (Gluten Sensitive),610,45,11,0,130,1360,9,4,3,45
+Herb-Grilled Salmon Coho (Gluten Sensitive),510,31,9,0,130,1020,9,4,2,50
+Rotini Pasta with Marinara (Gluten Sensitive),530,12,0.5,0,100,1530,94,8,10,13
+Rotini Pasta with Meat Sauce (Gluten Sensitive),680,22,7,0,160,1300,96,6,13,23
+Kids Grilled Chicken with Rotini Pasta & Marinara (Gluten Sensitive),430,9,1,0,120,1310,58,5,14,33
+Kids Rotini Pasta with Marinara (Gluten Sensitive),260,6,0,0,50,770,47,4,5,6
+Kids Rotini Pasta with Meat Sauce (Gluten Sensitive),340,11,3.5,0,80,650,48,3,7,12
+Fettuccine Alfredo (To-Go),1010,56,34,1.5,155,850,97,7,5,30
+Five Cheese Ziti al Forno (To-Go),940,52,27,1,125,1820,89,6,14,36
+Spaghetti with Meat Sauce (To-Go),640,22,7,0,60,1050,85,4,17,26
+Famous House Salad (To-Go),290,17,2.5,0,10,1380,30,6,10,8
+"Chicken & Gnocchi (To-Go, Per One Serving, Serves Two)",230,12,4.5,0,55,1290,22,1,4,11
+"Minestrone (To-Go, Per One Serving, Serves Two)",110,1,0,0,0,810,17,4,4,5
+"Pasta Fagioli (To-Go, Per One Serving, Serves Two)",150,5,2,0,15,710,16,3,4,8
+"Zuppa Toscana (To-Go, Per One Serving, Serves Two)",220,15,7,0,40,790,15,2,2,7
+"Stellini Soup (To-Go, Per One Serving, Serves Two)",200,7,2.5,0,20,1240,22,1,2,9
